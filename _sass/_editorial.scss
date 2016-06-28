@@ -1,4 +1,27 @@
-body.editorial .editorial__content {
+.editorial {
+  @include clearfix();
+  height: 100%;
+}
+
+.editorial__sidebar {
+  float: left;
+  height: 100%;
+  max-width: 100px;
+  width: 20%;
+}
+
+.editorial__content {
+  float: left;
+  height: 100%;
+  width: 80%;
+  padding-bottom: 70vh;
+}
+
+.editorial__content__inner {
+  max-width: 700px;
+}
+
+.editorial__content {
   font-size: 18px;
   position: relative;
   padding-bottom: 70vh;
