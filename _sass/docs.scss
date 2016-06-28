@@ -12,7 +12,7 @@
 @import 'nav';
 
 // other
-@import 'content';
+@import 'editorial';
 // @import 'docsearch';
 // @import 'syntax';
 @import 'print';
@@ -49,29 +49,4 @@
   overflow-y: auto;
   position: relative;
   padding: 40px;
-}
-
-// editorial stylecontent layout
-
-.editorial {
-  @include clearfix();
-  height: 100%;
-}
-
-.editorial__sidebar {
-  float: left;
-  height: 100%;
-  max-width: 100px;
-  width: 20%;
-}
-
-.editorial__content {
-  float: left;
-  height: 100%;
-  width: 80%;
-  padding-bottom: 70vh;
-}
-
-.editorial__content__inner {
-  max-width: 700px;
 }
