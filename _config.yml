@@ -1,0 +1,17 @@
+title: Middlebury Styleguide
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "README.md"]
+
+markdown: kramdown
+highlighter: rouge
+
+baseurl: "/styleguide"
+
+kramdown:
+  auto_ids: true
+  toc_levels: 2..6
+
+permalink: pretty
+
+collections:
+- editorial

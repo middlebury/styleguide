@@ -1,0 +1,8 @@
+scss_files: 'main.scss'
+
+exclude: 'vendor/**'
+
+linters:
+  Indentation:
+  severity: warning
+  width: 4

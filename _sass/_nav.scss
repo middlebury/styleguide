@@ -1,0 +1,66 @@
+#editorial-nav {
+  padding-left: -15px;
+  overflow-y: auto;
+  padding-top: 20px;
+
+  &.affix {
+    @include media(md) {
+      position: fixed;
+      top: 10px;
+    }
+  }
+
+  &.scrolling .active a {
+    padding-left: inherit;
+    padding-right: inherit;
+    color: inherit;
+    background-color: inherit;
+  }
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-blocks {
+  @include clearfix();
+
+  li {
+    float: left;
+
+    @include media(md) {
+      display: block;
+      float: none;
+    }
+  }
+
+  a {
+    display: inline-block;
+    min-width: 40px;
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 1px solid #efefef;
+    transition: .2s;
+
+    &:hover {
+      background-color: #efefef;
+      text-decoration: none;
+    }
+
+    &:not(:last-child) {
+      margin-top: -1px;
+    }
+  }
+
+  .active a {
+    background-color: $brand-primary;
+    color: $white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

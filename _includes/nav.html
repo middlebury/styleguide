@@ -1,0 +1,16 @@
+<nav class="nav">
+  <ul>
+    {% for nav in site.data.nav %}
+      <li class="{% if page.url contains nav.url %}active{% endif %}">
+        <a href="{{nav.url}}">{{nav.title}}</a>
+        <ul>
+          {% for subitem in nav.subitems %}
+            <li class="{% if page.url contains subitem.url %}active{% endif %}">
+              <a href="{{ site.baseurl }}{{ subitem.url }}">{{ subitem.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

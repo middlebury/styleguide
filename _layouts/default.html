@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="stylesheet" href="{{ "/css/docs.css" | prepend: site.baseurl }}">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css" /> -->
+  </head>
+  <body class="{{page.bodyclass}}">
+
+    <div class="container">
+      {% include sidebar.html %}
+      <div class="main">
+        {{content}}
+      </div>
+    </div>
+
+    <script src="{{site.baseurl}}/js/vendor/jquery.min.js"></script>
+    <script src="{{site.baseurl}}/js/vendor/affix.js"></script>
+    <script src="{{site.baseurl}}/js/vendor/scrollspy.js"></script>
+    <script src="{{site.baseurl}}/js/main.js"></script>
+    <!-- https://community.algolia.com/docsearch/documentation/ -->
+    <!-- <script src="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.js"></script> -->
+    <!-- <script>
+      docsearch({
+        apiKey: 'c1b21d73c5776250d1b6ba66a00dbbc7',
+        indexName: 'middlebury',
+        inputSelector: '#search'
+      });
+    </script> -->
+  </body>
+</html>
