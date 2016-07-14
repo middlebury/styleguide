@@ -5,3 +5,5 @@ bower_components
 .publish
 site/js/vendor
 site/.jekyll-metadata
+
+.jekyll-metadata
