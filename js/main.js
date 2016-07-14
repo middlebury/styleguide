@@ -4,7 +4,7 @@
 
     var $nav = $('#editorial-nav');
 
-    var $scrollContainer = $('.main');
+    var $scrollContainer = $('.content');
 
     $scrollContainer
       .scrollspy({ target: '#editorial-nav' })
@@ -28,6 +28,40 @@
       }
     });
 
+
+    /**
+     * set up markjs for search and keyword highlighting
+     */
+    var $searchInput = $('.search input[name="keyword"]');
+    var $context = $('.js-mark-context');
+
+    var mark = function() {
+      var keyword = $searchInput.val();
+
+      $context.unmark();
+
+      var options = {
+        done: function() {
+          $context.find('section').not(':has(mark)').hide();
+
+          // scroll first mark into view
+          document.querySelector('mark').scrollIntoView()
+        }
+      };
+
+      $context.find('section').show();
+
+      if(keyword) {
+        $context.mark(keyword, options);
+      }
+
+    }
+
+    // bind mark func to search input
+    $searchInput.on('input', mark);
+
+
+
     // $nav.find('a').on('click', function() {
     //   var href = $(this).attr('href');
     //
@@ -39,7 +73,7 @@
     //     $nav.removeClass('scrolling');
     //   });
     // });
-    // 
+    //
   });
 
 })(jQuery);

@@ -1,0 +1,23 @@
+{
+  "name": "middstyleguide",
+  "version": "0.0.0",
+  "homepage": "https://github.com/middlebury/styleguide",
+  "authors": [
+    "Zeb Pykosz <zeb.apy@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mark.js": "~7.0.2"
+  }
+}

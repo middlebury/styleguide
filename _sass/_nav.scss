@@ -6,7 +6,7 @@
   &.affix {
     @include media(md) {
       position: fixed;
-      top: 10px;
+      // top: 10px;
     }
   }
 
