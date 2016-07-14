@@ -3,6 +3,8 @@ layout: default
 bodyclass: editorial
 ---
 
+<div id="top"></div>
+
 <div class="editorial">
 
   <div class="editorial__sidebar">
@@ -23,19 +25,21 @@ bodyclass: editorial
     <div class="editorial__content__inner">
 
       <h1>{{page.title}}</h1>
+
       {{ content }}
+
       {% for section in site.editorial %}
-        <div class="editorial__section">
-          <h2 id="{{ section.title | slugify }}">{{ section.title | upcase }}</h2>
+        <section class="editorial__section" id="{{ section.title | slugify }}">
+          <header class="editorial__section-header">
+            <h2 class="editorial__section-title">{{ section.title | upcase }}</h2>
+            <a href="#top" class="editorial__to-top-link">Back to top</a>
+          </header>
           {{ section.content }}
-        </div>
+        </section>
       {% endfor %}
 
     </div>
 
-    <!-- {% include footer.html %} -->
-
-    <a href="#" class="surfacer">Back to top</a>
   </div>
 
 </div>

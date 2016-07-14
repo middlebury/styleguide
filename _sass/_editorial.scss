@@ -21,6 +21,30 @@
   max-width: 700px;
 }
 
+.editorial__section {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-top: 1px solid #eaeaea;
+}
+
+.editorial__section-header {
+  @include clearfix();
+  padding: 20px 0;
+}
+
+.editorial__section-title {
+  float: left;
+  font-size: 48px;
+  font-weight: normal;
+  color: #000;
+  margin: 0;
+}
+
+.editorial__to-top-link {
+  float: right;
+  font-size: 14px;
+}
+
 .editorial__content {
   font-size: 18px;
   position: relative;
@@ -28,17 +52,6 @@
 
   p {
     color: #333
-  }
-
-  h2 {
-    font-size: 48px;
-    font-weight: normal;
-    color: #000;
-
-    &:not(:first-child) {
-      border-top: 1px solid lightgray;
-      padding-top: 50px;
-    }
   }
 
   h3 {
