@@ -59,4 +59,33 @@
   h3 {
     page-break-after: avoid;
   }
+
+  .editorial__section {
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+
+  .container {
+    height: 100%;
+  }
+
+  .main,
+  .editorial__content {
+    float: none;
+    width: 100%;
+  }
+
+  .sidebar,
+  .editorial__sidebar {
+    display: none;
+  }
+
+  code {
+    border-bottom: 0 !important;
+    padding: 0 !important;
+  }
+
+  .editorial__section {
+    page-break-inside: avoid;
+  }
 }

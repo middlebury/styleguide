@@ -15,7 +15,6 @@
 @import 'editorial';
 // @import 'docsearch';
 // @import 'syntax';
-@import 'print';
 
 .container {
   height: 100vh;
@@ -50,3 +49,7 @@
   position: relative;
   padding: 40px;
 }
+
+
+
+@import 'print';
