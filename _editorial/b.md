@@ -46,7 +46,7 @@ In choosing photos for your project, try to include a variety that demonstrates 
 - Bread Loaf Orion Environmental Writers’ Conference
 - Bread Loaf Translators’ Conference
 
-**breaks** (not capped)
+**breaks** (not capped)  
 October recess  
 Thanksgiving break  
 holiday break  
