@@ -43,9 +43,9 @@ In choosing photos for your project, try to include a variety that demonstrates 
 
 **Bread Loaf Writers’ Conferences** (officially Middlebury Bread Loaf Writers’ Conferences)
 
-- Bread Loaf Writers’ Conference
-- Bread Loaf Orion Environmental Writers’ Conference
-- Bread Loaf Translators’ Conference
+* Bread Loaf Writers’ Conference
+* Bread Loaf Orion Environmental Writers’ Conference
+* Bread Loaf Translators’ Conference
 
 **breaks** (not capped)  
 October recess  
