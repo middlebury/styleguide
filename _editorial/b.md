@@ -1,8 +1,13 @@
 ---
 title: b
+published: true
 ---
 
-**B** (when referring to a grade, no quotation marks); grades of B or Bs BA, Bachelor of Arts, Bachelor of Arts degree, bachelor’s degree Baccalaureate
+**B** (when referring to a grade, no quotation marks); grades of B or Bs 
+
+**BA**, Bachelor of Arts, Bachelor of Arts degree, bachelor’s degree 
+
+**Baccalaureate**          
 
 **bandmate** (one word)
 
@@ -24,11 +29,15 @@ In choosing photos for your project, try to include a variety that demonstrates 
 
 **biblical**
 
-**black** (Common designations of ethnic groups by color are usually lowercased unless a particular publisher or author prefers otherwise.)
+**black** (Common designations of ethnic groups by color are usually lowercased unless a particular publisher or author prefers otherwise)
 
 **Board of Trustees**, the board, the trustees
 
 **Board of Overseers** (three total—College, Institute, Schools)
+
+**Box Office**
+
+**bookstore; College Bookstore; Middlebury College Bookstore** (official name)
 
 **Bread Loaf School of English** (officially Middlebury Bread Loaf School of English)
 
@@ -36,3 +45,10 @@ In choosing photos for your project, try to include a variety that demonstrates 
 - Bread Loaf Writers’ Conference
 - Bread Loaf Orion Environmental Writers’ Conference
 - Bread Loaf Translators’ Conference
+
+**breaks** (not capped)  
+October recess  
+Thanksgiving break  
+holiday break  
+winter break  
+spring break
