@@ -47,8 +47,8 @@ In choosing photos for your project, try to include a variety that demonstrates 
 - Bread Loaf Translators’ Conference
 
 **breaks** (not capped)
-October recess
-Thanksgiving break
-holiday break
-winter break
+October recess  
+Thanksgiving break  
+holiday break  
+winter break  
 spring break
