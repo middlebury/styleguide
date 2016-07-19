@@ -1,11 +1,15 @@
 ---
 title: c
+published: true
 ---
 
-**C** (when referring to a grade, no quotation marks); grades of C or Cs café, also cafe
-campuswide (no hyphen with suffix –wide unless the word is capped: collegewide, statewide, worldwide but College-wide for undergraduate, Institute-wide for Monterey)
+**C** (when referring to a grade, no quotation marks); grades of C or Cs 
 
-**capitalization** (Capitalize only formal or specific names. When in doubt, use lower case, especially with a word’s meaning is generic.)
+**café**, also cafe
+
+**campuswide** (no hyphen with suffix –wide unless the word is capped: collegewide, statewide, worldwide but College-wide for undergraduate, Institute-wide for Monterey)
+
+**capitalization** (Capitalize only formal or specific names. When in doubt, use lowercase, especially with a word’s meaning is generic.)
 See **titles** for rules about professional and academic titles.
 
 Names, associations, conferences, and official policies:
