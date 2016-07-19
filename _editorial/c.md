@@ -14,13 +14,13 @@ See **titles** for rules about professional and academic titles.
 
 Names, associations, conferences, and official policies:
 
-As a rule, official names are capitalized. Unofficial or shortened names are not. This applies to offices, buildings, departments and programs, as well as to committees and boards, symposia, conferences, course titles, forms, applications, and so on. For example, the Board of Trustees is shortened to the board. The Residential Life Committee becomes the committee. The Department of French—the French department; Middlebury College Museum of Art—the museum; the Common Application for Admission—admission application.
+As a rule, official names are capitalized. Unofficial or shortened names are not. This applies to offices, buildings, and programs, as well as to committees and boards, symposia, conferences, course titles, forms, applications, and so on. For example, the Board of Trustees is shortened to the board. The Residential Life Committee becomes the committee. The Middlebury College Museum of Art—the museum; the Common Application for Admission—admission application; Language Schools—the schools.
 
-Exceptions: Exceptions may sometimes be made to avoid confusion or because the shortened, generic term has become a proper name in its own right.
+Exceptions: Exceptions may sometimes be made to avoid confusion or because the shortened, generic term has become a proper name in its own right:References to Middlebury’s undergraduate school, when shortened, are capped—College; Middlebury Institute of International Studies when shortened is the Institute.
 
-References to Middlebury’s undergraduate school, when shortened, are capped—College; Middlebury Institute of International Studies when shortened is the Institute.
+Names of departments are always capped: The Department of French; the French Department.
 
-Names of official policies, such as Institutional Diversity and Undergraduate Honor System, should be capitalized. However, when the concept is being discussed, use the lowercase. Middlebury College is strongly committed to promoting diversity on campus. A strict honor system is enforced at the College.
+Names of official policies, such as Institutional Diversity and Undergraduate Honor System, should be capitalized. However, when the concept is being discussed, use the lowercase. Ex. Middlebury College is strongly committed to promoting diversity on campus. A strict honor system is enforced at the College.
 
 In running text, lowercase a *the* that precedes a name, even if it is part of the official name:
 
@@ -34,7 +34,9 @@ Capitalize the letters used for grades and grade names. Do not place quotation m
 
 A, B, C, D, F, Pass, Incomplete; Grade of B; Grades of B or Bs
 
-Headlines: capitalize
+Headlines: 
+
+capitalize
 
 1. The first and last word, no matter what part of speech they are.
 2. The first word after a colon, no matter what part of speech it is.
@@ -48,7 +50,7 @@ lowercase
 5. Part of proper names that would normally be lowercased, ex. *van* or *de*.
 6. The second part of a species name (*Homo sapiens*).
 
-Headline Examples:
+Headline examples:
 
 `What I’ve Been Thinking Of`
 
@@ -76,7 +78,7 @@ Headlines with a prefix: This is basically one word, not two, so the second elem
 
 `Non-Christian Organization Donates Books`
 
-#### Holidays:
+Holidays:
 
 Capitalize holidays, ceremonies, and recurring observances:
 
@@ -86,19 +88,19 @@ Do not capitalize seasons and academic periods:
 
 `winter term; fall admission; summer break`
 
-#### Original Quotes:
+Original Quotes:
 
 When quoting original material, use the capitalization system of the original, even if it does not conform to Middlebury style.
 
 `As the soldier explained 100 years ago, “We have forgiven Men and Little`
 
-`Children who did not know what to expect from our Party.”`
+`children who did not know what to expect from our Party.”`
 
 Exception: When a quote is used as an integral part of a sentence, the initial cap in the original may be dropped.
 
 `He still believes that “we have forgiven Men and Little Children.”`
 
-#### Plurals with generic terms:
+Plurals with generic terms:
 
 When a generic term is part of a proper noun, it is capped: Proctor Dining Hall. When two names are used in conjunction, followed by the generic term, it is still capped: Proctor and Ross Dining Halls; Hudson and East Rivers; Bread Loaf and Worth Mountains. By capping the generic term, it is unambiguous that it is part of each proper noun.
 
