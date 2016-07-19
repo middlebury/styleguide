@@ -123,7 +123,7 @@ When a generic term is part of a proper noun, it is capped: Proctor Dining Hall.
 
 **CD**, CDs
 
-**C** (centigrade); 78 degrees C (no period used within a sentence); 78°C (no spaces)
+**C** (**centigrade**); 78 degrees C (no period used within a sentence); 78°C (no spaces)
 
 **CEO**, CEOs
 
@@ -242,14 +242,14 @@ Rule of thumb: The alum is always listed first; if both people are alums, the ma
 Susan James Johnston ’98 and Paul Johnston
 Eric ’69 and Louise Ames Hollander ’71
 Henry Lappman ’90 and Nicole Sweet ’91
-Mary and Joseph Clark P’10
-Norma Sampson and William Larch P’08, ’10
+Mary and Joseph Clark
+Norma Sampson and William Larch
 ```
 
-Note: If both people are the parents of the student, the parent designation goes after the second name. If only one person is the parent, that person is listed first regardless of whether it is the man or the woman.
+Note: If both people are the parents of the student, the parent designation goes after the second name, preceded by a comma. If only one person is the parent, that person is listed first regardless of whether it is the man or the woman.
 
 ```
-Mary and Joseph Clark P’10
+Cindy and James Clough, P’10
 Helen Peterson P’09 and John Henderson
 Lars Olsen P’17 and Cynthia Olsen
 ```
@@ -271,13 +271,13 @@ Any of the designations above may be used on invitations. The class year and deg
 
 **collective nouns**
 
-Collective nouns related to quantity (percentage and fractions—**thirty percent, one- fourth, half**) take a singular verb when preceded by *the*. Otherwise, the verb agrees with the number of the noun in the prepositional phrase that follows it:
+Collective nouns related to quantity (percentage and fractions—_thirty percent, one-fourth, half_) take a singular verb when preceded by *the*. Otherwise, the verb agrees with the number of the noun in the prepositional phrase that follows it:
 
 `After receiving their pink slips this week, the third of employees with stock options has decided to cash in company stocks.`
 
 But:
 
-`Fortunately, four fifths of the employees **have** stocks to cash in.` (plural noun in prepositional phrase)
+`Fortunately, four fifths of the employees have stocks to cash in.` (plural noun in prepositional phrase)
 
 `Unfortunately, four fifths of last year’s harvest was lost.` (singular noun in prep phrase)
 
@@ -286,23 +286,23 @@ But:
 
 Whether it takes a singular or plural verb depends on which article precedes it: definite *the* or indefinite *a*.
 
-`*The* number of trees planted this year *has* doubled.`
+`The number of trees planted this year has doubled.`
 
 But:
 
-`*A* number of experts *have* demonstrated that planting trees in the fall improves their viability.`
+`A number of experts have demonstrated that planting trees in the fall improves their viability.`
 
 One of:
 
 “One of” takes a singular verb because it refers to one
 
-`One of those men *fixes* cars every day.`
+`One of those men fixes cars every day.`
 
 One of those who:
 
 “One of those who” takes a plural verb because the verb refers to “those”
 
-`One of those men who *fix* cars will work on your new project.`
+`One of those men who fix cars will work on your new project.`
 
 **College** (when referring to Middlebury’s undergraduate school only)
 
@@ -319,6 +319,8 @@ One of those who:
 - Principal Gifts
 
 **college archives**, or archives—one of four discrete collections in Special Collections
+
+**College breaks** (see **breaks**)
 
 **College-wide** (when –wide is added to capped words, use the hyphen)
 
@@ -377,7 +379,7 @@ After city and after state in running text:
 
 Compound sentence:
 
-To separate two sentences connected with a coordinating conjunction, and, but, or—two subjects, two verbs that could be made into two sentences.
+To separate two sentences connected with a coordinating conjunction, _and, but, or_—two subjects, two verbs that could be made into two sentences.
 
 Correct: `The professor is highly talented, and he will surprise you with his ideas.`
 
@@ -417,15 +419,15 @@ Use comma to separate each item in a series, including the last item:
 
 `He brought bread, potatoes, green beans, and butterscotch.`
 
-However, do not use a comma if “and” is replace by an ampersand:
+However, do not use a comma if “and” is replaced by an ampersand:
 
 `He teaches biology, chemistry & law.` (Avoid this use of ampersand if possible.)
 
 
 **Commencement**
 
-**commonly confused words, a few** (more problematic words may be found in Chicago
-Manual of Style, pages 262–300)
+**commonly confused words, a few** (more problematic words may be found in _Chicago
+Manual of Style_, pages 262–300)
 
 |Wrong|Correct|
 |---|---|
@@ -451,23 +453,23 @@ Manual of Style, pages 262–300)
 
 Two words used as one expression may be written as one word, as a hyphenated word, or as two separate words. Which form to use often depends upon the use or position in the sentence.
 
-`We arrived at the football field at *halftime*.` (noun)
+`We arrived at the football field at halftime.` (noun)
 
-`This ad says it is a *half-time* position.` (adjective before noun)
+`This ad says it is a half-time position.` (adjective before noun)
 
-`He lives in the *first-floor* apartment.` (adjective before noun)
+`He lives in the first-floor apartment.` (adjective before noun)
 
-`His apartment is on the *first floor*.` (follows noun)
+`His apartment is on the first floor.` (follows noun)
 
 To hyphenate or not to hyphenate is often a question for writers and editors. Use hyphens to increase readability. For example, the hyphen in much-needed clothing shows that the clothing is greatly needed rather than abundant and needed. Where no ambiguity could result, hyphenation is not needed.
 
 `High school student; experiential learning opportunities; cyber policy initiatives`
 
-When in doubt about whether to hyphenate, check the dictionary. Also, see the Chicago Manual of Style hyphenation guide, pages 375–384.
+When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384.
 
 **conjunctions**
 
-Conjunctions such as and, or, but, and nor may be used to begin a sentence. However, doing so should not be a substitute for clear writing.
+Conjunctions such as _and, or, but_, and _nor_ may be used to begin a sentence. However, doing so should not be a substitute for clear writing.
 
 **Convocation**
 
@@ -481,7 +483,7 @@ Conjunctions such as and, or, but, and nor may be used to begin a sentence. Howe
 
 **cultural periods**
 
-Some are lowercased; some are capitalized. Refer to Chicago Manual of Style or the dictionary.
+Some are lowercased; some are capitalized. Refer to _Chicago Manual of Style_ or the dictionary.
 
 romantic period; nuclear age; classical period; Victorian era; colonial period; Roaring Twenties; Ice Age; Middle Ages; Renaissance
 
