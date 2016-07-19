@@ -429,7 +429,7 @@ However, do not use a comma if “and” is replaced by an ampersand:
 **commonly confused words, a few** (more problematic words may be found in _Chicago
 Manual of Style_, pages 262–300)
 
-|Wrong|Correct|
+| | |
 |---|---|
 |Affect (v. to influence, to change)|Effect (n. a result, a consequence)|
 |All ready (everyone is prepared)|Already (adv. by this time, previously)|
