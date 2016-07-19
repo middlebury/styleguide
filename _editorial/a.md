@@ -1,5 +1,6 @@
 ---
 title: a
+published: true
 ---
 
 **A** (when referring to a grade, no quotation marks); grades of A or As
@@ -14,7 +15,7 @@ title: a
 
 `PhD, BA, AB, MA, MLitt, MD NATO, AIDS, CEO`
 
-`e.g., i.e. etc.`
+`e.g., i.e., etc.`
 
 `a.k.a.` (for “also known as”)
 
