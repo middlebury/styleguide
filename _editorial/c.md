@@ -367,7 +367,7 @@ Adjective string:
 
 In general, if two or more adjectives preceding a noun can be joined with “and,” separate them with commas, unless the noun and adjective are considered to be a unit, e.g., “bad boy.” Use judgment. Too many commas can make writing choppy.
 
-She made a donation to a new political organization.
+`She made a donation to a new political organization.`
 
 `It will be a frigid, expensive winter.`
 
@@ -429,7 +429,7 @@ However, do not use a comma if “and” is replaced by an ampersand:
 **commonly confused words, a few** (more problematic words may be found in _Chicago
 Manual of Style_, pages 262–300)
 
-|Wrong|Correct|
+| | |
 |---|---|
 |Affect (v. to influence, to change)|Effect (n. a result, a consequence)|
 |All ready (everyone is prepared)|Already (adv. by this time, previously)|
