@@ -367,7 +367,7 @@ Adjective string:
 
 In general, if two or more adjectives preceding a noun can be joined with “and,” separate them with commas, unless the noun and adjective are considered to be a unit, e.g., “bad boy.” Use judgment. Too many commas can make writing choppy.
 
-She made a donation to a new political organization.
+`She made a donation to a new political organization.`
 
 `It will be a frigid, expensive winter.`
 
