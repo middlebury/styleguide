@@ -42,6 +42,7 @@ In choosing photos for your project, try to include a variety that demonstrates 
 **Bread Loaf School of English** (officially Middlebury Bread Loaf School of English)
 
 **Bread Loaf Writers’ Conferences** (officially Middlebury Bread Loaf Writers’ Conferences)
+
 - Bread Loaf Writers’ Conference
 - Bread Loaf Orion Environmental Writers’ Conference
 - Bread Loaf Translators’ Conference
