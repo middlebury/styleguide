@@ -1,12 +1,13 @@
 ---
 title: e
+published: true
 ---
 
 **East, east** (cap when referring to geographic location; lowercase for compass direction)
 
 **Eastern Europe**
 
-**e.g.** (use when you mean “for example”; roman type, usually followed by a comma)
+**e.g.** (use when you mean “for example”; roman type, followed by a comma)
 
 ### ellipsis points
 
@@ -45,7 +46,7 @@ email; ebook; ecommerce; eshopping (**Note**: Although ewords are still hyphenat
 
 **Environmental Studies Program**, Program in Environmental Studies
 
-**Eras**
+**eras**
 
 Abbreviations for eras are set in full caps, with no periods:
 
