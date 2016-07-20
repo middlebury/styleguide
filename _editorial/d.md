@@ -1,5 +1,6 @@
 ---
 title: d
+published: true
 ---
 
 **D** (when referring to a grade, no quotation marks); grades of D or Ds
@@ -28,13 +29,15 @@ In a sentence, separate the day and year with commas:
 
 `The president was born on August 9, 1950, in a New York checker cab.`
 
-No comma is used when the month and year appear without a day: The weather pattern changed in October 1998 for the better.
+No comma is used when the month and year appear without a day: 
+
+`The weather pattern changed in October 1998 for the better.`
 
 **Davis Family Library**
 
 **Davis Fellows**; Kathryn Davis Fellows for Peace
 
-**D.C.** (in informal writing such as class notes an acceptable abbreviation for Washington, D.C.)
+**D.C.** (in informal writing, such as class notes, an acceptable abbreviation for Washington, D.C.)
 
 **Dean’s List**
 
@@ -62,22 +65,23 @@ Several options for identifying decades may be used:
 
 Note: no apostrophe between the year and s
 
+**degree abbreviations** (see class years and degrees)
 
 **degrees granted by Middlebury:**
 
-#### Bread Loaf School of English
+Bread Loaf School of English:
 
 MA—Master of Arts
 
 MLitt—Master of Letters
 
-#### Language Schools
+Language Schools:
 
 DML—Doctor of Modern Languages
 
 MA—Master of Arts
 
-#### Middlebury Institute of International Studies at Monterey
+Middlebury Institute of International Studies at Monterey:
 
 BAIS—Bachelor of Arts in International Studies
 
@@ -109,7 +113,9 @@ MBA—Master of Business Administration
 
 MPA—Master of Public Administration
 
-#### Joint Degrees:
+Joint Degrees:
+
+BA/MA
 
 MBA/MAIEP—MBA/MA International Environmental Policy
 
@@ -117,13 +123,13 @@ MBA/MAIPS—MBA/MA International Policy Studies
 
 MPA/MAIEM—MPA/MA International Education Management
 
-#### Undergraduate College
+Undergraduate College:
 
 BA—Bachelor of Arts (also, AB—artium baccalaureus)
 
 MS—Master of Science (no longer a degree given at Middlebury; last MS was awarded on May 26, 1996)
 
-#### Honorary Degrees:
+Honorary Degrees:
 
 DHL—Doctor of Humane Letters (Hon DHL)
 
