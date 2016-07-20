@@ -1,10 +1,11 @@
 ---
 title: h
+published: true
 ---
 
 **hallmate** (one word)
 
-**health care** (as a noun, two words); healthcare (as an adjective, one word)
+**health care** (as a noun, two words); **healthcare** (as an adjective, one word)
 
 **Helen Hartness Flanders Ballad Collection**—one of four discrete collections in Special Collections
 
@@ -16,11 +17,13 @@ title: h
 
 **home page**
 
-**homecoming**; Homecoming 2009 (cap when referring to specific homecoming)
+**homecoming**; Homecoming 2009 (cap when referring to a specific homecoming)
 
 **Homecoming Weekend**
 
-**Hyphens** (use to avoid ambiguity)
+**Honor Code**
+
+**hyphens** (use to avoid ambiguity)
 
 Double hyphens: Don’t use them. Instead, use the em dash (—). These are long dashes, the equivalent length of an M (—), used to set off parenthetical text or digressive elements. There should be no space on either side: `This has been a long haul—to Hades and back—for everyone involved`.
 
@@ -39,11 +42,11 @@ To make an em-dash or an en-dash in Word on a PC or Mac:
 - highlight the appropriate symbol
 - click “insert”
 
-###### Mac key codes:
+Mac key codes:
 
 em-dash: option/shift/hyphen en-dash: option/hyphen
 
-###### PC key codes:
+PC key codes:
 
 em-dash:  shift + alt + hyphen
 
@@ -51,7 +54,7 @@ en-dash:  “windows symbol key” + alt + hyphen
 
 Or, create your own shortcuts by following the directions in the Symbol section.
 
-#### Hyphens with prefixes and suffixes:
+Hyphens with prefixes and suffixes:
 
 In general, prefixes are not followed by hyphens unless the resulting word can be confused with another word, is difficult to decipher, or precedes a number or a capitalized word.
 
@@ -67,7 +70,7 @@ non:  nonprofit; nonstudent; nonmajor; nonproliferation
 
 pre:  preprofessional; premed; prelaw
 
-#### Suspending hyphens:
+Suspending hyphens:
 
 Use when a series of hyphenated adjectives modifies the last noun in the series:
 
@@ -75,17 +78,18 @@ Use when a series of hyphenated adjectives modifies the last noun in the series:
 
 `two- and three-year-old children`
 
-#### Measurements:
+Measurements:
 
 Hyphenate measurements that serve as adjectives preceding a noun:
 
-`The bandage is a two-inch-long strip of gauze. Place this four-foot block of wood in the fire.`
+`The bandage is a two-inch-long strip of gauze.`
+`Place this four-foot block of wood in the fire.`
 
 Connect measurements with hyphens when the numbers represent a range, and they function as an adjective preceding a noun:
 
 `We knew that the tsunami might create 80-to-90-foot tidal waves.`
 
-#### Fractions:
+Fractions:
 
 Hyphenate spelled-out fractions when used as modifiers, unless the numerator or denominator is already hyphenated. Whole numbers are not linked to the fraction with hyphens.
 
@@ -93,14 +97,14 @@ Hyphenate spelled-out fractions when used as modifiers, unless the numerator or 
 
 `fifty-six hundredths; four twenty-fifths; five and three-tenths inches`
 
-#### Whole numbers:
+Whole numbers:
 
 Hyphenate from 21 to 99 when spelled out:
 
 `twenty-one; ninety-nine; one hundred forty-eight`
 
-#### Sports scores:
+Sports scores:
 
 `The game ended in a 21-21 tie. Middlebury won in double overtime, 3-2.`
 
-See also compound nouns and adjectives
+(See also compound nouns and adjectives)
