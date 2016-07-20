@@ -1,12 +1,15 @@
 ---
 title: i
+published: true
 ---
 
-**i.e.** (use when you mean “that is”; roman type, usually followed by a comma)
+**i.e.** (use when you mean “that is”; roman type, followed by a comma)
 
 **Incomplete** (the grade)
 
-**in-language events**; events are in language international students
+**in-language events**; events are in language 
+
+**international students**
 
 **international studies**
 
