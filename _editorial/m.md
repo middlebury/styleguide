@@ -1,5 +1,6 @@
 ---
 title: m
+published: true
 ---
 
 **magna cum laude** (roman type, no italics)
@@ -22,9 +23,11 @@ title: m
 
 **Midd Kid** (student or alum)
 
-- Middlebury (it is permissible to hyphenate at line break)
-- Middlebury College Alumni Association; MCAA (no periods)
-- Middlebury schools and programs:
+**Middlebury** (it is permissible to hyphenate at line break)
+
+**Middlebury College Alumni Association**; MCAA (no periods)
+
+**Middlebury schools and programs**:
 - Middlebury Bread Loaf School of English
 - Middlebury Bread Loaf Writers’ Conferences
 - Middlebury College
@@ -41,14 +44,18 @@ title: m
 
 **MiddNet**
 
+**MiddNews**
+
 **MiddPoints**
 
 **Midwest**
 
-**midcareer**; midwinter; midterm; mid-August; mid-1990s mini-reunion
+**midcareer**; midwinter; midterm; mid-August; mid-1990s 
+
+**mini-reunion**
 
 **modern Hebrew**
 
-**multi words** (most multi words are not hyphenated); multicultural, multifaceted, multimedia)
+**multi words** (most multi words are not hyphenated); multicultural, multifaceted, multimedia
 
 **Museum of Art**; the museum

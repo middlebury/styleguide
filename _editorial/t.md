@@ -1,12 +1,16 @@
 ---
 title: t
+published: true
 ---
 
 **T-shirt; tee**
 
+**tax-free**
+
 **technology terms**
 
-Try to avoid obscure technology references and long email addresses and URLs. (You can use bitly.com to shrink long Web addresses. Or you can direct readers to the right page: Visit `www.williams.edu`, click on “Alumni,” and then “Golf Tournament.”) For websites, do not include the tag `http://`. Instead: `www.williams.edu`; `facebook.com`. If you are printing a document with a URL or email address in it, be sure to remove the hyperlink.
+Try to avoid obscure technology references and long URLs. (You can use bitly.com to shrink long Web addresses. Or you can direct readers to the right page: `Visit www.williams.edu, click on “Alumni,” and then “Golf Tournament.”`) For websites, do not include the tag `http://`. Instead: `www.williams.edu`; `facebook.com`. When available, use a "go" link. 
+If you are printing a document with a URL or email address in it, be sure to remove the hyperlink.
 
 Common technology terms:
 
@@ -47,7 +51,7 @@ Any phone number involving extra digits or unusual number sequences (such as ove
 
 **theatre** (This is the second spelling in Webster’s and a Middlebury department/ major);
 
-Department of Theatre; Hepburn Zoo Theatre; Wright Memorial Theatre; Burgess Meredith Little Theatre
+Department of Theatre; Hepburn Zoo Theatre; Wright Memorial Theatre; _but_ Burgess Meredith Little Theater (Bread Loaf); Town Hall Theater (downtown Middlebury)
 
 ### they/their/them
 
@@ -114,7 +118,7 @@ Capitalize the title when it precedes the name and is part of the name:
 
 `I would like to introduce Doctor John Smith.`
 
-President Laurie Patton will be addressing the audience.
+`President Laurie Patton will be addressing the audience.`
 
 `We traveled with Professor Bill Johnson.`
 
@@ -124,9 +128,12 @@ Do not capitalize when the title follows the name (almost always a descriptor):
 
 `Barack Obama, president of the United States`
 
-Trustee Emerita Suzanne Simpson; Suzanne Simpson, trustee emerita; the trustee; the professor; Professor John Jones; John Jones, professor emeritus; Professor Emeritus John Jones
+`Trustee Emerita Suzanne Simpson; Suzanne Simpson, trustee emerita; the trustee`  
+`Professor John Jones; the professor; John Jones, professor emeritus; Professor Emeritus John Jones`
 
-Do not capitalize when the title precedes the name, but is acting as a descriptive title: Renowned geology professor Andrea Lane will deliver the keynote address.
+Do not capitalize when the title precedes the name, but is acting as a descriptive title: 
+
+`Renowned geology professor Andrea Lane will deliver the keynote address.`
 
 `Happily, designer Randy Russet made the costumes.`
 
@@ -167,35 +174,37 @@ Dorothy Bartlett, William Loadstone Professor of Environmental Studies
 
 A, An, The:
 
-What to do with an initial, A, An, or The in a title when used in running text. Drop the initial article if it makes the text awkward.
+What to do with an initial, _A, An,_ or _The_ in a title when used in running text. Drop the initial article if it makes the text awkward.
 
 `The Town’s College is one of our most useful reference books.`
 
 `His Town’s College proved to be one of our most useful reference books.`
 
-In running text, lowercase the when it precedes the name of a society, association, building, or other proper name, even when it is part of the name. This also applies to the in magazine and newspaper titles. Any initial the in the titles of periodicals (journals, magazines, and newspapers) should be subsumed by the surrounding text or dropped.
+In running text, lowercase _the_ when it precedes the name of a society, association, building, or other proper name, even when it is part of the name. This also applies to _the_ in magazine and newspaper titles. Any initial _the_ in the titles of periodicals (journals, magazines, and newspapers) should be subsumed by the surrounding text or dropped.
 
 `The project is funded through the Prudential Foundation.`
 
 `Reading the New York Times is great way to start the day.`
 
-When the name of an entity includes a definite article, such as “The Grille” or  “The Who,” it should be lowercased in running text. “We are eating lunch at the Grille.”
+When the name of an entity includes a definite article, such as “The Grille” or  “The Who,” it should be lowercased in running text. 
 
-### In general:
+`We are eating lunch at the Grille and listening to the Who.`
 
-Middlebury office names that are also used as general terms, such as public affairs, admissions, alumni relations, financial services, and government offices, such as agriculture, commerce, defense, education, transportation, should be lowercased when used in titles that don’t precede the name.
+In general:
+
+Middlebury office names that are also used as general terms, such as _public affairs_, _admissions_, _alumni relations_, _financial services_, and government offices, such as _agriculture_, _commerce_, _defense_, _education_, _transportation_, should be lowercased when used in titles that don’t precede the name.
 
 `He is the vice president of facilities services.`
 
 `Sarah James, director of alumni relations.`
 
-### Courses:
+Courses:
 
 Course titles combine the department code with a numerical designation and the title: JAPN 0101 First-Year Japanese. Place a space between the department code and the course number. Course titles are printed in roman type, capped, with no quotation marks. It is not necessary to include the course number in general interest texts.
 
-`Professor Smith’s course the Beginning of the Universe has had a waiting list for several years.` (Note lowercase the even though it is part of the title of the course.)
+`Professor Smith’s course the Beginning of the Universe has had a waiting list for several years.` (Note: lowercase _the_ even though it is part of the title of the course.)
 
-### Departments and Offices:
+Departments and Offices:
 
 Running text—Departments and offices are capped only when the full, correct name is used.
 
@@ -215,175 +224,173 @@ Academic departments are always capped:
 
 In vertical lists—It is permissible to cap all offices and departments for the sake of consistency and readability. See [titles of people](#).
 
-#### Creative Works:
+Creative Works:
 
-##### Art
+Art
 
 *Paintings, Photographs, Sculpture, etc.*
 
-Titles of works of art of most types are capped and italicized, including cartoons and photographs.
+Titles of works of art of most types are capped and italicized, including cartoons and photographs:
 
-`The FBI lists Munch’s The Scream as one of the most stolen works of art.`
-
-`Yosemite Valley, Winter is one of Ansel Adams’s most striking photos.`
-
-`People always enjoy reading The Far Side.`
+The FBI lists Munch’s _The Scream_ as one of the most stolen works of art.
+_Yosemite Valley, Winter_ is one of Ansel Adams’s most striking photos.
+People always enjoy reading _The Far Side_.
 
 If the name is from antiquity and the creator is unknown, usually the title is capped in roman type:
 
-`The museum has the rare Palace Bowl on display.`
+The museum has the rare Palace Bowl on display.
 
-##### Art Exhibitions
+_Art Exhibitions_
 
 Names of large-scale exhibitions are capped, roman type.  Small-scale exhibitions (at a local museum) and their exhibition catalog titles are italicized.
 
-`The Toronto World’s Fair`
+The Toronto World’s Fair
+The new exhibit at the art museum, _Mixed Signals_, is extraordinary.
 
-`The new exhibit at the art museum, Mixed Signals, is extraordinary.`
 
-#### Drama
+Drama
 
 *Movies, Television, Radio, Plays*
 
 Movies, ongoing television and radio programs, and plays are capped and italicized:
 
-`We enjoyed reruns of Leave It to Beaver`
-
-`The blockbuster Live Free or Die Hard was not my favorite.`
+We enjoyed reruns of _Leave It to Beaver_.
+The blockbuster _Live Free or Die Hard_ was not my favorite.
 
 Television and radio series are capped with no quotation marks:
 
-`The American Idol series broke records for viewership three years running.`
+The American Idol series broke records for viewership three years running.
 
-Individual episodes of television and radio series are capped, with quotation marks: `“Ultimatum” was one of best episodes of The Office.`
+Individual episodes of television and radio series are capped, with quotation marks: 
 
-#### Music
+“Ultimatum” was one of best episodes of _The Office_.
 
-##### Instrumental:
+
+Music
+
+_Instrumental_:
 
 Cap generic name, no quotes: Piano Sonata no. 2
 
-Italicize descriptive title: Dances of the Band of David
+Italicize descriptive title: _Dances of the Band of David_
 
-Lowercase n for no.
+Lowercase _n_ for no.
 
 Lowercase opus, op.
 
-Cap Major and Minor: Bach’s Mass in B Minor
+Cap Major and Minor: Bach’s _Mass in B Minor_
 
-##### Operas and songs
+_Operas and songs_
 
-Long compositions are italicized, shorter ones set in quotes, roman type
+Long compositions are italicized, shorter ones set in quotes, roman type:
 
 “The Star Spangled Banner”
+_The Marriage of Figaro_
 
-`The Marriage of Figaro`
-
-##### Recordings
+_Recordings_
 
 An album is italicized. Individual tracks take caps and quotation marks. The name of the performer is set in roman type:
 
-The CD Home for the Holidays includes music by the Middlebury Chamber
+The CD _Home for the Holidays_ includes music by the Middlebury Chamber
+Singers and a solo performance by Jason Judge, singing “Midnight in Vermont.”
 
-`Singers and a solo performance by Jason Judge, singing “Midnight in Vermont.”`
 
-#### Web Works
+Web Works
 
-##### Blogs
+_Blogs_
 
-Named blogs are italicized. An initial “the” is treated as part of the title. Specific blog entries are capped with quotation marks.
+Named blogs are italicized. An initial _the_ is treated as part of the title. Specific blog entries are capped with quotation marks.
 
-“My Time Has Come,” a post in the blog Today’s Ruminations, outlines his plans.
+“My Time Has Come,” a post in the blog _Today’s Ruminations_, outlines his plans.
+Peter Dominick is my favorite blogger. Have you read _The Upbeat Town_ yet?
 
-Peter Dominick is my favorite blogger. Have you read The Upbeat Town yet?
-
-##### Podcasts
+_Podcasts_
 
 Treat podcasts and video blogs similarly to blogs. Regularly published features are italicized. Individual segments are capped with quotation marks.
 
-##### Websites
+_Websites_
 
 Website titles may consist of the name of the site, may use part of the domain name, or may refer to the entity responsible for the site.
 
-In running text, use roman type, headline-style, without quotation marks. An initial “the” is lowercased midsentence.
+In running text, use roman type, headline-style, without quotation marks. An initial _the_ is lowercased midsentence.
 
 Google; Google Maps; White House.gov; Amazon
 
 Some websites, however, are closely linked or completely similar to their print publications, and are therefore styled accordingly.
 
-Chicago Manual of Style Online has the answers to your questions.
-
-I found the spelling in Merriam-Webster.com.
+_Chicago Manual of Style Online_ has the answers to your questions.
+I found the spelling in _Merriam-Webster.com_.
 
 Titles of periodicals found both in print and online should be treated similarly, except for the domain name.
 
-The website of the New York Times; the New York Times online; NYTimes.com; www.middmag.com
+The website of the _New York Times_; the _New York Times_ online; NYTimes.com; www.middmag.com
 
 Pages or sections of websites are capped, headline style, and placed in quotation marks.
 
 To find the answers, visit “Frequently Asked Questions,” at Middlebury.edu.
 
-#### Written Works
 
-##### Books:
+Written Works
+
+_Books_
 
 Italicize book titles.
 
-Please read The College on the Hill.
+Please read _The College on the Hill_.
+Can I borrow your _College on the Hill_?
 
-An initial A, An, or The may be dropped if it does not fit the syntax of a sentence.
+An initial _A, An_, or _The_ may be dropped if it does not fit the syntax of a sentence.
 
-##### Book series:
+_Book series_
 
 Use roman type, headline style, without quotation marks, for the names of book series or editions. The words series and edition are lowercased when they are not part of the title:
 
 Norton Books Field Guide series
 
-##### Ebooks:
+_Ebooks_
 
 Italicize ebook titles. Use roman type and quotation marks for sections.
 
-Please consult the ebook Putting Your Passion to Work, especially the section “What Do You Want to Do With Your Life?”
+Please consult the ebook _Putting Your Passion to Work_, especially the section “What Do You Want to Do With Your Life?”
 
-Periodicals (newspapers, magazines, and newsletters):
+_Periodicals (newspapers, magazines, and newsletters)_
 
-Capitalize and italicize, except for a “the” in the title. This is because some periodicals use “the” as part of their title and some do not; the most consistent approach is to leave it out of the title:
+Capitalize and italicize, except for a “the” in the title. This is because some periodicals use “the” as part of their title and some do not; the most consistent approach is to leave it out of the italicized title:
 
-The story appeared in the New York Times.
+The story appeared in the _Boston Globe_.
 
 Periodical titles included in the names of awards, buildings, organizations are not italicized:
 
 Middlebury Magazine Short Story Prize
-
 Tribune Towers
 
-Magazine Articles and Short Stories:
+_Magazine Articles and Short Stories_
 
 Roman type, capitalize, and quotation marks:
 
-The story “The Secret Life of Walter Mitty” was first published in the New
+The story “The Secret Life of Walter Mitty” was first published in the _New Yorker_, in 1939.
 
-Yorker, in 1939.
-
-##### Poems and Plays
+_Poems and Plays_
 
 Plays and long poems are italicized and capitalized:
 
-Paradise Lost will take you a while to read. We have tickets to A Christmas Carol.
+_Paradise Lost_ will take you a while to read. 
+We have tickets to _A Christmas Carol_.
 
 Short poems are capped with quotation marks. Poems identified by their first lines are capped, sentence style, with quotation marks.
 
 Frost’s “A Prayer in Spring” seems apt right now.
-
 “Shall I compare thee to a Summer’s day?” is my favorite sonnet.
 
-##### Unpublished Works
 
-Dissertations, speeches, manuscripts, student work including posters: Roman type, headline style, and enclose in quotation marks:
+Unpublished Works
+
+Dissertations, speeches, manuscripts, student work including posters use roman type, headline style, and enclose in quotation marks:
 
 “An Investigation into Nomenclature Anomalies in Biological Systems”
 
-##### Miscellaneous Titles
+
+Miscellaneous Titles
 
 College symposium: Capped with quotation marks
 
@@ -399,5 +406,7 @@ Text on Signs: Capitalized, headline style
 **toll-free number**
 
 **Tormondsen Great Hall**; Great Hall
+
+**toward** (not towards)
 
 **trustee**; trustees; John Doe, trustee

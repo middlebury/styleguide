@@ -1,5 +1,6 @@
 ---
 title: q
+published: true
 ---
 
 **Q-and-A format**

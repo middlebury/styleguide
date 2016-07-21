@@ -1,6 +1,9 @@
 ---
-title: n
+title: 'n'
+published: true
 ---
+
+**name tag**
 
 **nationwide**
 
@@ -8,11 +11,13 @@ title: n
 
 **need-blind admission**
 
+**New Faces** (roman)
+
 **Nobel laureate**; Nobel Prize winner; Nobel Prize-winning author
 
 **non words** (Most non words are not hyphenated unless they include a proper noun)
 
-nonacademic; noncertified; nondegree; nonfiction; nonmajor; nonnative; nonprofit; nonscience; non-Christian; non-Anglo
+`nonacademic; noncertified; nondegree; nonfiction; nonmajor; nonnative; nonprofit; nonscience; non-Christian; non-Anglo`
 
 **nondiscrimination statement**
 
@@ -38,11 +43,11 @@ Avoid starting a phrase or sentence after an em-dash or colon with a numeral. Sp
 
 In general:
 
-- Spell out numbers one to nine in text. (Exception: Use 5th reunion for consistency with every other reunion on year.)
+- Spell out numbers one to nine in text. (Exception: Use 5th reunion for consistency with every other reunion year.)
 - Use numerals for 10 and higher.
 - Thousands take a comma: 2,450 not 2450.
 
-Large, round, even numbers used as approximations are spelled out:
+Large, round, even numbers used as approximations can be spelled out:
 
 `The history spans some four thousand years of Western civilization.`
 
@@ -54,7 +59,7 @@ These same rules apply to ordinals:
 
 `seventh place; 30th position; 135th award; third in line`
 
-#### Clusters of Numbers:
+Clusters of Numbers:
 
 Numbers within a sentence or paragraph that cluster together and are used in the same context should maintain consistency. If one of the numbers would normally be written as a numeral, use numerals for all in that same category. It is fine to have one category written with numerals and another with numbers spelled out:
 
@@ -64,13 +69,13 @@ Numbers within a sentence or paragraph that cluster together and are used in the
 
 `When mother came, we found seven dead pigeons outside. That didn’t deter us from enjoying our snack. She served 5 kinds of cookies, 11 new beers, and 7 types of goat cheese.`
 
-#### Decimals:
+Decimals:
 
 Use numerals, even in text:
 
 `We are expecting to harvest 5.4 tons of corn.`
 
-#### Fractions:
+Fractions:
 
 Simple fractions: Spell out in text. Hyphenate the fraction if it represents a single quantity or when used as a modifier.
 
@@ -88,7 +93,7 @@ Whole numbers plus fractions: These can be spelled or expressed in numerals, whi
 
 `The recipe calls for 3 ¾ cups of flour.`
 
-#### Measurements:
+Measurements:
 
 Hyphenate measurements that serve as adjectives preceding a noun:
 
@@ -102,7 +107,7 @@ Connect measurements with hyphens when the numbers represent a range, and they f
 
 [See also hyphens](#)
 
-#### Money:
+Money:
 
 References to money may be written as numerals or spelled out. If spelled, also spell the unit of currency, except when using very large numbers.
 
@@ -112,11 +117,11 @@ References to money may be written as numerals or spelled out. If spelled, also 
 
 `$1 million; $10.3 billion`
 
-#### Percentages:
+Percentages:
 
 Always express percentages as a numeral-word combination, except in charts and scientific copy: `25 percent, 4 percent`
 
-##### Reunion Years:
+Reunion Years:
 
 Use numerals for specific reunions: `20th reunion, 10th reunion`
 

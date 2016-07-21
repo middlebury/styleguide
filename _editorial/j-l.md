@@ -1,5 +1,6 @@
 ---
 title: j-l
+published: true
 ---
 
 **January term**, J-term
@@ -16,6 +17,7 @@ It is no longer required to use commas before and after these elements, as they 
 
 `Jason Milquevay III boarded the flight to New Zealand.`
 
+**Kaleidoscope** (roman)
 
 **Kathryn Davis Fellows for Peace**; fellow
 
@@ -29,7 +31,7 @@ It is no longer required to use commas before and after these elements, as they 
 
 **Language Schools** (capped and plural in reference to the set of schools); Language School (capped and singular in reference to one person’s experience or one school)
 
-##### Specific Language School Names:
+Specific Language School Names:
 
 Arabic School
 
@@ -53,19 +55,13 @@ Kathryn Wasserman Davis School of Russian
 
 Spanish School
 
-Letters written
+**Letters written**
 
 Link to the page with templates on the Communications website.
 
 ##### Letters used as words or letters
 
-Individual letters that are used as letters should be italicized. When the letter is lowercased, an apostrophe s is used to make it plural. When the uppercase letter is used, an apostrophe is not usually needed.
-
-`Mind your p’s and q’s.`
-
-`Put your X on this spot.`
-
-`There are too many Xs on this page.`
+Individual letters that are used as letters should be italicized. When the letter is lowercased, an apostrophe s is used to make it plural. When the uppercase letter is used, an apostrophe is not usually needed. Ex. Mind your _p_'s and _q_'s. Put your _X_ on this spot. There are too many _X_s on this page.
 
 Scholastic grades are capped and set in roman type.
 
@@ -73,11 +69,13 @@ Scholastic grades are capped and set in roman type.
 
 `Jan had straight As.`
 
-**library**; Davis Family Library lifelong
+**library**; Davis Family Library
 
 **Listserv**
 
 **literary studies**; Program in Literary Studies
+
+**-long**; words combined with -long are closed (daylong, monthlong, weeklong, yearlong, lifelong)
 
 **long-standing**
 
