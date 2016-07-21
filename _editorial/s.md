@@ -1,5 +1,6 @@
 ---
 title: s
+published: true
 ---
 
 **SAT** (Scholastic Aptitude Test)
@@ -63,7 +64,9 @@ Always single space between sentences. (Using double spaces is a holdover from t
 
 ### split infinitives
 
-Definition: The insertion of a word or phrase between “to” and the verb. to madly love; to deliberately lie
+Definition: The insertion of a word or phrase between “to” and the verb. 
+
+`to madly love; to deliberately lie`
 
 Not a split infinitive:
 
@@ -79,7 +82,7 @@ Split infinitives are no longer considered to be an egregious error; in fact, so
 
 staff is, staff are, staff members (all okay, depends on context),
 
-`our staff is among the most experienced in the nation.`
+`Our staff is among the most experienced in the nation.`
 
 `Middlebury staff are busy cleaning up after the largest reunion ever.`
 
@@ -104,7 +107,7 @@ Two-letter postal codes may be used in some informal lists and must always be us
 
 Use the abbreviations listed below (first abbreviation listed) when a state name is preceded by the name of a city, town, village, or military base. Set off the state name in commas: He moved to Goshen, N.Y., after graduating from college. Do not abbreviate Alaska, Hawaii, Idaho, Iowa, Maine, Ohio, Texas, or Utah. Use the ZIP code abbreviation for mailing addresses.
 
-|State|Abbreviation|Zip Code|Abbreviation|
+|State|Abbreviation|Postal Code|
 |---|---|---|---|---|
 |Alabama|Ala.|AL|
 |Alaska|Alaska|AK|
@@ -161,11 +164,13 @@ Use the abbreviations listed below (first abbreviation listed) when a state name
 
 **STEM Scholar**
 
+**Student Health Portal**
+
 ### superscripts
 
 Do not use superscripts. They tend to make the spacing between lines uneven and cause problems with editing.
 
-1st; 2nd; 3rd not: 3rd or 3<sup>rd</sup>
+1st; 2nd; 3rd not 3<sup>rd</sup>
 
 **summa cum laude** (roman type, lowercase)
 
