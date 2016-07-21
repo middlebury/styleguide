@@ -1,5 +1,5 @@
 ---
-title: Editorial Styleguide
+title: Editorial Style Guide
 layout: editorial
 ---
 
@@ -21,4 +21,4 @@ Our primary arbiters for matters of style:
 - *The Elements of Style* by William Strunk Jr., E.B. White, Roger Angell, 4th edition
 - [Grammar Girl: Quick and Dirty Tips for Better Writing](http://grammar.quickanddirtytips.com/)
 
-Updated January 2016
+Updated July 2016
