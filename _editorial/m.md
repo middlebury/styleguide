@@ -5,7 +5,7 @@ published: true
 
 **magna cum laude** (roman type, no italics)
 
-**Mahaney Center for the Arts**; Kevin P. Mahaney ’84 Center for the Arts; Center for the Arts (CFA)
+**Mahaney Center for the Arts**; Kevin P. Mahaney ’84 Center for the Arts; Center for the Arts (MCA)
 
 **majors**; lowercased unless they include a word normally capped:
 
