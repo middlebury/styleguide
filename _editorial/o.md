@@ -13,6 +13,8 @@ published: true
 
 **OK**; okay (not okay to use o.k.)
 
+**Olin C. Robison Concert Hall**; Robison Hall (formerly Concert Hall)
+
 **on-campus** (adj. before noun); on campus (not a modifier)
   `on-campus housing; living on campus`
 
