@@ -23,7 +23,7 @@ It is no longer required to use commas before and after these elements, as they 
 
 **Kathryn Wasserman Davis School of Russian** (Language Schools)
 
-**Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Center for the Arts; Center for the Arts (CFA)
+**Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Center for the Arts; Center for the Arts (MCA)
 
 **Kirk Center** (formerly known as Kirk Alumni Center)
 
