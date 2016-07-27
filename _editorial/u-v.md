@@ -86,7 +86,9 @@ In general, follow the examples above. When a list contains a combination of sen
 
 **vice-chairman**
 
-**vice president** (no hyphen) 
+**vice president** (no hyphen)
+
+**videoconference**
 
 **videotape**; **video recorder**
 
