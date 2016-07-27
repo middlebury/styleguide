@@ -33,6 +33,8 @@ No comma is used when the month and year appear without a day:
 
 `The weather pattern changed in October 1998 for the better.`
 
+**David W. Ginevan Recycling Center**; Recycling Center
+
 **Davis Family Library**
 
 **Davis Fellows**; Kathryn Davis Fellows for Peace
