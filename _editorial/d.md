@@ -163,24 +163,27 @@ General note: Only refer to a disability when it's truly relevant to the story. 
 General terminology: 
 
 Avoid describing a group only by their disabilities. Humanizing phrases acknowledge that disability is a relevant adjective.
-Less appropriate `the disabled, the blind, the paraplegic, the deaf, the handicapped`
+
+Less appropriate `the disabled, the blind, the paraplegic, the deaf, the handicapped`  
 More appropriate `disabled persons, people with disabilities, deaf people, blind citizens, persons with developmental disabilities`
 
 Avoid using "special" and "special needs" language. Disabled people's needs are not special nor are they inherently needy.
-Less appropriate `There are alternate formats, such as audio files, for those with special needs.`
+
+Less appropriate `There are alternate formats, such as audio files, for those with special needs.`  
 More appropriate `Alternate formats, such as audio files, are available.`
 
 Avoid stigmatizing language.
-Less appropriate `handicapped parking`
+
+Less appropriate `handicapped parking`  
 More appropriate `accessible parking`
 
-Less appropriate `normal people` (suggesting disabled people are not normal)
+Less appropriate `normal people` (suggesting disabled people are not normal)  
 More appropriate `nondisabled, typical, not living with a disability` (when used in text that includes both disabled and nondisabled persons)
 
-Less appropriate `afflicted with, stricken with, suffers from, victim of`
+Less appropriate `afflicted with, stricken with, suffers from, victim of`  
 More appropriate `a person who is blind, a person who has PTSD` (language that is more neutral and states the nature of the disability)
 
-Less appropriate `wheelchair bound, confined to a wheelchair`
+Less appropriate `wheelchair bound, confined to a wheelchair`  
 More appropriate `wheelchair user, person who uses a wheelchair`
 
 **Donald E. Axinn ’51, Litt. D. ’89 Center for Literary and Cultural Studies at Starr Library**; Axinn Center at Starr Library (Note: the use of “Litt. D.” here is an exception to our style because that is how the building was named.)
