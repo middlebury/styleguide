@@ -154,6 +154,8 @@ Mac shortcut: `shift + option + right bracket key`
 
 **archives**, also college archives—one of four discrete collections in Special Collections
 
+**artist in residence** (no hyphens)
+
 **Asian American** (no hyphen; avoid use of Oriental)
 
 **awards**
