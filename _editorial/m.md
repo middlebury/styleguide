@@ -17,6 +17,8 @@ published: true
 
 **McCardell Bicentennial Hall**; John M. McCardell Jr. Bicentennial Hall; BiHall
 
+**midcareer**; midwinter; midterm; mid-August; mid-1990s
+
 **middle age** (noun); middle-aged (adj.); the Middle Ages
 
 **Midd** (short for Middlebury)
@@ -48,9 +50,9 @@ published: true
 
 **MiddPoints**
 
-**Midwest**
+**MiddXpress**
 
-**midcareer**; midwinter; midterm; mid-August; mid-1990s 
+**Midwest**
 
 **mini-reunion**
 
