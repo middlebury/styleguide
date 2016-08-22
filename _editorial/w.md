@@ -1,5 +1,6 @@
 ---
 title: w
+published: true
 ---
 
 **Washington, DC** (in mailing addresses); Washington, D.C. (in running text)
@@ -56,5 +57,7 @@ Sentence capitalization rules apply. The first letter of a sentence is always ca
 **World Wide Web**; the Web (proper noun)
 
 **worldview**
+
+**writer in residence** (no hyphens)
 
 **writing program**
