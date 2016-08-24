@@ -1,6 +1,11 @@
 #editorial-nav {
-  overflow-y: auto;
   padding-top: 20px;
+
+  @include media(md) {
+    height: 100vh;
+    overflow-y: auto;
+    padding-top: 0;
+  }
 
   &.affix {
     @include media(md) {
