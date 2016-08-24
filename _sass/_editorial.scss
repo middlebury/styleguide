@@ -4,17 +4,22 @@
 }
 
 .editorial__sidebar {
-  float: left;
-  height: 100%;
-  max-width: 100px;
-  width: 20%;
+  @include media(md) {
+    float: left;
+    height: 100%;
+    max-width: 100px;
+    width: 20%;
+    overflow: auto;
+  }
 }
 
 .editorial__content {
-  float: left;
-  height: 100%;
-  width: 80%;
-  padding-bottom: 70vh;
+  @include media(md) {
+    float: left;
+    height: 100%;
+    width: 80%;
+    padding-bottom: 70vh;
+  }
 }
 
 .editorial__content__inner {
