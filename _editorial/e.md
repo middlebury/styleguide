@@ -9,7 +9,7 @@ published: true
 
 **e.g.** (use when you mean “for example”; roman type, followed by a comma)
 
-### ellipsis points
+**ellipsis points**
 
 Three points, or dots, show that something has been omitted (a word, line, etc.) from the text. The points are placed on the line and are separated equally from each other and the text before and after.
 

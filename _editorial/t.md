@@ -29,7 +29,7 @@ Common technology terms:
 - webmaster
 - website
 
-### telephone numbers
+**telephone numbers**
 
 Use hyphens instead of dots or parentheses. In most cases, omit the 1 that precedes the area code.
 
@@ -53,7 +53,7 @@ Any phone number involving extra digits or unusual number sequences (such as ove
 
 Department of Theatre; Hepburn Zoo Theatre; Wright Memorial Theatre; _but_ Burgess Meredith Little Theater (Bread Loaf); Town Hall Theater (downtown Middlebury)
 
-### they/their/them
+**they/their/them**
 
 There may be times when *they*, *their*, or *them* is a necessary choice as a pronoun for a singular noun of nonspecific gender. This is most likely to occur after *nobody*, *everybody*, *one*, *anyone*, or nouns that may be either singular or plural, depending upon their usage—faculty or student body, for example. When possible, rewrite the sentence.
 
@@ -77,7 +77,7 @@ The use of *he/she* or *him/her*, although more grammatically accurate in these 
 
 See use of they/their in gender neutral language under [gender](#).
 
-### time
+**time**
 
 All of the following are acceptable—consistency is key; don’t vary the format within the same document or story:
 
@@ -110,7 +110,7 @@ Showing ranges:
 What are small caps? They are capital letters about three-quarters smaller than regular caps. Choose them from the font menu in Microsoft Word or from Word’s formatting palette.
 
 
-### titles of people
+**titles of people**
 
 Academic and Professional:
 
@@ -170,7 +170,7 @@ David Jones, Assistant Professor of English
 Dorothy Bartlett, William Loadstone Professor of Environmental Studies
 ```
 
-### titles of things
+**titles of things**
 
 A, An, The:
 

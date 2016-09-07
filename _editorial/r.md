@@ -17,7 +17,7 @@ published: true
 
 **residence hall advisor**
 
-**reunion**; 25th reunion; Reunion Weekend; Reunion 2011; Reunion Parade; 5th reunion (not fifth reunion) (Note: Do not hyphenate when used as an adjective: 50th reunion yearbook)
+**reunion**; 25th reunion; Reunion Weekend; Reunion 2011; reunion parade; 5th reunion (not fifth reunion) (Note: Do not hyphenate when used as an adjective: 50th reunion yearbook)
 
 **Robison Hall**; Olin C. Robison Concert Hall (formerly Concert Hall)
 

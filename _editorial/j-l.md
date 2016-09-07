@@ -59,7 +59,7 @@ Spanish School
 
 Link to the page with templates on the Communications website.
 
-##### Letters used as words or letters
+**Letters used as words or letters**
 
 Individual letters that are used as letters should be italicized. When the letter is lowercased, an apostrophe s is used to make it plural. When the uppercase letter is used, an apostrophe is not usually needed. Ex. Mind your _p_'s and _q_'s. Put your _X_ on this spot. There are too many _X_s on this page.
 

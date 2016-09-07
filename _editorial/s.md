@@ -13,7 +13,7 @@ published: true
 
 Do not capitalize fall, winter, spring, or summer unless part of a title.
 
-### semi-colons
+**semi-colons**
 
 Use semicolons to separate independent clauses not joined by a conjunction:
 
@@ -33,7 +33,7 @@ To separate items in a series that is long and cumbersome or that contains inter
 
 **semiretired**
 
-### sentence fragments
+**sentence fragments**
 
 When incomplete sentences are used as captions, pull quotes, and subheads, a period is
 not needed. When sentence fragments are interspersed with full sentences, periods may be necessary for visual clarity and consistency. This might be the case in a vertical list. Be sure to be consistent within a document, whatever you decide to do.
@@ -62,7 +62,7 @@ Always single space between sentences. (Using double spaces is a holdover from t
 
 **special interest houses** (also called academic interest houses)
 
-### split infinitives
+**split infinitives**
 
 Definition: The insertion of a word or phrase between “to” and the verb. 
 
@@ -166,7 +166,7 @@ Use the abbreviations listed below (first abbreviation listed) when a state name
 
 **Student Health Portal**
 
-### superscripts
+**superscripts**
 
 Do not use superscripts. They tend to make the spacing between lines uneven and cause problems with editing.
 

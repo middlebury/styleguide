@@ -20,19 +20,21 @@ Exceptions: Exceptions may sometimes be made to avoid confusion or because the s
 
 Names of departments are always capped: The Department of French; the French Department.
 
-Names of official policies, such as Institutional Diversity and Undergraduate Honor System, should be capitalized. However, when the concept is being discussed, use the lowercase. Ex. Middlebury College is strongly committed to promoting diversity on campus. A strict honor system is enforced at the College.
+Names of official policies, such as Institutional Diversity and Undergraduate Honor System, should be capitalized. However, when the concept is being discussed, use the lowercase. 
+`Middlebury College is strongly committed to promoting diversity on campus.` 
+`A strict honor system is enforced at the College.`
 
 In running text, lowercase a *the* that precedes a name, even if it is part of the official name:
 
-The Underhill Foundation
+`The Underhill Foundation`
 
-When you visit the Underhill Foundation, please check their address.
+`When you visit the Underhill Foundation, please check their address.`
 
 Grades:
 
 Capitalize the letters used for grades and grade names. Do not place quotation marks around grades.
 
-A, B, C, D, F, Pass, Incomplete; Grade of B; Grades of B or Bs
+`A, B, C, D, F, Pass, Incomplete; Grade of B; Grades of B or Bs`
 
 Headlines: 
 
@@ -112,9 +114,9 @@ When a generic term is part of a proper noun, it is capped: Proctor Dining Hall.
 
 - Anderson Freeman Resource Center (AFC)
 - Center for Careers and Internships (CCI)
-- Center for Community Engagement
+- Center for Community Engagement (CCE)
 - Center for Comparative Study of Race and Ethnicity (CCSRE)
-- Center for Creativity, Innovation, and Social Entrepreneurship
+- Center for Creativity, Innovation, and Social Entrepreneurship (CCISE)
 - Center for Teaching, Learning, and Research (CTLR)
 - Chellis Women’s Resource Center
 - Franklin Environmental Center at Hillcrest
@@ -464,7 +466,7 @@ Two words used as one expression may be written as one word, as a hyphenated wor
 
 To hyphenate or not to hyphenate is often a question for writers and editors. Use hyphens to increase readability. For example, the hyphen in much-needed clothing shows that the clothing is greatly needed rather than abundant and needed. Where no ambiguity could result, hyphenation is not needed.
 
-`High school student; experiential learning opportunities; cyber policy initiatives`
+`High school student; experiential learning opportunities; winter term courses`
 
 When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384.
 

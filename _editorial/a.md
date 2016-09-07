@@ -13,7 +13,7 @@ published: true
 
 `U.S., USA, D.C., L.A.`
 
-`PhD, BA, AB, MA, MLitt, MD NATO, AIDS, CEO`
+`PhD, BA, AB, MA, MLitt, MD, NATO, AIDS, CEO`
 
 `e.g., i.e., etc.`
 
@@ -145,7 +145,7 @@ Not OK:  `'80`
 
 OK: `’80`
 
-How to make a left-facing apostrophe: This character is located in Microsoft Word’s “insert” menu > symbols > normal text > special characters. Select the “single closing quote.” PC users, creating a shortcut is helpful if you use the character often.
+How to make a left-facing apostrophe: This character is located in Microsoft Word’s “insert” menu > symbol > advanced symbol > special characters. Select the “single closing quote.” PC users, creating a shortcut is helpful if you use the character often.
 
 Mac shortcut: `shift + option + right bracket key`
 
