@@ -20,19 +20,21 @@ Exceptions: Exceptions may sometimes be made to avoid confusion or because the s
 
 Names of departments are always capped: The Department of French; the French Department.
 
-Names of official policies, such as Institutional Diversity and Undergraduate Honor System, should be capitalized. However, when the concept is being discussed, use the lowercase. Ex. Middlebury College is strongly committed to promoting diversity on campus. A strict honor system is enforced at the College.
+Names of official policies, such as Institutional Diversity and Undergraduate Honor System, should be capitalized. However, when the concept is being discussed, use the lowercase. 
+`Middlebury College is strongly committed to promoting diversity on campus.` 
+`A strict honor system is enforced at the College.`
 
 In running text, lowercase a *the* that precedes a name, even if it is part of the official name:
 
-The Underhill Foundation
+`The Underhill Foundation`
 
-When you visit the Underhill Foundation, please check their address.
+`When you visit the Underhill Foundation, please check their address.`
 
 Grades:
 
 Capitalize the letters used for grades and grade names. Do not place quotation marks around grades.
 
-A, B, C, D, F, Pass, Incomplete; Grade of B; Grades of B or Bs
+`A, B, C, D, F, Pass, Incomplete; Grade of B; Grades of B or Bs`
 
 Headlines: 
 
