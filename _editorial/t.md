@@ -29,7 +29,7 @@ Common technology terms:
 - webmaster
 - website
 
-### telephone numbers
+**telephone numbers**
 
 Use hyphens instead of dots or parentheses. In most cases, omit the 1 that precedes the area code.
 
