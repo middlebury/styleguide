@@ -170,7 +170,7 @@ David Jones, Assistant Professor of English
 Dorothy Bartlett, William Loadstone Professor of Environmental Studies
 ```
 
-### titles of things
+**titles of things**
 
 A, An, The:
 
