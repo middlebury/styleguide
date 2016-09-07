@@ -53,7 +53,7 @@ Any phone number involving extra digits or unusual number sequences (such as ove
 
 Department of Theatre; Hepburn Zoo Theatre; Wright Memorial Theatre; _but_ Burgess Meredith Little Theater (Bread Loaf); Town Hall Theater (downtown Middlebury)
 
-### they/their/them
+**they/their/them**
 
 There may be times when *they*, *their*, or *them* is a necessary choice as a pronoun for a singular noun of nonspecific gender. This is most likely to occur after *nobody*, *everybody*, *one*, *anyone*, or nouns that may be either singular or plural, depending upon their usage—faculty or student body, for example. When possible, rewrite the sentence.
 
