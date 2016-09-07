@@ -13,7 +13,7 @@ published: true
 
 `U.S., USA, D.C., L.A.`
 
-`PhD, BA, AB, MA, MLitt, MD NATO, AIDS, CEO`
+`PhD, BA, AB, MA, MLitt, MD, NATO, AIDS, CEO`
 
 `e.g., i.e., etc.`
 
