@@ -114,9 +114,9 @@ When a generic term is part of a proper noun, it is capped: Proctor Dining Hall.
 
 - Anderson Freeman Resource Center (AFC)
 - Center for Careers and Internships (CCI)
-- Center for Community Engagement
+- Center for Community Engagement (CCE)
 - Center for Comparative Study of Race and Ethnicity (CCSRE)
-- Center for Creativity, Innovation, and Social Entrepreneurship
+- Center for Creativity, Innovation, and Social Entrepreneurship (CCISE)
 - Center for Teaching, Learning, and Research (CTLR)
 - Chellis Women’s Resource Center
 - Franklin Environmental Center at Hillcrest
