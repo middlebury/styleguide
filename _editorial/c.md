@@ -466,7 +466,7 @@ Two words used as one expression may be written as one word, as a hyphenated wor
 
 To hyphenate or not to hyphenate is often a question for writers and editors. Use hyphens to increase readability. For example, the hyphen in much-needed clothing shows that the clothing is greatly needed rather than abundant and needed. Where no ambiguity could result, hyphenation is not needed.
 
-`High school student; experiential learning opportunities; cyber policy initiatives`
+`High school student; experiential learning opportunities; winter term courses`
 
 When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384.
 
