@@ -9,7 +9,7 @@ published: true
 
 **user-friendly**
 
-### vertical lists
+**vertical lists**
 
 When possible, introduce the list with a complete grammatical sentence followed by a colon. Avoid putting a colon in the middle of a sentence, as after the word include.
 
