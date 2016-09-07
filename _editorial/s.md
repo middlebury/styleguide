@@ -62,7 +62,7 @@ Always single space between sentences. (Using double spaces is a holdover from t
 
 **special interest houses** (also called academic interest houses)
 
-### split infinitives
+**split infinitives**
 
 Definition: The insertion of a word or phrase between “to” and the verb. 
 
