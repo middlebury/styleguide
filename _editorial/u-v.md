@@ -92,7 +92,7 @@ In general, follow the examples above. When a list contains a combination of sen
 
 **videotape**; **video recorder**
 
-### voice
+**voice**
 
 Write in the active voice, as simply as possible.
 
