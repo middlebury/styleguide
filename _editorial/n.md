@@ -29,7 +29,7 @@ Middlebury College hereby designates the dean of the College to coordinate its e
 
 **North**; north (cap when referring to geographic location; lowercase for compass direction)
 
-### numbers
+**numbers**
 
 Never start a sentence with a numeral. Spell out the number:
 
