@@ -13,7 +13,7 @@ published: true
 
 Do not capitalize fall, winter, spring, or summer unless part of a title.
 
-### semi-colons
+**semi-colons**
 
 Use semicolons to separate independent clauses not joined by a conjunction:
 
