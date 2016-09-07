@@ -166,7 +166,7 @@ Use the abbreviations listed below (first abbreviation listed) when a state name
 
 **Student Health Portal**
 
-### superscripts
+superscripts
 
 Do not use superscripts. They tend to make the spacing between lines uneven and cause problems with editing.
 
