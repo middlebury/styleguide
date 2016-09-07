@@ -110,7 +110,7 @@ Showing ranges:
 What are small caps? They are capital letters about three-quarters smaller than regular caps. Choose them from the font menu in Microsoft Word or from Word’s formatting palette.
 
 
-### titles of people
+**titles of people**
 
 Academic and Professional:
 
