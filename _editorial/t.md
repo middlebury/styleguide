@@ -77,7 +77,7 @@ The use of *he/she* or *him/her*, although more grammatically accurate in these 
 
 See use of they/their in gender neutral language under [gender](#).
 
-### time
+**time**
 
 All of the following are acceptable—consistency is key; don’t vary the format within the same document or story:
 
