@@ -84,7 +84,7 @@ Use of periods in vertical lists:
 
 In general, follow the examples above. When a list contains a combination of sentence fragments and full sentences, try to revise so they are all similar. If that is not possible, use periods after all items for visual consistency.
 
-**vice-chairman**
+**vice-chairman**; **vice-chancellor**
 
 **vice president** (no hyphen)
 
