@@ -7,3 +7,5 @@ site/js/vendor
 site/.jekyll-metadata
 
 .jekyll-metadata
+
+npm-debug.log
