@@ -73,5 +73,7 @@ Commas are not used in dates with fewer than five digits.
 ```
 
 **euro**
+
 **etc.** (usually followed by a comma)
+
 **extracurricular**
