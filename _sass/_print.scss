@@ -4,6 +4,7 @@
     color: #000 !important; /* Black prints faster: h5bp.com/s */
     box-shadow: none !important;
     text-shadow: none !important;
+    font-size: 90%;
   }
 
   a,
@@ -63,6 +64,12 @@
   .editorial__section {
     page-break-after: always;
     page-break-inside: avoid;
+    border: 0;
+    margin: 0;
+  }
+
+  .editorial__section-header {
+    padding: 0;
   }
 
   .container {
@@ -84,9 +91,7 @@
   code {
     border-bottom: 0 !important;
     padding: 0 !important;
-  }
-
-  .editorial__section {
-    page-break-inside: avoid;
+    font-family: monospace !important;
+    font-size: 90%;
   }
 }
