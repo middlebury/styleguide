@@ -230,8 +230,9 @@ Clark Simpson ’47, MLitt English ’61, Hon DArt ’92
 
 Combinations of degrees and relationships:
 
-```
 Sequence: undergraduate, graduate, honorary, parent, grandparent
+
+```
 Jennifer Lee ’85, MA Russian ’94, P’14
 Frederick Favre ’51, MA Italian ’60, P’80, ’81, GP’10
 Lucy Pope Lyons ’63, MA French ’65, Hon DHL ’72, P’89, GP’17
