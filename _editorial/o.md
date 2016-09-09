@@ -7,9 +7,20 @@ published: true
 
 `off-campus study; study off campus` 
 
-**off-line**
+**Office of Advancement**
+
+- Alumni and Parent Programs
+- Annual Giving: Alumni Fund, Annual Fund, Parents’ Fund
+- Communications and Information Services
+- Gift Planning
+- Graduate Giving
+- Leadership Gifts
+- Parent Giving
+- Principal Gifts
 
 **Office of the President** (not President’s Office)
+
+**off-line**
 
 **OK**; okay (not okay to use o.k.)
 
