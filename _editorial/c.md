@@ -96,7 +96,7 @@ When quoting original material, use the capitalization system of the original, e
 
 `As the soldier explained 100 years ago, “We have forgiven Men and Little`
 
-`children who did not know what to expect from our Party.”`
+`Children who did not know what to expect from our Party.”`
 
 Exception: When a quote is used as an integral part of a sentence, the initial cap in the original may be dropped.
 
