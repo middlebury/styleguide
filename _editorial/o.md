@@ -7,7 +7,7 @@ published: true
 
 `off-campus study; study off campus` 
 
-**Office of Advancement**
+**Office of Advancement** (formerly College Advancement)
 
 - Alumni and Parent Programs
 - Annual Giving: Alumni Fund, Annual Fund, Parents’ Fund
