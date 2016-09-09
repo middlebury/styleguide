@@ -310,17 +310,7 @@ One of those who:
 
 **College** (when referring to Middlebury’s undergraduate school only)
 
-**College Advancement**
-
-- Alumni and Parent Programs
-- Annual Giving: Alumni Fund, Annual Fund, Parents’ Fund
-- Corporate and Foundation Relations
-- Communications and Information Services
-- Gift Planning
-- Graduate Giving
-- Leadership Gifts
-- Parent Giving
-- Principal Gifts
+**College Advancement** (See Office of Advancement)
 
 **college archives**, or archives—one of four discrete collections in Special Collections
 
