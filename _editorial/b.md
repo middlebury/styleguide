@@ -1,6 +1,5 @@
 ---
 title: b
-published: true
 ---
 
 **B** (when referring to a grade, no quotation marks); grades of B or Bs 

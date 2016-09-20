@@ -1,6 +1,5 @@
 ---
 title: c
-published: true
 ---
 
 **C** (when referring to a grade, no quotation marks); grades of C or Cs 

@@ -1,6 +1,5 @@
 ---
 title: o
-published: true
 ---
 
 **off-campus** (adj. before a noun); off campus (not a modifier)

@@ -1,6 +1,5 @@
 ---
 title: m
-published: true
 ---
 
 **magna cum laude** (roman type, no italics)

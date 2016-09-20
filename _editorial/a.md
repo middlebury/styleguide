@@ -1,6 +1,5 @@
 ---
 title: a
-published: true
 ---
 
 **A** (when referring to a grade, no quotation marks); grades of A or As

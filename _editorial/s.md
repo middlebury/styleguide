@@ -1,6 +1,5 @@
 ---
 title: s
-published: true
 ---
 
 **SAT** (Scholastic Aptitude Test)

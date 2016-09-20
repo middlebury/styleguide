@@ -1,6 +1,5 @@
 ---
 title: i
-published: true
 ---
 
 **i.e.** (use when you mean “that is”; roman type, followed by a comma)

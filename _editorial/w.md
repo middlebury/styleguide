@@ -1,6 +1,5 @@
 ---
 title: w
-published: true
 ---
 
 **Washington, DC** (in mailing addresses); Washington, D.C. (in running text)

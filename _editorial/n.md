@@ -1,6 +1,5 @@
 ---
-title: 'n'
-published: true
+title: n
 ---
 
 **name tag**

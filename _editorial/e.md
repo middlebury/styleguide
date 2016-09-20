@@ -1,6 +1,5 @@
 ---
 title: e
-published: true
 ---
 
 **East, east** (cap when referring to geographic location; lowercase for compass direction)

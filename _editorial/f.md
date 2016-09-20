@@ -1,6 +1,5 @@
 ---
 title: f
-published: true
 ---
 
 **F** (when referring to a grade, no quotation marks); grades of F or Fs
