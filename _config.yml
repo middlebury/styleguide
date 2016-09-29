@@ -1,9 +1,16 @@
 ---
 title: Middlebury Styleguide
+timezone: UTC
 collections:
   editorial:
     title: Editorial
     output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 exclude:
 - bower_components
 - node_modules
@@ -11,7 +18,6 @@ exclude:
 - package.json
 - README.md
 - "*.log"
-
 markdown: kramdown
 highlighter: rouge
 baseurl: "/styleguide"
