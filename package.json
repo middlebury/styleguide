@@ -4,7 +4,7 @@
   "description": "## Dependencies",
   "main": "index.js",
   "scripts": {
-    "dev": "jekyll serve --baseurl '' && browser-sync start --config bs-config.js",
+    "dev": "jekyll serve --baseurl '' & browser-sync start --config bs-config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
