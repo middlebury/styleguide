@@ -20,44 +20,28 @@
 
         <div class="editorial">
 
-          <div class="editorial__sidebar">
-            <nav id="editorial-nav">
-              <ol class="nav nav-blocks">
-                {% for item in site.editorial %}
-                <li>
-                  <a href="#{{item.title}}">{{ item.title | upcase }}</a>
-                </li>
+          <div class="editorial-content">
+
+            <h1>{{page.title}}</h1>
+
+            {{ content }}
+
+            {% for section in site.editorial %}
+              <section class="section" id="{{ section.title | slugify }}">
+                <header class="section-header">
+                  <h2 class="section-title">{{ section.title | upcase }}</h2>
+                  <a href="#top" class="to-top-link">&uarr; Back to top</a>
+                </header>
+                {% for topic in section.topics %}
+                  <div class="section-topic">
+                    <h3 class="topic-title" id="{{ topic.title | slugify }}">{{topic.title}}</h3>
+                    {% if topic.description %}
+                      <div class="topic-description">{{topic.description | markdownify }}</div>
+                    {% endif %}
+                  </div>
                 {% endfor %}
-              </ol>
-            </nav>
-          </div>
-
-          <div class="editorial__content">
-
-            <div class="editorial__content__inner">
-
-              <h1>{{page.title}}</h1>
-
-              {{ content }}
-
-              {% for section in site.editorial %}
-                <section class="editorial-sections" id="{{ section.title | slugify }}">
-                  <header class="editorial__section-header">
-                    <h2 class="editorial__section-title">{{ section.title | upcase }}</h2>
-                    <a href="#top" class="editorial__to-top-link">Back to top</a>
-                  </header>
-                  {% for topic in section.topics %}
-                    <div class="section-topic">
-                      <h3 id="{{ topic.title | slugify }}">{{topic.title}}</h3>
-                      {% if topic.description %}
-                        <p>{{topic.description | markdownify }}</p>
-                      {% endif %}
-                    </div>
-                  {% endfor %}
-                </section>
-              {% endfor %}
-
-            </div>
+              </section>
+            {% endfor %}
 
           </div>
 

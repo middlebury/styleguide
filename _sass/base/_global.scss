@@ -7,22 +7,29 @@
 }
 
 html {
-  color: #222;
+  color: $gray;
   font-size: 1em;
   line-height: 1.4;
 }
 
 body {
-  background: $body-bg;
+  background: $white;
   font-family: $font-family-sans-serif;
 }
 
+p {
+  font-size: 16px;
+  color: $gray;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
 a {
-  color: $link-color;
+  color: $brand-primary;
   text-decoration: none;
 
   &:hover {
-    color: $link-color-hover;
+    color: $brand-primary;
     text-decoration: underline;
   }
 }
@@ -31,6 +38,39 @@ img {
   max-width: 100%;
 }
 
-textarea {
-  resize: vertical;
+code {
+  display: inline-block;
+  font-family: verdana, sans-serif;
+  font-size: 14px;
+  padding: 5px;
+  color: $gray;
+  background-color: lighten($gray, 50%);
+}
+
+table {
+  width: 100%;
+
+  th,
+  td {
+    padding: 10px;
+    border: 1px solid #efefef;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $black;
+}
+
+:target {
+  animation: highlight 2s ease;
+}
+
+@keyframes highlight {
+  0% { background-color: #fffde7; }
+  100% { background-color: transparent; }
 }

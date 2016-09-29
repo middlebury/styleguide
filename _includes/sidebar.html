@@ -2,7 +2,13 @@
   <div class="logo">
     <a href="{{site.baseurl}}"><img src="{{site.baseurl}}/img/middlebury.svg" alt="{{site.title}}" /></a>
   </div>
-  <nav>
-    <a href="{{site.baseurl}}/editorial">Editorial</a>
+  <nav class="site-nav">
+    <ol>
+      {% for item in site.editorial %}
+      <li>
+        <a href="#{{item.title}}">{{ item.title | upcase }}</a>
+      </li>
+      {% endfor %}
+    </ol>
   </nav>
 </div>
