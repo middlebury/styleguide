@@ -10,12 +10,58 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css" /> -->
   </head>
-  <body class="{{page.bodyclass}}">
-
+  <body>
     <div class="container">
+
       {% include sidebar.html %}
+
       <div class="main">
-        {{content}}
+        <div id="top"></div>
+
+        <div class="editorial">
+
+          <div class="editorial__sidebar">
+            <nav id="editorial-nav">
+              <ol class="nav nav-blocks">
+                {% for item in site.editorial %}
+                <li>
+                  <a href="#{{item.title}}">{{ item.title | upcase }}</a>
+                </li>
+                {% endfor %}
+              </ol>
+            </nav>
+          </div>
+
+          <div class="editorial__content">
+
+            <div class="editorial__content__inner">
+
+              <h1>{{page.title}}</h1>
+
+              {{ content }}
+
+              {% for section in site.editorial %}
+                <section class="editorial-sections" id="{{ section.title | slugify }}">
+                  <header class="editorial__section-header">
+                    <h2 class="editorial__section-title">{{ section.title | upcase }}</h2>
+                    <a href="#top" class="editorial__to-top-link">Back to top</a>
+                  </header>
+                  {% for topic in section.topics %}
+                    <div class="section-topic">
+                      <h3 id="{{ topic.title | slugify }}">{{topic.title}}</h3>
+                      {% if topic.description %}
+                        <p>{{topic.description | markdownify }}</p>
+                      {% endif %}
+                    </div>
+                  {% endfor %}
+                </section>
+              {% endfor %}
+
+            </div>
+
+          </div>
+
+        </div>
       </div>
     </div>
 
@@ -23,14 +69,6 @@
     <script src="{{site.baseurl}}/js/vendor/affix.js"></script>
     <script src="{{site.baseurl}}/js/vendor/scrollspy.js"></script>
     <script src="{{site.baseurl}}/js/main.js"></script>
-    <!-- https://community.algolia.com/docsearch/documentation/ -->
-    <!-- <script src="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.js"></script> -->
-    <!-- <script>
-      docsearch({
-        apiKey: 'c1b21d73c5776250d1b6ba66a00dbbc7',
-        indexName: 'middlebury',
-        inputSelector: '#search'
-      });
-    </script> -->
+
   </body>
 </html>

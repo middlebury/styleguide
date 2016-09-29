@@ -1,65 +1,15 @@
-// core
-@import 'functions';
-@import 'variables';
-@import 'mixins';
-@import 'placeholders';
+@import 'core/functions';
+@import 'core/variables';
+@import 'core/mixins';
+@import 'core/placeholders';
 
-// global and resets
-@import 'normalize';
-@import 'global';
+@import 'base/normalize';
+@import 'base/global';
 
-// components
-@import 'nav';
+@import 'components/nav';
+@import 'components/sidebar';
+@import 'components/container';
+@import 'components/main';
+@import 'components/editorial';
 
-// other
-@import 'editorial';
-// @import 'docsearch';
-// @import 'syntax';
-
-.container {
-  @include clearfix();
-
-  @include media(md) {
-    height: 100vh;
-  }
-}
-
-.sidebar {
-  background-color: $brand-primary;
-  padding: 20px;
-  height: 100%;
-
-  @include media(md) {
-    width: 300px;
-    float: left;
-  }
-
-  .logo {
-    margin-bottom: 50px;
-  }
-
-  nav {
-    a {
-      display: block;
-      color: #fff;
-      font-size: 18px;
-    }
-  }
-}
-
-.main {
-  position: relative;
-  padding: 20px;
-
-  @include media(md) {
-    float: left;
-    width: calc(100% - 300px);
-    height: 100%;
-    overflow-y: auto;
-    padding: 40px;
-  }
-}
-
-
-
-@import 'print';
+@import 'base/print';

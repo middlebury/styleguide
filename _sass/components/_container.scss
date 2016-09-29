@@ -1,0 +1,7 @@
+.container {
+  @include clearfix();
+
+  @include media(md) {
+    height: 100vh;
+  }
+}

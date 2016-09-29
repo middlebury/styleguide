@@ -1,0 +1,22 @@
+.sidebar {
+  background-color: $brand-primary;
+  padding: 20px;
+  height: 100%;
+
+  @include media(md) {
+    width: 300px;
+    float: left;
+  }
+
+  .logo {
+    margin-bottom: 50px;
+  }
+
+  nav {
+    a {
+      display: block;
+      color: #fff;
+      font-size: 18px;
+    }
+  }
+}
