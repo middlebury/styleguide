@@ -99,7 +99,8 @@ topics:
 
   - title: Admissions Office
 
-  - title: advisor**, not adviser
+  - title: advisor
+    description: not adviser
 
   - title: African American (no hyphen)
 
