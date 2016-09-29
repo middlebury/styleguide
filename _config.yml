@@ -1,6 +1,6 @@
 title: Middlebury Styleguide
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "README.md", "*.log"]
+exclude: ["bower_components", "node_modules", "gulpfile.js", "package.json", "README.md", "*.log"]
 
 markdown: kramdown
 highlighter: rouge
