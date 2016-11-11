@@ -1,6 +1,5 @@
 ---
 title: g
-published: true
 ---
 
 **game changer** (two words)
