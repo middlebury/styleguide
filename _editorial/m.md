@@ -45,8 +45,6 @@ title: m
 
 **MiddNet**
 
-**MiddNews**
-
 **MiddPoints**
 
 **MiddXpress**
