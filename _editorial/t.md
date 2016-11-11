@@ -1,6 +1,5 @@
 ---
 title: t
-published: true
 ---
 
 **T-shirt; tee**

@@ -1,6 +1,5 @@
 ---
 title: c
-published: true
 ---
 
 **C** (when referring to a grade, no quotation marks); grades of C or Cs 
@@ -96,7 +95,7 @@ When quoting original material, use the capitalization system of the original, e
 
 `As the soldier explained 100 years ago, “We have forgiven Men and Little`
 
-`children who did not know what to expect from our Party.”`
+`Children who did not know what to expect from our Party.”`
 
 Exception: When a quote is used as an integral part of a sentence, the initial cap in the original may be dropped.
 
@@ -310,17 +309,7 @@ One of those who:
 
 **College** (when referring to Middlebury’s undergraduate school only)
 
-**College Advancement**
-
-- Alumni and Parent Programs
-- Annual Giving: Alumni Fund, Annual Fund, Parents’ Fund
-- Corporate and Foundation Relations
-- Communications and Information Services
-- Gift Planning
-- Graduate Giving
-- Leadership Gifts
-- Parent Giving
-- Principal Gifts
+**College Advancement** (See Office of Advancement)
 
 **college archives**, or archives—one of four discrete collections in Special Collections
 

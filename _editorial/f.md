@@ -1,12 +1,9 @@
 ---
 title: f
-published: true
 ---
 
 **F** (when referring to a grade, no quotation marks); grades of F or Fs
 
-**faculty cohead**
-**faculty head**
 **faculty singular and plural:** faculty is, faculty are, faculty members (all okay; depends on context) 
 `Middlebury’s faculty is recognized nationally for excellence in teaching.` 
 `Chemistry faculty are meeting with their students over the weekend.` 

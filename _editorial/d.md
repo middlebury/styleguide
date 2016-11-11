@@ -1,6 +1,5 @@
 ---
 title: d
-published: true
 ---
 
 **D** (when referring to a grade, no quotation marks); grades of D or Ds

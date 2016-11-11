@@ -21,7 +21,7 @@ gem install jekyll
 jekyll serve --watch --baseurl ''
 ```
 
-You have to set `--baseurl` when developing because the GitHub Page url is http://middlebury.github.io/styleguide and not the root of the domain.
+Because the site is not hosted at the root of the domain, you have to set `--baseurl`. `_config.yml` defines the baseurl when the site is deployed at http://middlebury.github.io/styleguide.
 
 
 ## Publishing

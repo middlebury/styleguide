@@ -1,9 +1,7 @@
 ---
 title: Editorial Style Guide
 layout: editorial
-published: true
 ---
-
 
 If you are sometimes bewildered about such things as whether to capitalize a person’s title, or how to format a list, or when to use hyphens, this manual can help. The Middlebury Editorial Style Guide was developed by the Communications Office to standardize the College’s print and online publications.
 

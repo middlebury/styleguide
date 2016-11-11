@@ -1,6 +1,5 @@
 ---
 title: p
-published: true
 ---
 
 **P’00** (parent of student in Class of 2000; no space between P and apostrophe)

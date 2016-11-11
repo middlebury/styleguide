@@ -1,6 +1,5 @@
 ---
 title: h
-published: true
 ---
 
 **hallmate** (one word)
