@@ -1,5 +1,6 @@
 ---
 title: j-l
+published: true
 ---
 
 **January term**, J-term
