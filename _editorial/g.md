@@ -1,5 +1,6 @@
 ---
 title: g
+published: true
 ---
 
 **game changer** (two words)
@@ -13,7 +14,7 @@ title: g
 Off campus: go.middlebury.edu/admissions       
 On campus: go/admissions
 
-**Grades**: A B C D F; Pass/Fail; Credit/No Credit; Honors; Incomplete (cap, no quotation marks)
+**grades**: A B C D F; Pass/Fail; Credit/No Credit; Honors; Incomplete (cap, no quotation marks)
 
 **GP’99** (grandparent of student from Class of 1999; no space between P and apostrophe)
 
