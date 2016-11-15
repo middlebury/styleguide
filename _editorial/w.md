@@ -1,5 +1,6 @@
 ---
 title: w
+published: true
 ---
 
 **Washington, DC** (in mailing addresses); Washington, D.C. (in running text)
@@ -44,6 +45,10 @@ Sentence capitalization rules apply. The first letter of a sentence is always ca
 **white** (lowercase when referring to race)
 
 **Wi-Fi**
+
+**Wilson Café**
+
+**Wilson Hall**
 
 **Winter Carnival**
 
