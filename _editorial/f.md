@@ -1,5 +1,6 @@
 ---
 title: f
+published: true
 ---
 
 **F** (when referring to a grade, no quotation marks); grades of F or Fs
@@ -45,7 +46,7 @@ Italicize unfamiliar expressions that have not become part of the English langua
 
 Some words no longer need to be italicized: `à la carte, à la mode, ad hoc, bona fide, carte blanche, per se, a cappella, vis-à-vis, magna cum laude`
 
-**Franklin Environmental Center at Hillcrest**; Janet Halstead Franklin ’72 and Churchill G. Franklin ’71 Environmental Center at Hillcrest
+**Franklin Environmental Center at Hillcrest**; Janet Halstead Franklin ’72 and Churchill G. Franklin ’71 Environmental Center at Hillcrest (See Named Buildings for guidelines on how to refer to this building)
 
 **freshman** (use first-year instead)
 
