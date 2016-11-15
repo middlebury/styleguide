@@ -19,7 +19,7 @@ It is no longer required to use commas before and after these elements, as they 
 
 **Kathryn Davis Fellows for Peace**; fellow
 
-**Kathryn Wasserman Davis School of Russian** (Language Schools) See Named Schools
+**Kathryn Wasserman Davis School of Russian** (Language Schools) See Named Schools for guidelines on how to refer to this school
 
 **Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Center for the Arts; Center for the Arts (MCA)
 
