@@ -172,4 +172,4 @@ Award names that contain periodical titles: the periodical is not italicized
 
 `Middlebury Magazine Short Story Prize`
 
-**Axinn Center at Starr Library**; Donald E. Axinn ’51, Litt. D. ’89 Center for Literary and Cultural Studies at Starr Library (See Named Buildings)
+**Axinn Center at Starr Library**; Donald E. Axinn ’51, Litt. D. ’89 Center for Literary and Cultural Studies at Starr Library (See Named Buildings for guidelines on how to refer to this building)
