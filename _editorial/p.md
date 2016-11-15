@@ -1,5 +1,6 @@
 ---
 title: p
+published: true
 ---
 
 **P’00** (parent of student in Class of 2000; no space between P and apostrophe)
@@ -9,6 +10,8 @@ title: p
 **Parents’ Committee**
 
 **Parents’ Fund**
+
+**Paul Nelson Bach to Barber Performing Arts Series** Nelson Performing Arts Series (See Named Programs for guidelines on how to refer to this series)
 
 **percent** (spell out in text; use % symbol in tables and scientific copy) 
 
