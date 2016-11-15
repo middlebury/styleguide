@@ -10,10 +10,15 @@ published: true
 In order to honor our donors' wishes about named buildings, please follow these guidelines. The guidelines pertain to references within one written piece.
 
 Axinn Center at Starr Library, first reference; Axinn Center, subsequent references
+
 Davis Family Library, first reference; Davis Library, subsequent references
+
 Franklin Family Environmental Center at Hillcrest, first reference; Franklin Center at Hillcrest, subsequent references
+
 Mahaney Center for the Arts
+
 McCardell Bicentennial Hall, first reference; Bicentennial Hall or Bi Hall, subsequent references
+
 Wilson Café, Wilson Hall
 
 **Named Schools, Departments, and Programs**
@@ -21,9 +26,13 @@ Wilson Café, Wilson Hall
 In order to honor our donors' wishes about named schools, departments, and programs, please follow these guidelines. The guidelines pertain to references within one written piece.
 
 Betty Ashbury Jones MA ’86 School of French, first reference; all subsequent references must be the full title
+
 Greenberg-Starr Department of Chinese, first reference; Department of Chinese, subsequent references
+
 Kathryn Wasserman Davis School of Russian, first reference; Davis School of Russian, subsequent references
+
 Middlebury C.V. Starr Schools Abroad, first reference; Schools Abroad, subsequent references
+
 Paul Nelson Bach to Barber Performing Arts Series, first reference; Nelson Performing Arts Series, subsequent references
 
 **nationwide**
