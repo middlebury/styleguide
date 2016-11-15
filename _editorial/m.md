@@ -1,5 +1,6 @@
 ---
 title: m
+published: true
 ---
 
 **magna cum laude** (roman type, no italics)
@@ -14,7 +15,7 @@ title: m
 
 **-mate**; words combined with -mate are closed (bandmate, classmate, hallmate, roommate)
 
-**McCardell Bicentennial Hall**; John M. McCardell Jr. Bicentennial Hall; BiHall
+**McCardell Bicentennial Hall**; John M. McCardell Jr. Bicentennial Hall; BiHall (See Named Buildings for guidelines on how to refer to this building)
 
 **midcareer**; midwinter; midterm; mid-August; mid-1990s
 
@@ -32,7 +33,7 @@ title: m
 - Middlebury Bread Loaf School of English
 - Middlebury Bread Loaf Writers’ Conferences
 - Middlebury College
-- Middlebury C.V. Starr Schools Abroad
+- Middlebury C.V. Starr Schools Abroad (See Named Programs for guidelines on how to refer to this program)
 - Middlebury Institute of International Studies at Monterey
 - Middlebury Language Schools
 - Middlebury School of the Environment
