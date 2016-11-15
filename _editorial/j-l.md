@@ -1,10 +1,9 @@
 ---
 title: j-l
+published: true
 ---
 
 **January term**, J-term
-
-**Japanese School** (Language Schools)
 
 **John M. McCardell Jr. Bicentennial Hall**; McCardell Bicentennial Hall; BiHall
 
@@ -20,7 +19,7 @@ It is no longer required to use commas before and after these elements, as they 
 
 **Kathryn Davis Fellows for Peace**; fellow
 
-**Kathryn Wasserman Davis School of Russian** (Language Schools)
+**Kathryn Wasserman Davis School of Russian** (Language Schools) See Named Schools
 
 **Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Center for the Arts; Center for the Arts (MCA)
 
@@ -30,7 +29,7 @@ It is no longer required to use commas before and after these elements, as they 
 
 **Language Schools** (capped and plural in reference to the set of schools); Language School (capped and singular in reference to one person’s experience or one school)
 
-Specific Language School Names:
+Specific Language School Names (See Named Schools for guidelines on how to refer to named schools)
 
 Arabic School
 
@@ -44,7 +43,7 @@ School of Hebrew
 
 Italian School
 
-Japanese School
+School of Japanese
 
 School of Korean
 
