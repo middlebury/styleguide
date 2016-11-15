@@ -1,5 +1,6 @@
 ---
 title: d
+published: true
 ---
 
 **D** (when referring to a grade, no quotation marks); grades of D or Ds
@@ -36,7 +37,7 @@ No comma is used when the month and year appear without a day:
 
 **David W. Ginevan Recycling Center**; Recycling Center
 
-**Davis Family Library**
+**Davis Family Library** See Named Buildings for guidelines on how to refer to this building
 
 **Davis Fellows**; Kathryn Davis Fellows for Peace
 

@@ -1,10 +1,13 @@
 ---
 title: s
+published: true
 ---
 
 **SAT** (Scholastic Aptitude Test)
 
 **scholar-athlete**
+
+**School of Japanese** (Language Schools)
 
 **schoolwide**
 

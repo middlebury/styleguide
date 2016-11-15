@@ -1,5 +1,6 @@
 ---
 title: g
+published: true
 ---
 
 **game changer** (two words)
@@ -18,3 +19,5 @@ On campus: go/admissions
 **GP’99** (grandparent of student from Class of 1999; no space between P and apostrophe)
 
 **Great Hall**; Tormondsen Great Hall
+
+**Greenberg-Starr Department of Chinese** See Named Departments for guidelines on how to refer to this department

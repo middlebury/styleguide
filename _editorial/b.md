@@ -1,5 +1,6 @@
 ---
 title: b
+published: true
 ---
 
 **B** (when referring to a grade, no quotation marks); grades of B or Bs 
@@ -12,7 +13,7 @@ title: b
 
 **BCE** (before common era)
 
-**Betty Ashbury Jones MA ’86 School of French** (Language Schools)
+**Betty Ashbury Jones MA ’86 School of French** (Language Schools) See Named Schools for guidelines on how to refer to this school
 
 **bias-free content**
 
