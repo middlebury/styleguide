@@ -13,7 +13,9 @@ published: true
 
 **Paul Nelson Bach to Barber Performing Arts Series** Nelson Performing Arts Series (See Named Programs for guidelines on how to refer to this series)
 
-**percent** (spell out in text; use % symbol in tables and scientific copy) 
+**percent** (spell out in text; use % symbol in tables and scientific copy)
+
+**Peterson Family Athletics Complex**
 
 **PhD**; PhDs (plural); doctoral degree; doctorate (not doctorate degree) 
 
