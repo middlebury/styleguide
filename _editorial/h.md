@@ -1,5 +1,6 @@
 ---
 title: h
+published: true
 ---
 
 **hallmate** (one word)
@@ -16,7 +17,7 @@ title: h
 
 **home page**
 
-**homecoming**; Homecoming 2009 (cap when referring to a specific homecoming)
+**Homecoming**; Homecoming 2009 (lowercase when not talking about the annual event)
 
 **Homecoming Weekend**
 

@@ -1,5 +1,6 @@
 ---
 title: c
+published: true
 ---
 
 **C** (when referring to a grade, no quotation marks); grades of C or Cs 
@@ -131,7 +132,7 @@ When a generic term is part of a proper noun, it is capped: Proctor Dining Hall.
 
 **chair, chairperson**
 
-**change maker** (two words)
+**changemaker**
 
 **Château**, the Château, le Château
 
