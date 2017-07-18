@@ -5,8 +5,6 @@ published: true
 
 **A** (when referring to a grade, no quotation marks); grades of A or As
 
-**academic titles** see titles
-
 **a cappella** (preferred spelling)
 
 **AB** (artium baccalaureus) or BA (Bachelor of Arts)
@@ -66,6 +64,8 @@ Abbreviations with more than one period use apostrophe s:
 **academic courses** (capped and roman, no quotation marks) see titles
 
 **academic periods** (lowercase) fall semester, winter term, spring semester
+
+**academic titles** see titles
 
 **Academy Award winner**; Academy Award-winning producer
 
