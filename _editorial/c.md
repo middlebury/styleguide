@@ -334,7 +334,7 @@ However, do not use a comma if “and” is replaced by an ampersand:
 `He teaches biology, chemistry & law.` (Avoid this use of ampersand if possible.)
 
 
-**Commencement**
+**Commencement** Commencement day, Commencement ceremony, but Commencement Weekend; see Holidays and Recurring Events in capitalization
 
 **commonly confused words, a few** (more problematic words may be found in _Chicago
 Manual of Style_, pages 262–300)
@@ -357,7 +357,13 @@ Manual of Style_, pages 262–300)
 
 **Commons**; Ross Commons; the Commons; Commons system
 
-**Commons dean**
+Atwater Commons
+Brainerd Commons
+Cook Commons
+Ross Commons
+Wonnacott Commons
+
+**Commons team**: (not capped) Commons head, Commons dean, Commons coordinator, Commons residential advisor (CRA), first-year counselor (FYC), resident assistant (RA), community assistant (CA)
 
 **compound nouns and adjectives**
 
@@ -375,7 +381,9 @@ To hyphenate or not to hyphenate is often a question for writers and editors. Us
 
 `High school student; experiential learning opportunities; winter term courses`
 
-When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384.
+When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384. See also hyphen
+
+**conferences** (official names are capped) see capitalization
 
 **conjunctions**
 
@@ -385,7 +393,11 @@ Conjunctions such as _and, or, but_, and _nor_ may be used to begin a sentence. 
 
 **cooperative**
 
+**course titles** see titles
+
 **course work**
+
+**creative work titles** see titles
 
 **cross-country skiing; cross-country running**
 
