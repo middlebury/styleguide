@@ -7,6 +7,8 @@ published: true
 
 **Dance Company of Middlebury** (DCM)
 
+**dashes**; en and em dashes, see hyphens
+
 **data** (used as a plural noun, i.e. “earnings,” or a singular “mass noun,” i.e. “information”)
 
 **database**
@@ -25,7 +27,7 @@ At Middlebury, we express dates this way: month/day/year
 
 `Tickets are on sale, Wednesday, June 5, at the concert hall.`
 
-Note: See hyphens and dashes for more on en-dash use: An en dash is longer than a hyphen and is used between inclusive numbers, to show a range.
+Note: See hyphens for more on en-dash use: An en dash is longer than a hyphen and is used between inclusive numbers, to show a range.
 
 In a sentence, separate the day and year with commas:
 
@@ -39,9 +41,11 @@ No comma is used when the month and year appear without a day:
 
 **Davis Family Library** See Named Buildings for guidelines on how to refer to this building
 
-**Davis Fellows**; Kathryn Davis Fellows for Peace
+**Davis Fellows**; Kathryn Davis Fellows for Peace; fellow
 
 **D.C.** (in informal writing, such as class notes, an acceptable abbreviation for Washington, D.C.)
+
+**dean** (lowercase except when using it in a title before a name) see titles
 
 **Dean’s List**
 
@@ -69,7 +73,7 @@ Several options for identifying decades may be used:
 
 Note: no apostrophe between the year and s
 
-**degree abbreviations** (see also class years)
+**degree abbreviations** see also class years
 
 Graduate schools and advanced degrees:
 
@@ -162,7 +166,6 @@ On invitations/talks/programs:
 Any of the designations above may be used on invitations. The class year and degree may be spelled out for more formal treatments.
 
 
-
 **degrees granted by Middlebury:**
 
 Bread Loaf School of English:
@@ -176,6 +179,12 @@ Language Schools:
 DML—Doctor of Modern Languages
 
 MA—Master of Arts
+
+Middlebury College:
+
+BA—Bachelor of Arts (also, AB—artium baccalaureus)
+
+MS—Master of Science (no longer a degree given at Middlebury; last MS was awarded on May 26, 1996)
 
 Middlebury Institute of International Studies at Monterey:
 
@@ -218,12 +227,6 @@ MBA/MAIEP—MBA/MA International Environmental Policy
 MBA/MAIPS—MBA/MA International Policy Studies
 
 MPA/MAIEM—MPA/MA International Education Management
-
-Undergraduate College:
-
-BA—Bachelor of Arts (also, AB—artium baccalaureus)
-
-MS—Master of Science (no longer a degree given at Middlebury; last MS was awarded on May 26, 1996)
 
 Honorary Degrees:
 
