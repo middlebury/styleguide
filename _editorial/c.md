@@ -183,11 +183,11 @@ Exception: On those rare occasions when individuals insist on the .5 designation
 For combinations of names, class years, and degrees, see degree abbreviations
 
 
-**co words** (close most co words) coauthor, cocurricular, coexistence, cohead
+**co words** (close most co words) coauthor, cocurricular, coexistence, cohead; see prefixes
 
-**co-chair**
+**co-chair** (exception to the rule)
 
-**collective nouns**
+**collective nouns** see also mass nouns
 
 Collective nouns related to quantity (percentage and fractions—_thirty percent, one-fourth, half_) take a singular verb when preceded by *the*. Otherwise, the verb agrees with the number of the noun in the prepositional phrase that follows it:
 
@@ -197,7 +197,7 @@ But:
 
 `Fortunately, four fifths of the employees have stocks to cash in.` (plural noun in prepositional phrase)
 
-`Unfortunately, four fifths of last year’s harvest was lost.` (singular noun in prep phrase)
+`Unfortunately, four fifths of last year’s harvest was lost.` (singular noun in prepositional phrase)
 
 
 “Number of” as a collective noun:
@@ -226,11 +226,13 @@ One of those who:
 
 **College Advancement** (See Office of Advancement)
 
-**college archives**, or archives—one of four discrete collections in Special Collections
+**College Archives**, or archives—one of three discrete collections in Special Collections
+
+**College Bookstore**; Middlebury College Bookstore; the bookstore
 
 **College breaks** (see **breaks**)
 
-**College-wide** (when –wide is added to capped words, use the hyphen)
+**College-wide** (when –wide is added to capped words, use the hyphen) see suffixes
 
 **colon**
 
