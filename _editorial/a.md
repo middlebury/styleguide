@@ -5,11 +5,21 @@ published: true
 
 **A** (when referring to a grade, no quotation marks); grades of A or As
 
-**a cappella**
+**academic titles** see titles
+
+**a cappella** (preferred spelling)
 
 **AB** (artium baccalaureus) or BA (Bachelor of Arts)
 
 **abbreviations/acronyms**
+
+General use guidelines:
+
+Use full words the first time the abbreviation or acronym is used in text, and place the abbreviation or acronym in parentheses immediately following.
+
+Do not begin a sentence with an abbreviation. Exceptions: Mr., Ms., Mrs., Dr., and St.
+
+Some common abbreviations:
 
 `U.S., USA, D.C., L.A.`
 
@@ -19,19 +29,17 @@ published: true
 
 `a.k.a.` (for “also known as”)
 
-`AM, PM; or a.m., p.m.` (use small caps for a more formal and easier-to-read look)
+`AM, PM; or a.m., p.m.` (use small caps when a more formal and easier-to-read look is needed; always use a.m. and p.m. in running text)
+
+`St. for Saint, Mt. for Mount` (spell out in more formal text; otherwise, just be consistent within a document whether using abbreviations or spelling out)
 
 Periods with abbreviations:
 - Use periods with abbreviations ending in lowercase letters: Dr., Ms., etc.
 - Use periods with initials standing for a person’s name: J. R. Tolkien. Do not use periods with initials that replace the full name: JFK.
 - No periods are used with abbreviations comprised of full capitals, even if lowercase letters appear within the abbreviation: PhD, MD, CEO
-- In running text, use periods with traditional state abbreviations and the United States (U.S.) (see States)
+- In running text, use periods with traditional state abbreviations and the United States (U.S.) (see states)
 
-General use guidelines:
 
-Use full words the first time the abbreviation or acronym is used in text, and place the abbreviation or acronym in parentheses immediately following.
-
-Do not begin a sentence with an abbreviation. Exceptions: Mr., Ms., Mrs., Dr., and St.
 
 Capitals vs. lowercase:
 
@@ -53,9 +61,11 @@ Abbreviations with more than one period use apostrophe s:
 
 `p.p.’s; the d.t.’s`
 
-**Abernethy Collection of American Literature**—one of four discrete collections in Special Collections
+**Abernethy Collection of American Literature**—one of three discrete collections in Special Collections
 
-**academic courses** (capped and roman, no quotation marks)
+**academic courses** (capped and roman, no quotation marks) see titles
+
+**academic periods** (lowercase) fall semester, winter term, spring semester
 
 **Academy Award winner**; Academy Award-winning producer
 
@@ -84,11 +94,15 @@ Dining Services, McCullough
 Middlebury College
 Middlebury, VT 05753
 ```
-- When listing a classroom or office, the name of the building comes first, followed by the room number.
+- When listing a classroom or office, the name of the building comes first, followed by the room number. If the words Room or Suite are added, add a comma. (It's preferable to add Room or Suite if the project is one going to an audience unfamiliar with the campus.)
 
-  `Axinn Center 248; Davis Family Library 225C`
+  `Axinn Center 248; Davis Family Library 225C; Mahaney Center for the Arts, Room 221`
 
-**ADA Office, Americans with Disabilities Act Office**
+**ADA Office**; Americans with Disabilities Act Office
+
+**adjectives, compound** (add a hyphen when before a noun) see compound nouns and adjectives
+
+`This is a half-time position.` `That's an open-ended question.`
 
 **Admissions Office**
 
@@ -120,12 +134,22 @@ Middlebury, VT 05753
 
 <small>**AM**</small> (small caps); or, **a.m.** (always in running text)
 
+**Americans with Disabilities Act Office**; ADA Office
+
 **and/&** (spell out and avoid ampersand unless it is part of an official name of a firm,
 college, etc.)
 
-**Annual Giving**; Annual Fund; Office of Annual Giving
+**Annual Fund**
 
-**apostrophe**
+**Annual Giving**; Office of Annual Giving
+
+**apostrophe** (used to indicate possessive or to show that something as in part of a year as in "the '60s"; or used for a contraction as in "they're" for "they are.") Be especially careful when using the apostrophe with "it." When used the apostrophe shows that a letter is missing:
+
+`It's raining out.` (It is raining out—the "i" is missing.)
+
+With no apostrophe, the word indicates the possessive:
+
+`The house lost its roof.` see also possessives
 
 In class years and decades, the apostrophe should point to the left:
 
@@ -152,11 +176,17 @@ Mac shortcut: `shift + option + right bracket key`
 
 **Arabic School** (Language Schools)
 
-**archives**, also college archives—one of four discrete collections in Special Collections
+**archives**, also College Archives—one of three discrete collections in Special Collections
+
+**art work titles** see titles
+
+**articles in titles** see titles
 
 **artist in residence** (no hyphens)
 
 **Asian American** (no hyphen; avoid use of Oriental)
+
+**associations** (official names are capped)
 
 **awards**
 
