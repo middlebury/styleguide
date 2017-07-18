@@ -69,7 +69,99 @@ Several options for identifying decades may be used:
 
 Note: no apostrophe between the year and s
 
-**degree abbreviations** (see class years and degrees)
+**degree abbreviations** (see also class years)
+
+Graduate schools and advanced degrees:
+
+```
+Betty Smith, MA French ’90
+Thomas Horn, MA English ’02
+Harry Jenkins, MLitt English ’77
+Clint Underwood, MA Spanish ’55
+```
+
+Exception: If a degree is being listed in a publication solely aimed at the audience of one particular school, like Bread Loaf, only put the MA with no comma.
+
+```
+Thomas Horn MA’02
+```
+
+Institute alumni:
+
+```
+Betty Smith BAIS ’10
+Peter Lang MAIPS ’12
+Lucinda Lander MATESOL ’12
+John Jones MBA ’08
+```
+
+Honorary degrees:
+
+```
+Mark Thane, Hon DArt ’10
+James Caldwell, Hon DHL ’01
+Suzanne Proctor, Hon DLitt ’96
+```
+
+Combinations of names and degrees:
+Rule of thumb: Place spaces and commas between each of the elements. Use maiden names for married alumnae.
+
+Parents and grandparents:
+```
+Jennifer Jenkins P’05
+Beulah Rockford P’77, ’80, GP’09
+```
+
+Combinations of degrees:
+
+Sequence: undergraduate, graduate, honorary
+```
+Lucille Hentz Taft ’82, MA French ’85
+Sylvester Sinclair ’10, MAIPS ’13
+Clark Simpson ’47, MLitt English ’61, Hon DArt ’92
+```
+
+Combinations of degrees and relationships:
+
+Sequence: undergraduate, graduate, honorary, parent, grandparent
+
+```
+Jennifer Lee ’85, MA Russian ’94, P’14
+Frederick Favre ’51, MA Italian ’60, P’80, ’81, GP’10
+Lucy Pope Lyons ’63, MA French ’65, Hon DHL ’72, P’89, GP’17
+```
+
+Combinations of people:
+
+Rule of thumb: The alum is always listed first; if both people are alums, the man is listed first so woman’s maiden name can be included; otherwise the woman is listed first if neither person is an alum and the maiden name is not needed.
+
+```
+Susan James Johnston ’98 and Paul Johnston
+Eric ’69 and Louise Ames Hollander ’71
+Henry Lappman ’90 and Nicole Sweet ’91
+Mary and Joseph Clark
+Norma Sampson and William Larch
+```
+
+Note: If both people are the parents of the student, the parent designation goes after the second name, preceded by a comma. If only one person is the parent, that person is listed first regardless of whether it is the man or the woman.
+
+```
+Cindy and James Clough, P’10
+Helen Peterson P’09 and John Henderson
+Lars Olsen P’17 and Cynthia Olsen
+```
+
+Note: Depending on the formality of the publication, names can be shortened or spelled out and middle initials can be added for more formal pieces.
+
+On name tags:
+
+For the small area on name tags, it’s fine to amend these rules to fit the space. For example, Jeremiah Long P’80, ’90, GP’07 could be changed to `Jeremiah Long P’80’90G’07`.
+
+On invitations/talks/programs:
+
+Any of the designations above may be used on invitations. The class year and degree may be spelled out for more formal treatments.
+
+
 
 **degrees granted by Middlebury:**
 
