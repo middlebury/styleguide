@@ -186,7 +186,7 @@ Mac shortcut: `shift + option + right bracket key`
 
 **Asian American** (no hyphen; avoid use of Oriental)
 
-**associations** (official names are capped)
+**associations** (official names are capped) see capitalization
 
 **awards**
 
