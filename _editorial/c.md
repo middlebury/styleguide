@@ -376,7 +376,7 @@ To hyphenate or not to hyphenate is often a question for writers and editors. Us
 
 `High school student; experiential learning opportunities; winter term courses; study abroad opportunity`
 
-When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384. See also hyphen
+When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384. See also hyphens
 
 **conferences** (official names are capped) see capitalization
 
