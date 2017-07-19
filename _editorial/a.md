@@ -45,15 +45,15 @@ Over time, some longer initialisms become lowercased (radar). Refer to Webster�
 
 Abbreviations, plural:
 
-Abbreviations without periods take s, no apostrophe. Apostrophes may be used if misreading is a possibility.
+Abbreviations without periods take _s_, no apostrophe. Apostrophes may be used if misreading is a possibility.
 
 `BA, BAs; PhD, PhDs; URL, URLs`
 
-Abbreviations with one period usually add the s before the period:
+Abbreviations with one period usually add the _s_ before the period:
 
 `ed., eds.; yr., yrs.; Dr., Drs.`
 
-Abbreviations with more than one period use apostrophe s:
+Abbreviations with more than one period use apostrophe _s_:
 
 `p.p.’s; the d.t.’s`
 
@@ -72,6 +72,8 @@ Abbreviations with more than one period use apostrophe s:
 Foreign words that have been incorporated into English often retain their original accents. Check the dictionary when in doubt—use first spelling.
 
 `vis-à-vis; déjà vu`
+
+**acronyms** see abbreviations
 
 **ACT** (American College Test)
 
@@ -92,7 +94,7 @@ Dining Services, McCullough
 Middlebury College
 Middlebury, VT 05753
 ```
-- When listing a classroom or office, the name of the building comes first, followed by the room number. If the words Room or Suite are added, add a comma. (It's preferable to add Room or Suite if the project is one going to an audience unfamiliar with the campus.)
+- When listing a classroom or office, the name of the building comes first, followed by the room number. If the words Room or Suite are added, add a comma. (It's preferable to add Room or Suite if the written piece is one going to an audience unfamiliar with the campus.)
 
   `Axinn Center 248; Davis Family Library 225C; Mahaney Center for the Arts, Room 221`
 
@@ -116,6 +118,8 @@ Middlebury, VT 05753
 
 **alpine skiing**
 
+**alumni** (alumnus—male, alumna—female, alumni—all male or both sexes, alumnae—all female, or graduate—gender neutral)
+
 **Alumni College** 
 
 **Alumni Fund**
@@ -125,8 +129,6 @@ Middlebury, VT 05753
 **Alumni Leadership Conference** (ALC)
 
 **Alumni Office**
-
-**alumni** (alumnus—male, alumna—female, alumni—all male or both sexes, alumnae—all female, or graduate—gender neutral)
 
 **alum(s)** (informal for alumnus/a/i/ae)
 
@@ -141,7 +143,7 @@ college, etc.)
 
 **Annual Giving**; Office of Annual Giving
 
-**apostrophe** (used to indicate possessive or to show that something as in part of a year as in "the '60s"; or used for a contraction as in "they're" for "they are.") Be especially careful when using the apostrophe with "it." When used the apostrophe shows that a letter is missing:
+**apostrophe** (used to indicate possessive; to show that something is missing as in part of a year: "the '60s"; or used for a contraction as in "they're" for "they are.") Be especially careful when using the apostrophe with "it." Use of the apostrophe indicates a letter is missing: 
 
 `It's raining out.` (It is raining out—the "i" is missing.)
 
@@ -167,10 +169,11 @@ Not OK:  `'80`
 
 OK: `’80`
 
+Exception: Some fonts or web programs cannot make a curly apostrophe so a dagger must be used in those instances.
+
 How to make a left-facing apostrophe: This character is located in Microsoft Word’s “insert” menu > symbol > advanced symbol > special characters. Select the “single closing quote.” PC users, creating a shortcut is helpful if you use the character often.
 
 Mac shortcut: `shift + option + right bracket key`
-
 
 **Arabic School** (Language Schools)
 
