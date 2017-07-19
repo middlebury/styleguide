@@ -134,6 +134,8 @@ When a generic term is part of a proper noun, it is capped: Proctor Dining Hall.
 
 **Château**, the Château, le Château
 
+**Chinese Department** see Greenberg-Starr Department of Chinese; this department should not be called the Chinese Department
+
 **Chinese School** (Language Schools)
 
 **Chip Kenyon ’85 Arena**; Kenyon Arena
