@@ -57,7 +57,7 @@ Some words no longer need to be italicized: `à la carte, à la mode, ad hoc, bo
 
 **Fulbright Scholar**; scholar (lowercase when standing alone)
 
-**full time** (noun); full-time (adjective, adverb)
+**full time** (noun); full-time (adjective, adverb) see compound nouns and adjectives
 
 `That new position is full time. `
 
