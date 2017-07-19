@@ -26,4 +26,4 @@ Capitalize the letters used for grades and grade names. Do not place quotation m
 
 **Great Hall**; Tormondsen Great Hall in McCardell Bicentennial Hall
 
-**Greenberg-Starr Department of Chinese** See Named Departments for guidelines on how to refer to this department
+**Greenberg-Starr Department of Chinese** See Named Schools, Departments, and Programs for guidelines on how to refer to this department
