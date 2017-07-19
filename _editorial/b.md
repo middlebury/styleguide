@@ -13,7 +13,7 @@ published: true
 
 **BCE** (before common era)
 
-**Betty Ashbury Jones MA ’86 School of French** (Language Schools) See Named Schools for guidelines on how to refer to this school: this school must never be abbreviated to a shorter name; always use full name
+**Betty Ashbury Jones MA ’86 School of French** (Language Schools) See Named Schools, Departments, and Programs for guidelines on how to refer to this school: this school must never be abbreviated to a shorter name; always use full name
 
 **bias-free content**
 
