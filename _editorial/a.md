@@ -7,8 +7,6 @@ published: true
 
 **a cappella** (preferred spelling)
 
-**AB** (artium baccalaureus) or BA (Bachelor of Arts)
-
 **abbreviations/acronyms**
 
 General use guidelines:
