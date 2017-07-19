@@ -5,9 +5,13 @@ published: true
 
 **hallmate** (one word)
 
+**headlines** see capitalization
+
 **health care** (as a noun, two words); **healthcare** (as an adjective, one word)
 
-**Helen Hartness Flanders Ballad Collection**—one of four discrete collections in Special Collections
+**Hebrew School**; see School of Hebrew or Language Schools; this school should not be called the Hebrew School
+
+**Helpdesk**
 
 **high school** (no hyphen as adj. or noun)
 
@@ -15,15 +19,17 @@ published: true
 
 **historic** (a historic, not an historic)
 
+**holidays** see Holidays and Recurring Events in capitalization
+
 **home page**
 
 **Homecoming**; Homecoming 2009 (lowercase when not talking about the annual event)
 
-**Homecoming Weekend**
+**Homecoming Weekend** see Holidays and Recurring Events in capitalization
 
-**Honor Code**
+**Honor Code** (capped)
 
-**hyphens** (use to avoid ambiguity)
+**hyphens** (use to avoid ambiguity) see also compound nouns and adjectives
 
 Double hyphens: Don’t use them. Instead, use the em dash (—). These are long dashes, the equivalent length of an M (—), used to set off parenthetical text or digressive elements. There should be no space on either side: `This has been a long haul—to Hades and back—for everyone involved`.
 
@@ -33,7 +39,7 @@ En dashes (–). Half the length of the em dash. Used between inclusive numbers,
 
 `My weight has ranged from 125–165 lbs in the last decade.`
 
-Sports scores do not indicate a range, and therefore use a hyphen.
+`Their soccer season ended at 12–4–2.`
 
 To make an em-dash or an en-dash in Word on a PC or Mac:
 
@@ -56,13 +62,13 @@ Or, create your own shortcuts by following the directions in the Symbol section.
 
 Hyphens with prefixes and suffixes:
 
-In general, prefixes are not followed by hyphens unless the resulting word can be confused with another word, is difficult to decipher, or precedes a number or a capitalized word.
+In general, prefixes are not followed by hyphens unless the resulting word can be confused with another word, is difficult to decipher, or precedes a number or a capitalized word. Suffixes are also, in general, closed up.
 
 co:  coauthor; cowriter; codirector; coedit; but co-chair
 
-fold:  threefold
-
 like:  no hyphen unless word ends in l. lifelike; funnel-like
+
+long: daylong, monthlong, yearlong
 
 mid:  midwinter; midyear; midlife; mid-Atlantic; mid-August; mid-1990s
 
@@ -103,8 +109,4 @@ Hyphenate from 21 to 99 when spelled out:
 
 `twenty-one; ninety-nine; one hundred forty-eight`
 
-Sports scores:
-
-`The game ended in a 21-21 tie. Middlebury won in double overtime, 3-2.`
-
-(See also compound nouns and adjectives)
+Middlebury (it is permissible to hyphenate at line break)

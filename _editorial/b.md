@@ -13,7 +13,7 @@ published: true
 
 **BCE** (before common era)
 
-**Betty Ashbury Jones MA ’86 School of French** (Language Schools) See Named Schools for guidelines on how to refer to this school: This school must never be abbreviated to a shorter name; always use full name
+**Betty Ashbury Jones MA ’86 School of French** (Language Schools) See Named Schools, Departments, and Programs for guidelines on how to refer to this school: this school must never be abbreviated to a shorter name; always use full name
 
 **bias-free content**
 
@@ -33,9 +33,9 @@ In choosing photos for your project, try to include a variety that demonstrates 
 
 **black** (common designations of ethnic groups by color are usually lowercased unless a particular publisher or author prefers otherwise)
 
-**Board of Trustees**, the board, the trustees; see also standing committees
-
 **Board of Overseers** (three total—College, Institute, Schools)
+
+**Board of Trustees**, the board, the trustees; see also standing committees
 
 **Box Office**
 
@@ -50,7 +50,7 @@ In choosing photos for your project, try to include a variety that demonstrates 
 * Bread Loaf Translators’ Conference
 * Bread Loaf in Sicily
 
-**breaks** (not capped)
+**breaks** (not capped) see capitalization
 
 * October recess  
 * Thanksgiving break  

@@ -9,7 +9,7 @@ published: true
 
 **dashes**; en and em dashes, see hyphens
 
-**data** (used as a plural noun, i.e. “earnings,” or a singular “mass noun,” i.e. “information”)
+**data** (used as a plural noun, i.e. “earnings,” or a singular mass noun, i.e. “information”)
 
 **database**
 
@@ -71,7 +71,7 @@ Several options for identifying decades may be used:
 
 `1980s, 1960s; ’60s, ’80s; eighties, sixties`
 
-Note: no apostrophe between the year and s
+Note: no apostrophe between the year and _s_ because it indicates a plural
 
 **degree abbreviations** see also class years
 
@@ -243,13 +243,15 @@ DLitt—Doctor of Letters (Hon DLitt)
 DSc—Doctor of Sciences (Hon DSc)
 
 
-**departments** (cap departments)
+**departments** (department names should be capitalized) see also titles
 
 `Department of Physics; Physics Department; Department of French; French Department`
 
 **Digital Liberal Arts Initiative** (DLA)
 
-**directions** (lowercase north, south, east, west, northern, etc., when they indicate a compass direction: `They traveled west. She moved back east.` Cap these words when they designate a region: `They love the West Coast. She lives in Northern Virginia.`)
+**directions** (lowercase north, south, east, west, northern, etc., when they indicate a compass direction: `They traveled west. She moved back east.` 
+
+Cap these words when they designate a region: `They love the West Coast. She lives in Northern Virginia.`)
 
 **disability-related terms**
 
@@ -283,4 +285,4 @@ More appropriate `wheelchair user, person who uses a wheelchair`
 
 **Donald E. Axinn ’51, Litt. D. ’89 Center for Literary and Cultural Studies at Starr Library**; Axinn Center at Starr Library (Note: the use of “Litt. D.” here is an exception to our style because that is how the building was named.)
 
-**dot-com**
+**drama titles** see titles

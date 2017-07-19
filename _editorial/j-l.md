@@ -3,7 +3,11 @@ title: j-l
 published: true
 ---
 
-**January term**, J-term
+**Janet Halstead Franklin ’72 and Churchill G. Franklin ’71 Environmental Center at Hillcrest**; Franklin Environmental Center at Hillcrest; see Named Buildings for guidelines on how to refer to this building
+
+**January term**, J-term (one month semester in January); also called winter term
+
+**Japanese School**; see School of Japanese or Language Schools; this school should not be called the Japanese School
 
 **John M. McCardell Jr. Bicentennial Hall**; McCardell Bicentennial Hall; BiHall
 
@@ -17,19 +21,23 @@ It is no longer required to use commas before and after these elements, as they 
 
 **Kaleidoscope** (roman)
 
-**Kathryn Davis Fellows for Peace**; fellow
+**Kathryn Davis Fellows for Peace**; Davis Fellow; fellow
 
-**Kathryn Wasserman Davis School of Russian** (Language Schools) See Named Schools
+**Kathryn Wasserman Davis School of Russian** (Language Schools) See Named Schools, Departments, and Programs for guidelines on how to refer to this school
 
-**Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Center for the Arts; Center for the Arts (MCA) See Named Buildings for guidelines on how to refer to this building
+**Kenyon Arena**; Chip Kenyon ’85 Arena
+
+**Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Center for the Arts; Center for the Arts (MCA) 
 
 **Kirk Center** (formerly known as Kirk Alumni Center)
 
-**Language Pledge** (capped and trademarked)
+**Korean School**; see School of Korean or Language Schools; this school should not be called the Korean School
+
+**Language Pledge** (capped and trademarked); the pledge (lowercase when standing alone after a first reference to the Language Pledge)
 
 **Language Schools** (capped and plural in reference to the set of schools); Language School (capped and singular in reference to one person’s experience or one school)
 
-Specific Language School Names (See Named Schools for guidelines on how to refer to named schools)
+Specific Language School Names (See Named Schools, Departments, and Programs for guidelines on how to refer to named schools)
 
 Arabic School
 
@@ -55,7 +63,7 @@ Spanish School
 
 **Letters written**
 
-Link to the page with templates on the Communications website.
+See the page with templates on the Communications website.
 
 **Letters used as words or letters**
 
@@ -69,11 +77,13 @@ Scholastic grades are capped and set in roman type.
 
 **library**; Davis Family Library
 
-**Listserv**
+**-like**; words combined with -like are closed (ladylike, lifelike) unless they end in "l" (bell-like) see suffixes and hyphens
+
+**lists** see vertical lists
 
 **literary studies**; Program in Literary Studies
 
-**-long**; words combined with -long are closed (daylong, monthlong, weeklong, yearlong, lifelong)
+**-long**; words combined with -long are closed (daylong, monthlong, weeklong, yearlong, lifelong) see suffixes
 
 **long-standing**
 

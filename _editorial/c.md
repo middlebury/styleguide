@@ -16,9 +16,11 @@ Names, associations, conferences, and official policies:
 
 As a rule, official names are capitalized. Unofficial or shortened names are not. This applies to offices, buildings, and programs, as well as to committees and boards, symposia, conferences, course titles, forms, applications, and so on. For example, the Board of Trustees is shortened to the board. The Residential Life Committee becomes the committee. The Middlebury College Museum of Art—the museum; the Common Application for Admission—admission application; Language Schools—the schools.
 
-Exceptions: Exceptions may sometimes be made to avoid confusion or because the shortened, generic term has become a proper name in its own right:References to Middlebury’s undergraduate school, when shortened, are capped—College; Middlebury Institute of International Studies when shortened is the Institute.
+Exceptions: Exceptions may sometimes be made to avoid confusion or because the shortened, generic term has become a proper name in its own right: References to Middlebury’s undergraduate school, when shortened, are capped—College; Middlebury Institute of International Studies when shortened is the Institute.
 
 Names of departments are always capped: The Department of French; the French Department.
+
+Names of majors are not capped unless it is a proper name: biology, environmental studies, English and American literatures.
 
 Names of official policies, such as Institutional Diversity and Undergraduate Honor System, should be capitalized. However, when the concept is being discussed, use the lowercase. 
 `Middlebury College is strongly committed to promoting diversity on campus.` 
@@ -29,12 +31,6 @@ In running text, lowercase a *the* that precedes a name, even if it is part of t
 `The Underhill Foundation`
 
 `When you visit the Underhill Foundation, please check their address.`
-
-Grades:
-
-Capitalize the letters used for grades and grade names. Do not place quotation marks around grades.
-
-`A, B, C, D, F, Pass, Incomplete; Grade of B; Grades of B or Bs`
 
 Headlines: 
 
@@ -138,6 +134,8 @@ When a generic term is part of a proper noun, it is capped: Proctor Dining Hall.
 
 **Château**, the Château, le Château
 
+**Chinese Department** see Greenberg-Starr Department of Chinese; this department should not be called the Chinese Department
+
 **Chinese School** (Language Schools)
 
 **Chip Kenyon ’85 Arena**; Kenyon Arena
@@ -180,10 +178,9 @@ Try to avoid using the .5 designation because it is very difficult to verify in 
 
 Exception: On those rare occasions when individuals insist on the .5 designation and supply the information themselves: `Marcia Long ’10.5`
 
-For combinations of names, class years, and degrees, see degree abbreviations
+For combinations of names, class years, and degrees, see degree abbreviations.
 
-
-**co words** (close most co words) coauthor, cocurricular, coexistence, cohead; see prefixes
+**co- words** (close most co- words) coauthor, cocurricular, coexistence, cohead; see prefixes
 
 **co-chair** (exception to the rule)
 
@@ -357,10 +354,10 @@ Manual of Style_, pages 262–300)
 
 **Commons**; Ross Commons; the Commons; Commons system
 
-Atwater Commons
-Brainerd Commons
-Cook Commons
-Ross Commons
+Atwater Commons; 
+Brainerd Commons; 
+Cook Commons; 
+Ross Commons; 
 Wonnacott Commons
 
 **Commons team**: (not capped) Commons head, Commons dean, Commons coordinator, Commons residential advisor (CRA), first-year counselor (FYC), resident assistant (RA), community assistant (CA)
@@ -379,9 +376,9 @@ Two words used as one expression may be written as one word, as a hyphenated wor
 
 To hyphenate or not to hyphenate is often a question for writers and editors. Use hyphens to increase readability. For example, the hyphen in much-needed clothing shows that the clothing is greatly needed rather than abundant and needed. Where no ambiguity could result, hyphenation is not needed.
 
-`High school student; experiential learning opportunities; winter term courses`
+`High school student; experiential learning opportunities; winter term courses; study abroad opportunity`
 
-When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384. See also hyphen
+When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384. See also hyphens
 
 **conferences** (official names are capped) see capitalization
 
@@ -407,6 +404,6 @@ Conjunctions such as _and, or, but_, and _nor_ may be used to begin a sentence. 
 
 Some are lowercased; some are capitalized. Refer to _Chicago Manual of Style_ or the dictionary.
 
-romantic period; nuclear age; classical period; Victorian era; colonial period; Roaring Twenties; Ice Age; Middle Ages; Renaissance
+`romantic period; nuclear age; classical period; Victorian era; colonial period; Roaring Twenties; Ice Age; Middle Ages; Renaissance`
 
 **curriculum vitae, CV**; curricula vitae, CVs (plural); informal usage: vita, vitae (pl.)
