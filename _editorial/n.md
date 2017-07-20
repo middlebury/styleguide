@@ -3,7 +3,7 @@ title: 'n'
 published: true
 ---
 
-**name tag**
+**name tag** see class years
 
 **Named Buildings**
 
@@ -35,17 +35,19 @@ Middlebury C.V. Starr Schools Abroad, first reference; Schools Abroad, subsequen
 
 Paul Nelson Bach to Barber Performing Arts Series, first reference; Nelson Performing Arts Series, subsequent references
 
-**nationwide**
+**names** see capitalization, class years, degree abbreviations
+
+**nationwide** 
 
 **Native American** (no hyphen, as adjective or noun)
 
-**need-blind admission**
+**need-blind admission**; need blind
 
 **New Faces** (roman)
 
 **Nobel laureate**; Nobel Prize winner; Nobel Prize-winning author
 
-**non words** (Most non words are not hyphenated unless they include a proper noun)
+**non words** (Most non words are not hyphenated unless they include a proper noun) see prefixes
 
 `nonacademic; noncertified; nondegree; nonfiction; nonmajor; nonnative; nonprofit; nonscience; non-Christian; non-Anglo`
 
@@ -57,19 +59,11 @@ Middlebury College hereby designates the dean of the College to coordinate its e
 
 **Nordic skiing**
 
-**North**; north (cap when referring to geographic location; lowercase for compass direction)
+**North**; north (cap when referring to geographic location; lowercase for compass direction) see directions
+
+**nouns** see collective nouns, mass nouns, compound nouns and adjectives
 
 **numbers**
-
-Never start a sentence with a numeral. Spell out the number:
-
-`One hundred and thirty-five people attended the conference.`
-
-Avoid starting a phrase or sentence after an em-dash or colon with a numeral. Spell out the number or rewrite:
-
-`They made a lot of money—thirty-six people gave millions.`
-
-`They made a lot of money because 36 people gave millions.`
 
 In general:
 
@@ -88,6 +82,16 @@ Very large numbers (million and higher) may be expressed with a combination of n
 These same rules apply to ordinals:
 
 `seventh place; 30th position; 135th award; third in line`
+
+Never start a sentence with a numeral. Spell out the number:
+
+`One hundred and thirty-five people attended the conference.`
+
+Avoid starting a phrase or sentence after an em-dash or colon with a numeral. Spell out the number or rewrite:
+
+`They made a lot of money—thirty-six people gave millions.`
+
+`They made a lot of money because 36 people gave millions.`
 
 Clusters of Numbers:
 
@@ -117,13 +121,11 @@ But: `I’m dividing my estate into five fifths to distribute to my heirs.`
 
 `Five-sevenths full`
 
-Whole numbers plus fractions: These can be spelled or expressed in numerals, whichever is most readable. (Do not link whole numbers to the fraction with a hyphen)
+Whole numbers plus fractions: Spell out in running text unless the numerals are needed for a particular reason, such as a recipe. (Do not link whole numbers to the fraction with a hyphen)
 
 `Three and three-fourths cups of flour should be enough to make pizza.`
 
-`The recipe calls for 3 ¾ cups of flour.`
-
-Measurements:
+Measurements(see also hyphens):
 
 Hyphenate measurements that serve as adjectives preceding a noun:
 
@@ -135,9 +137,7 @@ Connect measurements with hyphens when the numbers represent a range, and they f
 
 `We knew that a tsunami might create 80-to-90-foot tidal waves.`
 
-[See also hyphens](#)
-
-Money:
+Currency:
 
 References to money may be written as numerals or spelled out. If spelled, also spell the unit of currency, except when using very large numbers.
 
@@ -151,11 +151,10 @@ Percentages:
 
 Always express percentages as a numeral-word combination, except in charts and scientific copy: `25 percent, 4 percent`
 
-Reunion Years:
+Reunion Years (see reunion):
 
-Use numerals for specific reunions: `20th reunion, 10th reunion`
-
-Reunion events may be expressed this way: `Reunion 2012, Reunion Weekend`
+Use numerals for specific reunions: `20th reunion, 10th reunion, 5th reunion`
+Do not spell out 5th reunion.
 
 Temperature:
 
