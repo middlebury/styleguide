@@ -37,33 +37,43 @@ For Middlebury references on how to write degrees, see degree abbreviations and 
 
 **Middlebury Alumni Association**; MAA (no periods)
 
-**Middlebury schools and programs**:
+**Middlebury College Bookstore**; the bookstore
+
+**Middlebury College Organice Farm**; Organic Farm
+
+**Middlebury College Snow Bowl**; Snow Bowl
+
+**Middlebury schools** (also called entities):
 - Middlebury Bread Loaf School of English
 - Middlebury Bread Loaf Writers’ Conferences
 - Middlebury College
-- Middlebury C.V. Starr Schools Abroad (See Named Programs for guidelines on how to refer to this program)
+- Middlebury C.V. Starr Schools Abroad (See Named Schools, Departments, and Programs for guidelines on how to refer to this program)
 - Middlebury Institute of International Studies at Monterey
 - Middlebury Language Schools
 - Middlebury School of the Environment
 
 **Middlebury Magazine** (When used as a title, italicize in running text)
 
-**Middlebury Online**
+**Middlebury Online**: Middlebury's online community for alumni
 
-**MiddLab**
+**MiddLab**: an open-access publishing site for faculty and student research projects
 
-**MiddNet**
+**MiddNet**: the career advisory network for all Middlebury alumni and students
 
-**MiddPoints**
+**MiddPoints**: an internal news email from Human Resources
 
-**MiddXpress**
+**MiddXpress**: convenience store in McCullough Student Center
 
 **Midwest**
+
+**Midyear Celebration** (graduation for Febs); also called Feb Celebration
 
 **mini-reunion**
 
 **modern Hebrew**
 
-**multi words** (most multi words are not hyphenated); multicultural, multifaceted, multimedia
+**multi- words** (most multi words are not hyphenated); multicultural, multifaceted, multimedia; see prefixes
 
-**Museum of Art**; the museum
+**Museum of Art**; Middlebury College Museum of Art; the museum
+
+**music titles** see titles
