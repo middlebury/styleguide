@@ -5,29 +5,37 @@ published: true
 
 **magna cum laude** (roman type, no italics)
 
-**Mahaney Center for the Arts**; Kevin P. Mahaney ’84 Center for the Arts; Center for the Arts (MCA)
+**Mahaney Center for the Arts**; Kevin P. Mahaney ’84 Center for the Arts; Center for the Arts (MCA) see Named Buildings for guidelines on how to refer to this building
 
 **majors**; lowercased unless they include a word normally capped:
 
 `sociology, physics, English and American literatures, French, classics`
 
-**master’s degree**; Master of Arts degree; master’s degrees
+**mass nouns** 
+A mass noun is one that denotes something uncountable, either because it is abstract (evidence) or because it refers to an indeterminate aggregation of people or things (faculty, staff). The latter is also called a collective noun. As the subject of a sentence, a mass noun usually takes a singular verb. (The evidence is irrefutable.) But in a collective sense, it may take either a singular or plural verb form, depending on whether the group is being described or the individual members.
 
-**-mate**; words combined with -mate are closed (bandmate, classmate, hallmate, roommate)
+`The staff is on break. The staff are voting for a Staff Council representative.`
+
+**master’s degree**; Master of Arts degree; master’s degrees
+For Middlebury references on how to write degrees, see degree abbreviations and class years
+
+**-mate**; words combined with -mate are closed (bandmate, classmate, hallmate, roommate) see suffixes
 
 **McCardell Bicentennial Hall**; John M. McCardell Jr. Bicentennial Hall; BiHall (See Named Buildings for guidelines on how to refer to this building)
 
-**midcareer**; midwinter; midterm; mid-August; mid-1990s
+**McCullough Student Center**; McCullough
+
+**measurements**; see numbers
+
+**midcareer**; midwinter; midterm; mid-August; mid-1990s; see prefixes
 
 **middle age** (noun); middle-aged (adj.); the Middle Ages
 
-**Midd** (short for Middlebury)
+**Midd** (short for Middlebury); use in informal text
 
-**Midd Kid** (student or alum)
+**Midd Kid** (student or alum); use in informal text
 
-**Middlebury** (it is permissible to hyphenate at line break)
-
-**Middlebury College Alumni Association**; MCAA (no periods)
+**Middlebury Alumni Association**; MAA (no periods)
 
 **Middlebury schools and programs**:
 - Middlebury Bread Loaf School of English
