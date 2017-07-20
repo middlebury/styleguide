@@ -3,7 +3,10 @@ title: p
 published: true
 ---
 
-**P’00** (parent of student in Class of 2000; no space between P and apostrophe)
+**P’00** (parent of student in Class of 2000; no space between P and apostrophe) see class years
+
+**parents** 
+In text with an audience of students or prospective students, try to use "families" instead of "parents," as some students live with other family members or guardians.
 
 **Parents’ Association**
 
@@ -11,11 +14,17 @@ published: true
 
 **Parents’ Fund**
 
-**Paul Nelson Bach to Barber Performing Arts Series** Nelson Performing Arts Series (See Named Programs for guidelines on how to refer to this series)
+**Paul Nelson Bach to Barber Performing Arts Series** Nelson Performing Arts Series (See Named Schools, Departments, and Programs for guidelines on how to refer to this series)
+
+**Peace Corps volunteer**; but Returned Peace Corps Volunteer (RPCV)
+
+**people titles** see titles
 
 **percent** (spell out in text; use % symbol in tables and scientific copy)
 
-**Peterson Family Athletics Complex**
+**percentages** see numbers
+
+**Peterson Family Athletics Complex**; the athletics complex
 
 **PhD**; PhDs (plural); doctoral degree; doctorate (not doctorate degree) 
 
@@ -23,11 +32,17 @@ published: true
 
 **playwright**
 
+**plurals with generic terms** cap generic term; see capitalization
+
+`Brooklyn and George Washington Bridges. Hudson and East Rivers.`
+
 **policy maker** (two words)
 
-**Posse Scholar**
+**Portuguese School** (Language Schools)
 
-**possessives**
+**Posse Scholar**; refers to a student who is part of the Posse program
+
+**possessives** see apostrophe
 
 Add _’s_ to create the possessive, even for singular names ending in an _s, x, z_
 
@@ -46,11 +61,13 @@ If the subject is not compound but two separate entities, both take an apostroph
 Exceptions: Nouns that are the same in both singular and plural form like politics’; species’ 
 Some “for sake” expressions: for goodness’ sake; *but* for appearance’s sake.
 
-**post words** (no hyphen with most post words) postwar, postdoctoral
+**post words** (no hyphen with most post words) postwar, postdoctoral; see prefixes
 
 **PM** (small caps, more formal usage); or **p.m.** (always in running text)
 
-**pre words** (no hyphen with most pre words) preadmission; premed; prelaw; preschool
+**pre words** (no hyphen with most pre words) preadmission; premed; prelaw; preschool; preorientation; see prefixes
+
+**prefixes**: most words with prefixes are closed up, no hyphen; always check the dictionary if in doubt; see co-, mid-, multi-, non-, post-, pre-, semi-; exception self-
 
 **premier/premiere** (premier is top quality; premiere is a first performance)
 
@@ -62,10 +79,12 @@ Some “for sake” expressions: for goodness’ sake; *but* for appearance’s 
 
 **problem solver** (two words)
 
+**professional titles** see titles
+
 **professor**; Professor Susan Smith; Susan Smith, professor of chemistry; chemistry professor Susan Smith; Professor of Chemistry Susan Smith; John Felder, professor emeritus; James P. Kindlemeier, Briggs Professor of Greek Studies
 
-**Program in Environmental Studies**
+**Program in Environmental Studies**; Environmental Studies Program (preferred)
 
-**Public Safety; Department of Public Safety**
+**Public Safety**; Department of Public Safety
 
 **Pulitzer Prize winner**; Pulitzer Prize–winning author

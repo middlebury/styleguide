@@ -1,8 +1,9 @@
 ---
 title: q
+published: true
 ---
 
-**Q-and-A format**
+**Q-and-A format** written this way in running text
 
 **quotation marks with other punctuation**
 
@@ -21,3 +22,5 @@ Question marks and exclamation points go either inside or outside, depending upo
 `“I shall overcome!” he shouted.`
 
 `Did he say, “I will balance the budget”?`
+
+**quotes** see capitalization
