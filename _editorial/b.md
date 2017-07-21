@@ -11,9 +11,7 @@ published: true
 
 **bandmate** (one word)
 
-**BCE** (before common era)
-
-**Betty Ashbury Jones MA ’86 School of French** (Language Schools) See Named Schools, Departments, and Programs for guidelines on how to refer to this school: this school must never be abbreviated to a shorter name; always use full name
+**Betty Ashbury Jones MA ’86 School of French** (Language Schools) (See Named Schools, Departments, and Programs for guidelines on how to refer to this school: this school must never be abbreviated to a shorter name; **always use full name**)
 
 **bias-free content**
 
@@ -29,7 +27,7 @@ In choosing photos for your project, try to include a variety that demonstrates 
 
 **biblical**
 
-**BiHall**; John M. McCardell Jr. Bicentennial Hall; McCardell Bicentennial Hall
+**BiHall**; John M. McCardell Jr. Bicentennial Hall; McCardell Bicentennial Hall (See Named Buildings for guidelines on how to refer to this building)
 
 **black** (common designations of ethnic groups by color are usually lowercased unless a particular publisher or author prefers otherwise)
 
