@@ -15,7 +15,7 @@ published: true
 
 **Fall Family Weekend** see Holidays and Recurring Events in capitalization
 
-**fall**; fall semester; fall semester courses; fall 2016
+**fall**; fall semester; fall semester courses; fall 2016; see seasons
 
 **Feb** (name of a student who matriculates and graduates in February)
 
@@ -33,7 +33,7 @@ published: true
 
 **first-year counselor (FYC)** (part of Commons team)
 
-**first-year seminar** (capitalize when title of a course)
+**first-year seminar**
 
 **first-years**; first-year students (avoid freshman)
 
@@ -51,7 +51,7 @@ Some words no longer need to be italicized: `à la carte, à la mode, ad hoc, bo
 
 **freshman** (use first-year instead)
 
-**Fulbright Fellow**; fellow
+**Fulbright Fellow**; fellow (lowercase when standing alone)
 
 **Fulbright Fellowship**
 
