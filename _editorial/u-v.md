@@ -1,10 +1,15 @@
 ---
 title: u-v
+published: true
 ---
 
 **up-to-date** (hyphenate in all positions)
 
 **United States**; USA; U.S. (periods)
+
+**unpublished work titles** see titles
+
+**URL** see Web addresses
 
 **user-friendly**
 
@@ -83,7 +88,7 @@ Use of periods in vertical lists:
 
 In general, follow the examples above. When a list contains a combination of sentence fragments and full sentences, try to revise so they are all similar. If that is not possible, use periods after all items for visual consistency.
 
-**vice-chairman**; **vice-chancellor**
+**vice-chairman**; **vice-chancellor** (with hyphens)
 
 **vice president** (no hyphen)
 
