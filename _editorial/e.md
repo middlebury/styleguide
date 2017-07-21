@@ -73,7 +73,7 @@ Commas are not used in dates with fewer than five digits.
 
 **euro**
 
-**event titles**
+**event titles** see titles
 
 **ewords** see email
 
