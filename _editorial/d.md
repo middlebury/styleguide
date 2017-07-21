@@ -242,6 +242,7 @@ DLitt—Doctor of Letters (Hon DLitt)
 
 DSc—Doctor of Sciences (Hon DSc)
 
+**Department of Public Safety**; Public Safety
 
 **departments** (department names should be capitalized) see also titles
 
