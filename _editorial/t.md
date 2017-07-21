@@ -1,15 +1,15 @@
 ---
 title: t
+published: true
 ---
 
 **T-shirt; tee**
 
 **tax-free**
 
-**technology terms**
+**Teach For America** (TFA); cap the "F"
 
-Try to avoid obscure technology references and long URLs. (You can use bitly.com to shrink long Web addresses. Or you can direct readers to the right page: `Visit www.williams.edu, click on “Alumni,” and then “Golf Tournament.”`) For websites, do not include the tag `http://`. Instead: `www.williams.edu`; `facebook.com`. When available, use a "go" link. 
-If you are printing a document with a URL or email address in it, be sure to remove the hyperlink.
+**technology terms**
 
 Common technology terms:
 
