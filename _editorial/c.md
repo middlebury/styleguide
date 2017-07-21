@@ -7,7 +7,7 @@ published: true
 
 **café**, also cafe
 
-**campuswide** (no hyphen with suffix –wide unless the word is capped: collegewide, statewide, worldwide but College-wide for undergraduate, Institute-wide for Monterey) see suffixes
+**campuswide** (no hyphen with suffix –wide unless the word is capped: College-wide for undergraduate, Institute-wide for Monterey) see suffixes and -wide
 
 **capitalization** (Capitalize only formal or specific names. When in doubt, use lowercase, especially when a word’s meaning is generic.)
 See **titles** for rules about professional and academic titles.
@@ -70,7 +70,7 @@ Headlines with hyphenated words: Cap both elements. The only exception is if the
 
 `Twenty-Fifth Street Headquarters`
 
-Headlines with a prefix: This is basically one word, not two, so the second element is not capped unless it is a proper noun or proper adjective.
+Headlines with a prefix and hyphen: This is basically one word, not two, so the second element is not capped unless it is a proper noun or proper adjective.
 
 `Anti-intellectual Attitudes on the Increase`
 
@@ -219,7 +219,7 @@ One of those who:
 
 `One of those men who fix cars will work on your new project.`
 
-**College** (when referring to Middlebury’s undergraduate school only)
+**College** (capped when referring to Middlebury’s undergraduate school only)
 
 **College Advancement** (See Office of Advancement)
 
@@ -227,7 +227,7 @@ One of those who:
 
 **College Bookstore**; Middlebury College Bookstore; the bookstore
 
-**College breaks** (see **breaks**)
+**College breaks** (see breaks)
 
 **College-wide** (when –wide is added to capped words, use the hyphen) see suffixes
 
@@ -325,13 +325,14 @@ Series:
 Use comma to separate each item in a series, including the last item:
 
 `He brought bread, potatoes, green beans, and butterscotch.`
+`I want to ifs, ands, or buts.`
 
 However, do not use a comma if “and” is replaced by an ampersand:
 
 `He teaches biology, chemistry & law.` (Avoid this use of ampersand if possible.)
 
 
-**Commencement** Commencement day, Commencement ceremony, but Commencement Weekend; see Holidays and Recurring Events in capitalization
+**Commencement** Commencement day, Commencement ceremony, but Commencement Weekend; see holidays and recurring events in capitalization
 
 **commonly confused words, a few** (more problematic words may be found in _Chicago
 Manual of Style_, pages 262–300)
