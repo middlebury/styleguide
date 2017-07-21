@@ -5,14 +5,15 @@ published: true
 
 **Washington, DC** (in mailing addresses); Washington, D.C. (in running text)
 
-**Web**, the (proper noun, for World Wide Web)
+**Watson Fellow**; fellow
+
+**Web**, (proper noun, for World Wide Web)
 
 **Web addresses**
 
-Try to avoid obscure technology references and long URLs. (You can use bitly.com to shrink long Web addresses. Or you can direct readers to the right page: `Visit www.williams.edu, click on “Alumni,” and then “Golf Tournament.”`) For websites, do not include the tag `http://`. Instead: `www.williams.edu`; `facebook.com`. When available, use a "go" link. 
-If you are printing a document with a URL or email address in it, be sure to remove the hyperlink.
+Try to avoid obscure technology references and long URLs. (You can use bitly.com to shrink long Web addresses. Or you can direct readers to the right page: `Visit www.williams.edu, click on “Alumni,” and then “Golf Tournament.”`) For websites, do not include the tag `http://`. Instead: `www.williams.edu`; `facebook.com`. When available, use a "go" link. If you are printing a document with a URL or email address in it, be sure to remove the hyperlink.
 
-Web addresses should be kept on one line whenever possible. If it is necessary to break a web address, do so before a form of punctuation (i.e., hyphen or period) or after a slash (/). Do not add a hyphen at the end of the line.
+In running text, Web addresses should be kept on one line whenever possible. If it is necessary to break a web address, do so before a form of punctuation (i.e., hyphen or period) or after a slash (/). Do not add a hyphen at the end of the line.
 
 Example:
 
@@ -33,6 +34,8 @@ Sentence capitalization rules apply. The first letter of a sentence is always ca
 
 **web page**
 
+**Web work titles** see titles
+
 **weblog**; blog
 
 **webcam**
@@ -43,19 +46,17 @@ Sentence capitalization rules apply. The first letter of a sentence is always ca
 
 **website**
 
-**West**; west (cap when referring to geographic location; lowercase for compass direction)
+**West**; west (cap when referring to geographic location; lowercase for compass direction) see directions
 
 **white** (lowercase when referring to race)
 
+**-wide** words with the suffix -wide are closed up unless the stem word is capped (worldwide, communitywide, but College-wide) see suffixes
+
 **Wi-Fi**
-
-**Wilson Café**
-
-**Wilson Hall**
 
 **Winter Carnival**
 
-**winter term**
+**winter term** (one month semester in January) also called January term; J-term
 
 **winter term courses**
 
@@ -68,3 +69,5 @@ Sentence capitalization rules apply. The first letter of a sentence is always ca
 **writer in residence** (no hyphens)
 
 **writing program**
+
+**written work titles** see titles
