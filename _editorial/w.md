@@ -9,6 +9,9 @@ published: true
 
 **Web addresses**
 
+Try to avoid obscure technology references and long URLs. (You can use bitly.com to shrink long Web addresses. Or you can direct readers to the right page: `Visit www.williams.edu, click on “Alumni,” and then “Golf Tournament.”`) For websites, do not include the tag `http://`. Instead: `www.williams.edu`; `facebook.com`. When available, use a "go" link. 
+If you are printing a document with a URL or email address in it, be sure to remove the hyperlink.
+
 Web addresses should be kept on one line whenever possible. If it is necessary to break a web address, do so before a form of punctuation (i.e., hyphen or period) or after a slash (/). Do not add a hyphen at the end of the line.
 
 Example:
