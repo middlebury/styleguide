@@ -13,7 +13,7 @@ published: true
 
 **database**
 
-**dates**
+**dates** see also comma
 
 At Middlebury, we express dates this way: month/day/year
 
@@ -23,7 +23,7 @@ At Middlebury, we express dates this way: month/day/year
 
 `We will see you on the 13th of July.`
 
-`October 7–17, 2011; October 7–November 5, 2011`
+`October 7–17, 2017; October 7–November 5, 2017`
 
 `Tickets are on sale, Wednesday, June 5, at the concert hall.`
 
@@ -39,9 +39,9 @@ No comma is used when the month and year appear without a day:
 
 **David W. Ginevan Recycling Center**; Recycling Center
 
-**Davis Family Library** See Named Buildings for guidelines on how to refer to this building
+**Davis Family Library** (See Named Buildings for guidelines on how to refer to this building)
 
-**Davis Fellows**; Kathryn Davis Fellows for Peace; fellow
+**Davis Fellow**; Kathryn Davis Fellows for Peace; fellow
 
 **D.C.** (in informal writing, such as class notes, an acceptable abbreviation for Washington, D.C.)
 

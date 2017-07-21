@@ -39,9 +39,10 @@ Note: ewords
 
 email; ebook; ecommerce; eshopping (Although ewords are still hyphenated in Merriam-Webster, our style is to close them up and lowercase them. Most other words that combine an initial letter with a word begin with a capital letter and use a hyphen (T-shirt, U-turn, S-curve, X-ray).
 
-**emerita** (feminine singular); emeritus (masc. singular); emeritae (fem. pl.); emeriti (masc. plural or masc/fem plural) These always follow the noun. She is professor emerita of biology. Cap before the name and as part of an endowed title: Professor Emeritus Garrett Smith; Russell Leng, James Jermain Professor Emeritus of Political Economics
+**emerita** (feminine singular); emeritus (masc. singular); emeritae (fem. pl.); emeriti (masc. plural or masc/fem plural) These always follow the noun. 
+`She is professor emerita of biology.` Cap before the name and as part of an endowed title: `Professor Emeritus Garrett Smith; Russell Leng, James Jermain Professor Emeritus of Political Economics`
 
-**Environmental Studies Program** (preferred), Program in Environmental Studies
+**Environmental Studies Program** (preferred); Program in Environmental Studies
 
 **eras**
 
@@ -72,7 +73,7 @@ Commas are not used in dates with fewer than five digits.
 
 **euro**
 
-**event titles**
+**event titles** see titles
 
 **ewords** see email
 

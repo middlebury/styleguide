@@ -19,7 +19,7 @@ Some common abbreviations:
 
 `U.S., USA, D.C., L.A.`
 
-`PhD, BA, AB, MA, MLitt, MD, NATO, AIDS, CEO`
+`PhD, BA, MA, MLitt, MD, NATO, AIDS, CEO`
 
 `e.g., i.e., etc.`
 
@@ -33,9 +33,7 @@ Periods with abbreviations:
 - Use periods with abbreviations ending in lowercase letters: Dr., Ms., etc.
 - Use periods with initials standing for a person’s name: J. R. Tolkien. Do not use periods with initials that replace the full name: JFK.
 - No periods are used with abbreviations comprised of full capitals, even if lowercase letters appear within the abbreviation: PhD, MD, CEO
-- In running text, use periods with traditional state abbreviations and the United States (U.S.) (see states)
-
-
+- In running text, spell out state names but in less formal writing periods can be used with traditional state abbreviations and the United States (U.S.); see states
 
 Capitals vs. lowercase:
 
@@ -90,11 +88,11 @@ Middlebury, VT 05753
 
 ```
 Jane Jones
-Dining Services, McCullough
+Student Financial Services, Service Building
 Middlebury College
 Middlebury, VT 05753
 ```
-- When listing a classroom or office, the name of the building comes first, followed by the room number. If the words Room or Suite are added, add a comma. (It's preferable to add Room or Suite if the written piece is one going to an audience unfamiliar with the campus.)
+When listing a classroom or office, the name of the building comes first, followed by the room number. If the words Room or Suite are added, add a comma. (It's preferable to add Room or Suite if the written piece is one going to an audience unfamiliar with the campus.)
 
   `Axinn Center 248; Davis Family Library 225C; Mahaney Center for the Arts, Room 221`
 
@@ -108,17 +106,17 @@ Middlebury, VT 05753
 
 **advisor**, not adviser
 
-**African American** (no hyphen)
+**African American** (no hyphen even when it comes before a noun)
 
 **a.k.a** (for "also known as")
 
-**All-American**
+**All-American** (hyphen)
 
 **alma mater** (lowercase when referring to where one graduated from; cap when referring to college song)
 
 **alpine skiing**
 
-**alumni** (alumnus—male, alumna—female, alumni—all male or both sexes, alumnae—all female, or graduate—gender neutral)
+**alumni** (alumnus—male; alumna—female; alumni—all male or both sexes; alumnae—all female; or graduate—gender neutral) see also class years and degree abbreviations
 
 **Alumni College** 
 
@@ -132,18 +130,17 @@ Middlebury, VT 05753
 
 **alum(s)** (informal for alumnus/a/i/ae)
 
-<small>**AM**</small> (small caps); or, **a.m.** (always in running text)
+<small>**AM**</small> (small caps, more formal usage); or, **a.m.** (always in running text) see abbreviations
 
 **Americans with Disabilities Act Office**; ADA Office
 
-**and/&** (spell out and avoid ampersand unless it is part of an official name of a firm,
-college, etc.)
+**and/&** (spell out and avoid ampersand unless it is part of an official name of a firm, college, etc.) Not to be used in department names or for institutional centers at Middlebury
 
 **Annual Fund**
 
 **Annual Giving**; Office of Annual Giving
 
-**apostrophe** (used to indicate possessive; to show that something is missing as in part of a year: "the '60s"; or used for a contraction as in "they're" for "they are.") Be especially careful when using the apostrophe with "it." Use of the apostrophe indicates a letter is missing: 
+**apostrophe** (used to indicate possessive; to show that something is missing as in part of a year: "the '60s"; or used for a contraction: "they're" for "they are.") Be especially careful when using the apostrophe with "it." Use of the apostrophe indicates a letter is missing: 
 
 `It's raining out.` (It is raining out—the "i" is missing.)
 
@@ -169,7 +166,7 @@ Not OK:  `'80`
 
 OK: `’80`
 
-Exception: Some fonts or web programs cannot make a curly apostrophe so a dagger must be used in those instances.
+Exception: Some fonts or Web programs cannot make a curly apostrophe or it is very difficult to achieve it so a dagger must be used in those instances.
 
 How to make a left-facing apostrophe: This character is located in Microsoft Word’s “insert” menu > symbol > advanced symbol > special characters. Select the “single closing quote.” PC users, creating a shortcut is helpful if you use the character often.
 
