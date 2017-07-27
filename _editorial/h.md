@@ -3,9 +3,9 @@ title: h
 published: true
 ---
 
-**hallmate** (one word)
+**hallmate** (one word) see suffixes
 
-**headlines** see capitalization
+**headlines**, proper capitalization
 
 **health care** (as a noun, two words); **healthcare** (as an adjective, one word)
 
@@ -29,11 +29,13 @@ published: true
 
 **Honor Code** (capped)
 
+**human resources officer (HRO)**; lowercased
+
 **hyphens** (use to avoid ambiguity) see also compound nouns and adjectives
 
 Double hyphens: Don’t use them. Instead, use the em dash (—). These are long dashes, the equivalent length of an M (—), used to set off parenthetical text or digressive elements. There should be no space on either side: `This has been a long haul—to Hades and back—for everyone involved`.
 
-En dashes (–). Half the length of the em dash. Used between inclusive numbers, to show a range.
+En dash (–). Half the length of the em dash. Used between inclusive numbers, to show a range.
 
 `The cost is $50–$55.`
 
@@ -41,7 +43,7 @@ En dashes (–). Half the length of the em dash. Used between inclusive numbers,
 
 `Their soccer season ended at 12–4–2.`
 
-To make an em-dash or an en-dash in Word on a PC or Mac:
+To make an em dash or an en dash in Word on a PC or Mac:
 
 - place your cursor where the mark will go
 - go to “Insert” in the program menu and open up “Symbol”
@@ -50,13 +52,13 @@ To make an em-dash or an en-dash in Word on a PC or Mac:
 
 Mac key codes:
 
-em-dash: option/shift/hyphen en-dash: option/hyphen
+em dash: option/shift/hyphen; en dash: option/hyphen
 
 PC key codes:
 
-em-dash:  shift + alt + hyphen
+em dash:  shift + alt + hyphen
 
-en-dash:  “windows symbol key” + alt + hyphen
+en dash:  “windows symbol key” + alt + hyphen
 
 Or, create your own shortcuts by following the directions in the Symbol section.
 
@@ -75,6 +77,9 @@ mid:  midwinter; midyear; midlife; mid-Atlantic; mid-August; mid-1990s
 non:  nonprofit; nonstudent; nonmajor; nonproliferation
 
 pre:  preprofessional; premed; prelaw
+
+Hyphens with words with letters:
+T-shirt; S-curve
 
 Suspending hyphens:
 
