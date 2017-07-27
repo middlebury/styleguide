@@ -17,7 +17,7 @@ published: true
 
 **Institute** (When referring to Middlebury Institute of International Studies at Monterey)
 
-**Internet**
+**Internet** (capped)
 
 **introductory words or phrases**:
 
