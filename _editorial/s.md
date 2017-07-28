@@ -37,6 +37,8 @@ To separate items in a series that is long and cumbersome or that contains inter
 
 `The students should take one course in math; three in languages; two chosen from political science, history, or art; and one senior capstone course.`
 
+**semiretired**
+
 **sentence fragments**
 
 When incomplete sentences are used as captions, pull quotes, and subheads, a period is not needed. When sentence fragments are interspersed with full sentences, periods may be necessary for visual clarity and consistency. This might be the case in a vertical list. Be sure to be consistent within a document, whatever you decide to do.
@@ -171,7 +173,7 @@ Use the abbreviations listed below (first abbreviation listed) in running text w
 |Wisconsin|Wis.|WI|
 |Wyoming|Wyo.|WY|
 
-**statewide**
+**statewide** see suffixes
 
 **STEM Scholar**; a student pursuing a career in science, technology, engineering, or math as part of the Posse program
 
