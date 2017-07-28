@@ -77,6 +77,8 @@ Some “for sake” expressions: for goodness’ sake; *but* for appearance’s 
 
 **President Laurie Patton**; Laurie Patton, the president of Middlebury College
 
+**Privilege & Poverty**; this program uses the ampersand
+
 **problem solver** (two words)
 
 **professional titles** see titles
