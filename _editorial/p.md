@@ -10,9 +10,9 @@ In text with an audience of students or prospective students, try to use "famili
 
 **Parents’ Association**
 
-**Parents’ Committee**
-
 **Parents’ Fund**
+
+**Parents’ Fund Committee** this can be shortened to Parents' Committee with new parents or when approaching a parent for the first time to emphasize the committee does more than just raise money
 
 **Paul Nelson Bach to Barber Performing Arts Series** Nelson Performing Arts Series (See Named Schools, Departments, and Programs for guidelines on how to refer to this series)
 
@@ -35,6 +35,8 @@ In text with an audience of students or prospective students, try to use "famili
 **plurals with generic terms** cap generic term; see capitalization
 
 `Brooklyn and George Washington Bridges. Hudson and East Rivers.`
+
+**PM** (small caps, more formal usage); or **p.m.** (always in running text)
 
 **policy maker** (two words)
 
@@ -63,8 +65,6 @@ Some “for sake” expressions: for goodness’ sake; *but* for appearance’s 
 
 **post words** (no hyphen with most post words) postwar, postdoctoral; see prefixes
 
-**PM** (small caps, more formal usage); or **p.m.** (always in running text)
-
 **pre words** (no hyphen with most pre words) preadmission; premed; prelaw; preschool; preorientation; see prefixes
 
 **prefixes**: most words with prefixes are closed up, no hyphen; always check the dictionary if in doubt; see co-, mid-, multi-, non-, post-, pre-, semi-; exception self-
@@ -76,6 +76,8 @@ Some “for sake” expressions: for goodness’ sake; *but* for appearance’s 
 *Chicago Manual of Style*, 5.176: “The traditional caveat of yesteryear against ending sentences with prepositions is, for most writers, an unnecessary and pedantic restriction. As Winston Churchill famously said, ‘That is the type of arrant pedantry up with which I shall not put.’ A sentence that ends in a preposition may sound more natural than a sentence carefully constructed to avoid a final preposition. Compare, for example, `This is the case I told you about` with `This is the case about which I told you`. The ‘rule’ prohibiting terminal prepositions was an ill-founded superstition.”
 
 **President Laurie Patton**; Laurie Patton, the president of Middlebury College
+
+**Privilege & Poverty**; this program uses the ampersand
 
 **problem solver** (two words)
 

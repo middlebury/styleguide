@@ -3,7 +3,7 @@ title: j-l
 published: true
 ---
 
-**Janet Halstead Franklin ’72 and Churchill G. Franklin ’71 Environmental Center at Hillcrest**; Franklin Environmental Center at Hillcrest; see Named Buildings for guidelines on how to refer to this building
+**Janet Halstead Franklin ’72 and Churchill G. Franklin ’71 Environmental Center at Hillcrest**; Franklin Environmental Center at Hillcrest (See Named Buildings for guidelines on how to refer to this building)
 
 **January term**, J-term (one month semester in January); also called winter term
 
@@ -19,15 +19,17 @@ It is no longer required to use commas before and after these elements, as they 
 
 `Jason Milquevay III boarded the flight to New Zealand.`
 
+**judicial affairs officer** (lowercased)
+
 **Kaleidoscope** (roman)
 
 **Kathryn Davis Fellows for Peace**; Davis Fellow; fellow
 
-**Kathryn Wasserman Davis School of Russian** (Language Schools) See Named Schools, Departments, and Programs for guidelines on how to refer to this school
+**Kathryn Wasserman Davis School of Russian** (Language Schools) (See Named Schools, Departments, and Programs for guidelines on how to refer to this school)
 
 **Kenyon Arena**; Chip Kenyon ’85 Arena
 
-**Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Center for the Arts; Center for the Arts (MCA) 
+**Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Center for the Arts; Mahaney Center (MCA) 
 
 **Kirk Center** (formerly known as Kirk Alumni Center)
 
@@ -37,7 +39,7 @@ It is no longer required to use commas before and after these elements, as they 
 
 **Language Schools** (capped and plural in reference to the set of schools); Language School (capped and singular in reference to one person’s experience or one school)
 
-Specific Language School Names (See Named Schools, Departments, and Programs for guidelines on how to refer to named schools)
+Specific Language School Names (See Named Schools, Departments, and Programs for guidelines on how to refer to specific named schools)
 
 Arabic School
 
@@ -67,7 +69,7 @@ See the page with templates on the Communications website.
 
 **Letters used as words or letters**
 
-Individual letters that are used as letters should be italicized. When the letter is lowercased, an apostrophe s is used to make it plural. When the uppercase letter is used, an apostrophe is not usually needed. Ex. Mind your _p_'s and _q_'s. Put your _X_ on this spot. There are too many _X_s on this page.
+Individual letters that are used as letters should be italicized. When the letter is lowercased, an apostrophe _s_ is used to make it plural. When the uppercase letter is used, an apostrophe is not usually needed. Ex. Mind your _p_'s and _q_'s. Put your _X_ on this spot. There are too many _X_s on this page.
 
 Scholastic grades are capped and set in roman type.
 

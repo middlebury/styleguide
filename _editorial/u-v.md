@@ -15,7 +15,7 @@ published: true
 
 **vertical lists**
 
-When possible, introduce the list with a complete grammatical sentence followed by a colon. Avoid putting a colon in the middle of a sentence, as after the word include.
+When possible, introduce the list with a complete grammatical sentence followed by a colon. Avoid putting a colon in the middle of a sentence, as after the word "include."
 
 In general: Try to use parallel syntax (sentences, fragments, questions) with each item, which will make the list orderly and more understandable. _Chicago Manual of Style Online_ cautions that “parallel doesn’t mean identical. If your items are complex, it may not be practical to match them word for word with parallel parts of speech.”
 
@@ -74,10 +74,12 @@ subdivided list:
     - Rakes
     - Wheelbarrows
     - Leaf bags
+  
   2. Food items
     - Beer
     - Hot dogs
     - Ice
+  
   3. Musical items
     - Instruments
     - iPods
