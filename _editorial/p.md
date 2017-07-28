@@ -10,9 +10,9 @@ In text with an audience of students or prospective students, try to use "famili
 
 **Parents’ Association**
 
-**Parents’ Committee**
-
 **Parents’ Fund**
+
+**Parents’ Fund Committee** this can be shortened to Parents' Committee with new parents or when approaching a parent for the first time to emphasize the committee does more than just raise money
 
 **Paul Nelson Bach to Barber Performing Arts Series** Nelson Performing Arts Series (See Named Schools, Departments, and Programs for guidelines on how to refer to this series)
 
@@ -35,6 +35,8 @@ In text with an audience of students or prospective students, try to use "famili
 **plurals with generic terms** cap generic term; see capitalization
 
 `Brooklyn and George Washington Bridges. Hudson and East Rivers.`
+
+**PM** (small caps, more formal usage); or **p.m.** (always in running text)
 
 **policy maker** (two words)
 
@@ -62,8 +64,6 @@ Exceptions: Nouns that are the same in both singular and plural form like politi
 Some “for sake” expressions: for goodness’ sake; *but* for appearance’s sake.
 
 **post words** (no hyphen with most post words) postwar, postdoctoral; see prefixes
-
-**PM** (small caps, more formal usage); or **p.m.** (always in running text)
 
 **pre words** (no hyphen with most pre words) preadmission; premed; prelaw; preschool; preorientation; see prefixes
 
