@@ -74,10 +74,12 @@ subdivided list:
     - Rakes
     - Wheelbarrows
     - Leaf bags
+  
   2. Food items
     - Beer
     - Hot dogs
     - Ice
+  
   3. Musical items
     - Instruments
     - iPods
