@@ -17,6 +17,8 @@ published: true
 
 **Recycling Center**; David W. Ginevan Recycling Center
 
+**Rehearsals Café**
+
 **residence hall** (preferred instead of dorm)
 
 **resident assistant** (RA); part of the Commons team
