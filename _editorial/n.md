@@ -37,7 +37,7 @@ Paul Nelson Bach to Barber Performing Arts Series, first reference; Nelson Perfo
 
 **names** see capitalization, class years, degree abbreviations
 
-**nationwide** 
+**nationwide** see suffixes
 
 **Native American** (no hyphen, as adjective or noun)
 
@@ -87,7 +87,7 @@ Never start a sentence with a numeral. Spell out the number:
 
 `One hundred and thirty-five people attended the conference.`
 
-Avoid starting a phrase or sentence after an em-dash or colon with a numeral. Spell out the number or rewrite:
+Avoid starting a phrase or sentence after an em dash or colon with a numeral. Spell out the number or rewrite:
 
 `They made a lot of money—thirty-six people gave millions.`
 
@@ -121,11 +121,11 @@ But: `I’m dividing my estate into five fifths to distribute to my heirs.`
 
 `Five-sevenths full`
 
-Whole numbers plus fractions: Spell out in running text unless the numerals are needed for a particular reason, such as a recipe. (Do not link whole numbers to the fraction with a hyphen)
+Whole numbers plus fractions: Spell out in running text unless the numerals are needed for a particular reason, such as a list of ingredients for a recipe. (Do not link whole numbers to the fraction with a hyphen)
 
 `Three and three-fourths cups of flour should be enough to make pizza.`
 
-Measurements(see also hyphens):
+Measurements (see also hyphens):
 
 Hyphenate measurements that serve as adjectives preceding a noun:
 
