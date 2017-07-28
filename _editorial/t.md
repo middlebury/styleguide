@@ -11,7 +11,7 @@ published: true
 
 **technology terms**
 
-Common technology terms (this list demonstrates our style) see also Web words under W
+Common technology terms (this list demonstrates our style); see also Web words under W
 
 - CD (for music or file storage)
 - database
@@ -47,7 +47,7 @@ Any phone number involving extra digits or unusual number sequences (such as ove
 
 **theater** (for all uses except for proper names using alternate spelling)
 
-**theatre** (this is the second spelling in Webster’s and a Middlebury department/ major)
+**theatre** (this is the second spelling in Webster’s and a Middlebury department/major)
 
 Department of Theatre; Hepburn Zoo Theatre; Wright Memorial Theatre; _but_ Burgess Meredith Little Theater (Bread Loaf); Town Hall Theater (downtown Middlebury)
 
@@ -73,7 +73,7 @@ The use of *he/she* or *him/her*, although more grammatically accurate in these 
 
 `We try to let students in this situation take their exams home.` (rewritten)
 
-See use of they/their in gender neutral language under [gender](#).
+See use of they/their in gender neutral language.
 
 **time**
 
@@ -114,32 +114,32 @@ What are small caps? They are capital letters about three-quarters smaller than 
 
 **titles**
 
-Articles
+Articles:
 
 A, An, The:
 What to do with an initial, _A, An,_ or _The_ in a title when used in running text. Drop the initial article if it makes the text awkward.
 
-`The Town’s College is one of our most useful reference books.`
+_The Town’s College_ is one of our most useful reference books.
 
-`His Town’s College proved to be one of our most useful reference books.`
+His _Town’s College_ proved to be one of our most useful reference books.
 
 In running text, lowercase _the_ when it precedes the name of a society, association, building, or other proper name, even when it is part of the name. This also applies to _the_ in magazine and newspaper titles. Any initial _the_ in the titles of periodicals (journals, magazines, and newspapers) should be subsumed by the surrounding text or dropped.
 
-`The project is funded through the Prudential Foundation.`
+The project is funded through the Prudential Foundation.
 
-`Reading the New York Times is great way to start the day.`
+Reading the _New York Times_ is great way to start the day.
 
 When the name of an entity includes a definite article, such as “The Grille” or  “The Who,” it should be lowercased in running text. 
 
 `We are eating lunch at the Grille and listening to the Who.`
 
-Courses
+Courses:
 
 Course titles are printed in roman type, capped, with no quotation marks in general text.
 
 `Professor Smith’s course the Beginning of the Universe has had a waiting list for several years.` (Note: lowercase _the_ even though it is part of the title of the course.)
 
-Course titles can combine the department code with a numerical designation and the title: JAPN 0101 First-Year Japanese. Place a space between the department code and the course number. It is not necessary to include the course number in general interest texts.
+Or course titles can combine the department code with a numerical designation and the title: JAPN 0101 First-Year Japanese. Place a space between the department code and the course number. It is not necessary to include the course number in general interest texts.
 
 Creative works:
 
@@ -229,7 +229,7 @@ Academic departments are always capped:
 
 `All of the science departments, including the Biology Department, will move.`
 
-In vertical lists—It is permissible to cap all offices and departments for the sake of consistency and readability.
+In vertical lists: It is permissible to cap all offices and departments for the sake of consistency and readability.
 
 In general
 
@@ -358,7 +358,7 @@ An initial _A, An_, or _The_ may be dropped if it does not fit the syntax of a s
 
 _Book series_
 
-Use roman type, headline style, without quotation marks, for the names of book series or editions. The words series and edition are lowercased when they are not part of the title:
+Use roman type, headline style, without quotation marks, for the names of book series or editions. The words "series" and "edition" are lowercased when they are not part of the title:
 
 Norton Books Field Guide series
 
