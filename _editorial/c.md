@@ -361,7 +361,7 @@ Cook Commons;
 Ross Commons; 
 Wonnacott Commons
 
-**Commons team**: (not capped) Commons head, Commons dean, Commons coordinator, Commons residential advisor (CRA), first-year counselor (FYC), resident assistant (RA), community assistant (CA)
+**Commons team**: (not capped) Commons head, Commons dean, Commons coordinator, Commons residential director (CRD), first-year counselor (FYC), resident assistant (RA), community assistant (CA)
 
 **compound nouns and adjectives**
 
