@@ -1,6 +1,9 @@
 ---
 title: o
+published: true
 ---
+
+**of** see collective nouns for use with nouns and verb agreement
 
 **off-campus** (adj. before a noun); off campus (not a modifier)
 
@@ -17,7 +20,13 @@ title: o
 - Parent Giving
 - Principal Gifts
 
+**Office of Communications and Marketing**
+
 **Office of the President** (not President’s Office)
+
+**office titles** see titles
+
+**official policies** (official names are capped) see capitalization
 
 **off-line**
 
@@ -28,8 +37,10 @@ title: o
 **on-campus** (adj. before noun); on campus (not a modifier)
   `on-campus housing; living on campus`
 
-**online** (noun & adj.)
+**online** (noun and adjective)
 
 **on-site**
 
-**orientation** (lowercase)
+**Organic Farm**; Middlebury College Organic Farm
+
+**orientation** (lowercase unless part of a title) see capitalization

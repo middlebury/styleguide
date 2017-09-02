@@ -1,10 +1,11 @@
 ---
 title: i
+published: true
 ---
 
 **i.e.** (use when you mean “that is”; roman type, followed by a comma)
 
-**Incomplete** (the grade)
+**Incomplete** see grades
 
 **in-language events**; events are in language 
 
@@ -16,7 +17,7 @@ title: i
 
 **Institute** (When referring to Middlebury Institute of International Studies at Monterey)
 
-**Internet**
+**Internet** (capped)
 
 **introductory words or phrases**:
 
@@ -28,7 +29,7 @@ Most evident (not most evidently)
 
 More important (not more importantly)
 
-**its** (possessive); **it’s** (contraction for it is)
+**its** (possessive); **it’s** (contraction for it is) see apostrophe
 
 `The tree is big; its leaves are golden this fall.`
 

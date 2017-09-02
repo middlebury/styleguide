@@ -1,12 +1,17 @@
 ---
 title: h
+published: true
 ---
 
-**hallmate** (one word)
+**hallmate** (one word) see suffixes
+
+**headlines**, proper capitalization
 
 **health care** (as a noun, two words); **healthcare** (as an adjective, one word)
 
-**Helen Hartness Flanders Ballad Collection**—one of four discrete collections in Special Collections
+**Hebrew School**; see School of Hebrew or Language Schools; this school should not be called the Hebrew School
+
+**Helpdesk**
 
 **high school** (no hyphen as adj. or noun)
 
@@ -14,27 +19,31 @@ title: h
 
 **historic** (a historic, not an historic)
 
+**holidays** see Holidays and Recurring Events in capitalization
+
 **home page**
 
-**homecoming**; Homecoming 2009 (cap when referring to a specific homecoming)
+**Homecoming**; Homecoming 2009 (lowercase when not talking about the annual event)
 
-**Homecoming Weekend**
+**Homecoming Weekend** see Holidays and Recurring Events in capitalization
 
-**Honor Code**
+**Honor Code** (capped)
 
-**hyphens** (use to avoid ambiguity)
+**human resources officer (HRO)**; lowercased
+
+**hyphens** (use to avoid ambiguity) see also compound nouns and adjectives
 
 Double hyphens: Don’t use them. Instead, use the em dash (—). These are long dashes, the equivalent length of an M (—), used to set off parenthetical text or digressive elements. There should be no space on either side: `This has been a long haul—to Hades and back—for everyone involved`.
 
-En dashes (–). Half the length of the em dash. Used between inclusive numbers, to show a range.
+En dash (–). Half the length of the em dash. Used between inclusive numbers, to show a range.
 
 `The cost is $50–$55.`
 
 `My weight has ranged from 125–165 lbs in the last decade.`
 
-Sports scores do not indicate a range, and therefore use a hyphen.
+`Their soccer season ended at 12–4–2.`
 
-To make an em-dash or an en-dash in Word on a PC or Mac:
+To make an em dash or an en dash in Word on a PC or Mac:
 
 - place your cursor where the mark will go
 - go to “Insert” in the program menu and open up “Symbol”
@@ -43,31 +52,34 @@ To make an em-dash or an en-dash in Word on a PC or Mac:
 
 Mac key codes:
 
-em-dash: option/shift/hyphen en-dash: option/hyphen
+em dash: option/shift/hyphen; en dash: option/hyphen
 
 PC key codes:
 
-em-dash:  shift + alt + hyphen
+em dash:  shift + alt + hyphen
 
-en-dash:  “windows symbol key” + alt + hyphen
+en dash:  “windows symbol key” + alt + hyphen
 
 Or, create your own shortcuts by following the directions in the Symbol section.
 
 Hyphens with prefixes and suffixes:
 
-In general, prefixes are not followed by hyphens unless the resulting word can be confused with another word, is difficult to decipher, or precedes a number or a capitalized word.
+In general, prefixes are not followed by hyphens unless the resulting word can be confused with another word, is difficult to decipher, or precedes a number or a capitalized word. Suffixes are also, in general, closed up.
 
 co:  coauthor; cowriter; codirector; coedit; but co-chair
 
-fold:  threefold
-
 like:  no hyphen unless word ends in l. lifelike; funnel-like
+
+long: daylong, monthlong, yearlong
 
 mid:  midwinter; midyear; midlife; mid-Atlantic; mid-August; mid-1990s
 
 non:  nonprofit; nonstudent; nonmajor; nonproliferation
 
 pre:  preprofessional; premed; prelaw
+
+Hyphens with words with letters:
+T-shirt; S-curve
 
 Suspending hyphens:
 
@@ -102,8 +114,4 @@ Hyphenate from 21 to 99 when spelled out:
 
 `twenty-one; ninety-nine; one hundred forty-eight`
 
-Sports scores:
-
-`The game ended in a 21-21 tie. Middlebury won in double overtime, 3-2.`
-
-(See also compound nouns and adjectives)
+Middlebury (it is permissible to hyphenate at line break)

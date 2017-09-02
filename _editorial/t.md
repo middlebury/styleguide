@@ -1,17 +1,17 @@
 ---
 title: t
+published: true
 ---
 
 **T-shirt; tee**
 
 **tax-free**
 
+**Teach For America** (TFA); cap the "F"
+
 **technology terms**
 
-Try to avoid obscure technology references and long URLs. (You can use bitly.com to shrink long Web addresses. Or you can direct readers to the right page: `Visit www.williams.edu, click on “Alumni,” and then “Golf Tournament.”`) For websites, do not include the tag `http://`. Instead: `www.williams.edu`; `facebook.com`. When available, use a "go" link. 
-If you are printing a document with a URL or email address in it, be sure to remove the hyperlink.
-
-Common technology terms:
+Common technology terms (this list demonstrates our style); see also Web words under W
 
 - CD (for music or file storage)
 - database
@@ -24,9 +24,6 @@ Common technology terms:
 - list server
 - motherboard
 - online
-- Web (acceptable for World Wide Web and Internet)
-- webmaster
-- website
 
 **telephone numbers**
 
@@ -44,11 +41,13 @@ Any phone number involving extra digits or unusual number sequences (such as ove
 |LN|The local number|
 |011-61-8-|local number|
 
+**the**; in running text the word _the_ is lowercased even if it is part of an official name; see titles
+
 **The Orchard**; the Orchard (in running text)
 
 **theater** (for all uses except for proper names using alternate spelling)
 
-**theatre** (This is the second spelling in Webster’s and a Middlebury department/ major);
+**theatre** (this is the second spelling in Webster’s and a Middlebury department/major)
 
 Department of Theatre; Hepburn Zoo Theatre; Wright Memorial Theatre; _but_ Burgess Meredith Little Theater (Bread Loaf); Town Hall Theater (downtown Middlebury)
 
@@ -74,7 +73,7 @@ The use of *he/she* or *him/her*, although more grammatically accurate in these 
 
 `We try to let students in this situation take their exams home.` (rewritten)
 
-See use of they/their in gender neutral language under [gender](#).
+See use of they/their in gender neutral language.
 
 **time**
 
@@ -106,124 +105,43 @@ Showing ranges:
 
 `from 9 AM to noon`  (do not use a dash to show range when also using “from”)
 
+Within a document, use the hour, colon, minute form for on-the-hour times if there are other times being used that have minutes:
+
+Incorrect: `At 9 p.m. there will be a movie followed by snacks at 11:35.`
+Correct: `At 9:00 p.m. there will be a movie followed by snacks at 11:35.`
+
 What are small caps? They are capital letters about three-quarters smaller than regular caps. Choose them from the font menu in Microsoft Word or from Word’s formatting palette.
 
+**titles**
 
-**titles of people**
-
-Academic and Professional:
-
-Capitalize the title when it precedes the name and is part of the name:
-
-`I would like to introduce Doctor John Smith.`
-
-`President Laurie Patton will be addressing the audience.`
-
-`We traveled with Professor Bill Johnson.`
-
-Do not capitalize when the title follows the name (almost always a descriptor):
-
-`John Smith, professor of biology`
-
-`Barack Obama, president of the United States`
-
-`Trustee Emerita Suzanne Simpson; Suzanne Simpson, trustee emerita; the trustee`  
-`Professor John Jones; the professor; John Jones, professor emeritus; Professor Emeritus John Jones`
-
-Do not capitalize when the title precedes the name, but is acting as a descriptive title: 
-
-`Renowned geology professor Andrea Lane will deliver the keynote address.`
-
-`Happily, designer Randy Russet made the costumes.`
-
-`Meet our bass player Lucinda J. Horvick ’05.`
-
-Do capitalize a title before a name if it is the official descriptor:
-
-`I’d like you to meet Vice President for Academic Affairs John Wiley.`
-
-`She is taking a course with Assistant Professor of Geology Matthew Rock.`
-
-`They sent the student to Dean of the College Polly Johnson.`
-
-Avoid using a long title before a name. Rewrite the sentence so the title falls after the name.
-
-Awkward: `The talk was given by Dean of Institutional Diversity and Associate Professor of English and American Literatures Stephanie Wilkerson.`
-
-Preferred: `The talk was given by Stephanie Wilkerson, dean of institutional diversity and associate professor of English and American literatures.`
-
-NOTE: A named professorship is always capitalized, no matter where it falls
-
-`William Wilson, John M. Martin Professor of Physics, will be there.`
-
-`John M. Martin Professor of Physics William Wilson will be there.`
-
-In vertical lists:
-
-For the sake of appearance and consistency, it is permissible to cap all titles and departments in vertical lists, appearing in program notes, president reports, etc.
-
-```
-Mary Smith, Professor of Geology
-Fred Dartmouth, Milton Johnson Distinguished Professor of Classical Studies
-David Jones, Assistant Professor of English
-Dorothy Bartlett, William Loadstone Professor of Environmental Studies
-```
-
-**titles of things**
+Articles:
 
 A, An, The:
-
 What to do with an initial, _A, An,_ or _The_ in a title when used in running text. Drop the initial article if it makes the text awkward.
 
-`The Town’s College is one of our most useful reference books.`
+_The Town’s College_ is one of our most useful reference books.
 
-`His Town’s College proved to be one of our most useful reference books.`
+His _Town’s College_ proved to be one of our most useful reference books.
 
 In running text, lowercase _the_ when it precedes the name of a society, association, building, or other proper name, even when it is part of the name. This also applies to _the_ in magazine and newspaper titles. Any initial _the_ in the titles of periodicals (journals, magazines, and newspapers) should be subsumed by the surrounding text or dropped.
 
-`The project is funded through the Prudential Foundation.`
+The project is funded through the Prudential Foundation.
 
-`Reading the New York Times is great way to start the day.`
+Reading the _New York Times_ is great way to start the day.
 
 When the name of an entity includes a definite article, such as “The Grille” or  “The Who,” it should be lowercased in running text. 
 
 `We are eating lunch at the Grille and listening to the Who.`
 
-In general:
-
-Middlebury office names that are also used as general terms, such as _public affairs_, _admissions_, _alumni relations_, _financial services_, and government offices, such as _agriculture_, _commerce_, _defense_, _education_, _transportation_, should be lowercased when used in titles that don’t precede the name.
-
-`He is the vice president of facilities services.`
-
-`Sarah James, director of alumni relations.`
-
 Courses:
 
-Course titles combine the department code with a numerical designation and the title: JAPN 0101 First-Year Japanese. Place a space between the department code and the course number. Course titles are printed in roman type, capped, with no quotation marks. It is not necessary to include the course number in general interest texts.
+Course titles are printed in roman type, capped, with no quotation marks in general text.
 
 `Professor Smith’s course the Beginning of the Universe has had a waiting list for several years.` (Note: lowercase _the_ even though it is part of the title of the course.)
 
-Departments and Offices:
+Or course titles can combine the department code with a numerical designation and the title: JAPN 0101 First-Year Japanese. Place a space between the department code and the course number. It is not necessary to include the course number in general interest texts.
 
-Running text—Departments and offices are capped only when the full, correct name is used.
-
-`Go to the Office of the Dean of the College if you have questions.`
-
-`Someone in the dean’s office will be able to help.`
-
-`The Middlebury Museum of Art has a new installation.`
-
-`There is a new installation at the art museum.`
-
-Academic departments are always capped:
-
-`The Department of Biology will move to the new science center.`
-
-`All of the science departments, including the Biology Department, will move.`
-
-In vertical lists—It is permissible to cap all offices and departments for the sake of consistency and readability. See [titles of people](#).
-
-Creative Works:
+Creative works:
 
 Art
 
@@ -293,6 +211,105 @@ An album is italicized. Individual tracks take caps and quotation marks. The nam
 The CD _Home for the Holidays_ includes music by the Middlebury Chamber
 Singers and a solo performance by Jason Judge, singing “Midnight in Vermont.”
 
+Departments and Offices:
+
+Running text—Departments and offices are capped only when the full, correct name is used.
+
+`Go to the Office of the Dean of the College if you have questions.`
+
+`Someone in the dean’s office will be able to help.`
+
+`The Middlebury Museum of Art has a new installation.`
+
+`There is a new installation at the art museum.`
+
+Academic departments are always capped:
+
+`The Department of Biology will move to the new science center.`
+
+`All of the science departments, including the Biology Department, will move.`
+
+In vertical lists: It is permissible to cap all offices and departments for the sake of consistency and readability.
+
+In general
+
+Middlebury office names that are also used as general terms, such as _public affairs_, _admissions_, _alumni relations_, _financial services_, and government offices, such as _agriculture_, _commerce_, _defense_, _education_, _transportation_, should be lowercased when used in titles that don’t precede the name.
+
+`He is the vice president of facilities services.`
+
+`Sarah James, director of alumni relations.`
+
+Events on campus:
+
+College symposium: Capped with quotation marks
+
+Lecture series: Cap only
+
+Lecture: Capped with quotation marks
+
+People:
+
+Academic and Professional:
+
+Capitalize the title when it precedes the name and is part of the name:
+
+`I would like to introduce Doctor John Smith.`
+
+`President Laurie Patton will be addressing the audience.`
+
+`We traveled with Professor Bill Johnson.`
+
+Do not capitalize when the title follows the name (almost always a descriptor):
+
+`John Smith, professor of biology`
+
+`Barack Obama, president of the United States`
+
+`Trustee Emerita Suzanne Simpson; Suzanne Simpson, trustee emerita; the trustee`  
+`Professor John Jones; the professor; John Jones, professor emeritus; Professor Emeritus John Jones`
+
+Do not capitalize when the title precedes the name, but is acting as a descriptive title: 
+
+`Renowned geology professor Andrea Lane will deliver the keynote address.`
+
+`Happily, designer Randy Russet made the costumes.`
+
+`Meet our bass player Lucinda J. Horvick ’05.`
+
+Do capitalize a title before a name if it is the official descriptor:
+
+`I’d like you to meet Vice President for Academic Affairs John Wiley.`
+
+`She is taking a course with Assistant Professor of Geology Matthew Rock.`
+
+`They sent the student to Dean of the College Polly Johnson.`
+
+Avoid using a long title before a name. Rewrite the sentence so the title falls after the name.
+
+Awkward: `The talk was given by Dean of Institutional Diversity and Associate Professor of English and American Literatures Stephanie Wilkerson.`
+
+Preferred: `The talk was given by Stephanie Wilkerson, dean of institutional diversity and associate professor of English and American literatures.`
+
+NOTE: A named professorship is always capitalized, no matter where it falls
+
+`William Wilson, John M. Martin Professor of Physics, will be there.`
+
+`John M. Martin Professor of Physics William Wilson will be there.`
+
+In vertical lists:
+
+For the sake of appearance and consistency, it is permissible to cap all titles and departments in vertical lists, appearing in program notes, president reports, etc.
+
+```
+Mary Smith, Professor of Geology
+Fred Dartmouth, Milton Johnson Distinguished Professor of Classical Studies
+David Jones, Assistant Professor of English
+Dorothy Bartlett, William Loadstone Professor of Environmental Studies
+```
+
+Signs:
+
+Text on Signs: Capitalized, headline style
 
 Web Works
 
@@ -322,12 +339,11 @@ I found the spelling in _Merriam-Webster.com_.
 
 Titles of periodicals found both in print and online should be treated similarly, except for the domain name.
 
-The website of the _New York Times_; the _New York Times_ online; NYTimes.com; www.middmag.com
+The website of the _New York Times_; the _New York Times_ online; NYTimes.com
 
 Pages or sections of websites are capped, headline style, and placed in quotation marks.
 
 To find the answers, visit “Frequently Asked Questions,” at Middlebury.edu.
-
 
 Written Works
 
@@ -342,7 +358,7 @@ An initial _A, An_, or _The_ may be dropped if it does not fit the syntax of a s
 
 _Book series_
 
-Use roman type, headline style, without quotation marks, for the names of book series or editions. The words series and edition are lowercased when they are not part of the title:
+Use roman type, headline style, without quotation marks, for the names of book series or editions. The words "series" and "edition" are lowercased when they are not part of the title:
 
 Norton Books Field Guide series
 
@@ -381,26 +397,11 @@ Short poems are capped with quotation marks. Poems identified by their first lin
 Frost’s “A Prayer in Spring” seems apt right now.
 “Shall I compare thee to a Summer’s day?” is my favorite sonnet.
 
-
 Unpublished Works
 
 Dissertations, speeches, manuscripts, student work including posters use roman type, headline style, and enclose in quotation marks:
 
 “An Investigation into Nomenclature Anomalies in Biological Systems”
-
-
-Miscellaneous Titles
-
-College symposium: Capped with quotation marks
-
-Lecture series: Cap only
-
-Lecture: Capped with quotation marks
-
-College course: Capped only
-
-Text on Signs: Capitalized, headline style
-
 
 **toll-free number**
 

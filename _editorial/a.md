@@ -1,24 +1,25 @@
 ---
 title: a
 published: true
-topics:
-  - title: A
-    description: |
-      (when referring to a grade, no quotation marks); grades of A or As
-  - title: a cappella
-  
-  - title: AB (artium baccalaureus) or BA (Bachelor of Arts)
+---
 
-  - title: abbreviations/acronyms
-    description: |
+**A** (when referring to a grade, no quotation marks); grades of A or As
 
-      `U.S., USA, D.C., L.A.`
+**a cappella** (preferred spelling)
 
       `PhD, BA, AB, MA, MLitt, MD, NATO, AIDS, CEO`
 
-      `e.g., i.e., etc.`
+General use guidelines:
 
-      `a.k.a.` (for “also known as”)
+Use full words the first time the abbreviation or acronym is used in text, and place the abbreviation or acronym in parentheses immediately following.
+
+Do not begin a sentence with an abbreviation. Exceptions: Mr., Ms., Mrs., Dr., and St.
+
+Some common abbreviations:
+
+`U.S., USA, D.C., L.A.`
+
+`PhD, BA, MA, MLitt, MD, NATO, AIDS, CEO`
 
       `AM, PM; or a.m., p.m.` (use small caps for a more formal and easier-to-read look)
 
@@ -28,15 +29,15 @@ topics:
       - No periods are used with abbreviations comprised of full capitals, even if lowercase letters appear within the abbreviation: PhD, MD, CEO
       - In running text, use periods with traditional state abbreviations and the United States (U.S.) (see States)
 
-      General use guidelines:
+`AM, PM; or a.m., p.m.` (use small caps when a more formal and easier-to-read look is needed; always use a.m. and p.m. in running text)
 
-      Use full words the first time the abbreviation or acronym is used in text, and place the abbreviation or acronym in parentheses immediately following.
+`St. for Saint, Mt. for Mount` (spell out in more formal text; otherwise, just be consistent within a document whether using abbreviations or spelling out)
 
-      Do not begin a sentence with an abbreviation. Exceptions: Mr., Ms., Mrs., Dr., and St.
-
-      Capitals vs. lowercase:
-
-      Initialisms used as nouns tend to be capped: HIV, UFO, FAQ
+Periods with abbreviations:
+- Use periods with abbreviations ending in lowercase letters: Dr., Ms., etc.
+- Use periods with initials standing for a person’s name: J. R. Tolkien. Do not use periods with initials that replace the full name: JFK.
+- No periods are used with abbreviations comprised of full capitals, even if lowercase letters appear within the abbreviation: PhD, MD, CEO
+- In running text, spell out state names but in less formal writing periods can be used with traditional state abbreviations and the United States (U.S.); see states
 
       Over time, some longer initialisms become lowercased (radar). Refer to Webster’s when in doubt.
 
@@ -46,24 +47,26 @@ topics:
 
       `BA, BAs; PhD, PhDs; URL, URLs`
 
-      Abbreviations with one period usually add the s before the period:
+Abbreviations without periods take _s_, no apostrophe. Apostrophes may be used if misreading is a possibility.
 
       `ed., eds.; yr., yrs.; Dr., Drs.`
 
-      Abbreviations with more than one period use apostrophe s:
+Abbreviations with one period usually add the _s_ before the period:
 
       `p.p.’s; the d.t.’s`
 
-  - title: Abernethy Collection of American Literature
-    description: one of four discrete collections in Special Collections
+Abbreviations with more than one period use apostrophe _s_:
 
   - title: academic course
     description: capped and roman, no quotation marks
 
-  - title: Academy Award winner; Academy Award-winning producer
+**Abernethy Collection of American Literature**—one of three discrete collections in Special Collections
 
-  - title: accent marks
-    description: |
+**academic courses** (capped and roman, no quotation marks) see titles
+
+**academic periods** (lowercase) fall semester, winter term, spring semester
+
+**academic titles** see titles
 
       Foreign words that have been incorporated into English often retain their original accents. Check the dictionary when in doubt—use first spelling.
 
@@ -75,7 +78,9 @@ topics:
   - title: addresses
     description: |
 
-      Middlebury addresses should spell out the name of the building and the name of the department, or use the box number:
+**acronyms** see abbreviations
+
+**ACT** (American College Test)
 
       ```
       Joe Smith
@@ -93,29 +98,40 @@ topics:
 
       When listing a classroom or office, the name of the building comes first, followed by the room number.
 
-      `Axinn Center 248; Davis Family Library 225C`
+```
+Jane Jones
+Student Financial Services, Service Building
+Middlebury College
+Middlebury, VT 05753
+```
+When listing a classroom or office, the name of the building comes first, followed by the room number. If the words Room or Suite are added, add a comma. (It's preferable to add Room or Suite if the written piece is one going to an audience unfamiliar with the campus.)
 
-  - title: ADA Office, Americans with Disabilities Act Office
+  `Axinn Center 248; Davis Family Library 225C; Mahaney Center for the Arts, Room 221`
 
-  - title: Admissions Office
+**ADA Office**; Americans with Disabilities Act Office
+
+**adjectives, compound** (add a hyphen when before a noun) see compound nouns and adjectives
+
+`This is a half-time position.` `That's an open-ended question.`
 
   - title: advisor
     description: not adviser
 
   - title: African American (no hyphen)
 
-  - title: a.k.a (for "also known as")
+**African American** (no hyphen even when it comes before a noun)
 
   - title: All-American
 
-  - title: alma mater
-    description: lowercase when referring to where one graduated from; cap when referring to college song
+**All-American** (hyphen)
 
   - title: alpine skiing
 
   - title: Alumni College
 
-  - title: Alumni Fund
+**alumni** (alumnus—male; alumna—female; alumni—all male or both sexes; alumnae—all female; or graduate—gender neutral) see also class years and degree abbreviations
+
+**Alumni College** 
 
   - title: Alumni Golf Tournament
     description: held in honor of Gordon C. Perine ’49
@@ -127,20 +143,25 @@ topics:
   - title: alumni
     description: alumnus—male, alumna—female, alumni—all male or both sexes, alumnae—all female, or graduate—gender neutral
 
-  - title: alum(s)
-    description: informal for alumnus/a/i/ae
+**alum(s)** (informal for alumnus/a/i/ae)
 
-  - title: AM (small caps); or, a.m. (always in running text)
+<small>**AM**</small> (small caps, more formal usage); or, **a.m.** (always in running text) see abbreviations
 
-  - title: and/&
-    description: spell out and avoid ampersand unless it is part of an official name of a firm, college, etc.
+**Americans with Disabilities Act Office**; ADA Office
 
-  - title: Annual Giving; Annual Fund; Office of Annual Giving
+**and/&** (spell out and avoid ampersand unless it is part of an official name of a firm, college, etc.) Not to be used in department names or for institutional centers at Middlebury
 
-  - title: apostrophe
-    description: |
+**Annual Fund**
 
-      In class years and decades, the apostrophe should point to the left:
+**Annual Giving**; Office of Annual Giving
+
+**apostrophe** (used to indicate possessive; to show that something is missing as in part of a year: "the '60s"; or used for a contraction: "they're" for "they are.") Be especially careful when using the apostrophe with "it." Use of the apostrophe indicates a letter is missing: 
+
+`It's raining out.` (It is raining out—the "i" is missing.)
+
+With no apostrophe, the word indicates the possessive:
+
+`The house lost its roof.` see also possessives
 
       `’02, P’00, GP’89`
 
@@ -160,16 +181,18 @@ topics:
 
       How to make a left-facing apostrophe: This character is located in Microsoft Word’s “insert” menu > symbol > advanced symbol > special characters. Select the “single closing quote.” PC users, creating a shortcut is helpful if you use the character often.
 
-      Mac shortcut: `shift + option + right bracket key`
+Exception: Some fonts or Web programs cannot make a curly apostrophe or it is very difficult to achieve it so a dagger must be used in those instances.
+
+How to make a left-facing apostrophe: This character is located in Microsoft Word’s “insert” menu > symbol > advanced symbol > special characters. Select the “single closing quote.” PC users, creating a shortcut is helpful if you use the character often.
 
 
-  - title: Arabic School (Language Schools)
+**Arabic School** (Language Schools)
 
-  - title: archives
-    description: also college archives—one of four discrete collections in Special Collections
+**archives**, also College Archives—one of three discrete collections in Special Collections
 
-  - title: artist in residence
-    description: no hyphens
+**art work titles** see titles
+
+**articles in titles** see titles
 
   - title: Asian American
     description: no hyphen; avoid use of Oriental
@@ -177,7 +200,9 @@ topics:
   - title: awards
     description: |
 
-      `Nobel Prize in physics; Nobel Prize winners`
+**associations** (official names are capped) see capitalization
+
+**awards**
 
       `Pulitzer Prize in poetry`
 
@@ -189,5 +214,6 @@ topics:
 
       `Middlebury Magazine Short Story Prize`
 
-  - title: Axinn Center at Starr Library; Donald E. Axinn ’51, Litt. D. ’89 Center for Literary and Cultural Studies at Starr Library
----
+`Middlebury Magazine Short Story Prize`
+
+**Axinn Center at Starr Library**; Donald E. Axinn ’51, Litt. D. ’89 Center for Literary and Cultural Studies at Starr Library (See Named Buildings for guidelines on how to refer to this building)

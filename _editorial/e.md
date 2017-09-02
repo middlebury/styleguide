@@ -1,8 +1,9 @@
 ---
 title: e
+published: true
 ---
 
-**East, east** (cap when referring to geographic location; lowercase for compass direction)
+**East, east** (cap when referring to geographic location; lowercase for compass direction) see directions
 
 **Eastern Europe**
 
@@ -34,16 +35,14 @@ Note: When possible, do not use Word’s ellipsis symbol, which does not use equ
 
 Keep in mind that people have the tendency to “glaze over” when they open a long email. Be reader friendly: be brief, start sentences with capital letters, double space between paragraphs, and make paragraphs short. Reread what you have written to correct mistakes before sending!
 
+Note: ewords
 
-**ewords**
+email; ebook; ecommerce; eshopping (Although ewords are still hyphenated in Merriam-Webster, our style is to close them up and lowercase them. Most other words that combine an initial letter with a word begin with a capital letter and use a hyphen (T-shirt, U-turn, S-curve, X-ray).
 
-email; ebook; ecommerce; eshopping (**Note**: Although ewords are still hyphenated in Merriam-Webster, our style is to close them up and lowercase them. Most other words that combine an initial letter with a word begin with a capital letter and use a hyphen (T-shirt, U-turn, S-curve, X-ray).
+**emerita** (feminine singular); emeritus (masc. singular); emeritae (fem. pl.); emeriti (masc. plural or masc/fem plural) These always follow the noun. 
+`She is professor emerita of biology.` Cap before the name and as part of an endowed title: `Professor Emeritus Garrett Smith; Russell Leng, James Jermain Professor Emeritus of Political Economics`
 
-**emerita** (feminine singular); emeritus (masc. singular); emeritae (fem. pl.); emeriti (masc. plural or masc/fem plural) These always follow the noun. She is professor emerita of biology. Cap before the name and as part of an endowed title: Professor Emeritus Garrett Smith; Russell Leng, James Jermain Professor Emeritus of Political Economics
-
-**environmental studies**
-
-**Environmental Studies Program**, Program in Environmental Studies
+**Environmental Studies Program** (preferred); Program in Environmental Studies
 
 **eras**
 
@@ -70,9 +69,12 @@ Commas are not used in dates with fewer than five digits.
 3200 BC
 10,500 BC
 ```
+**etc.** (usually followed by a comma)
 
 **euro**
 
-**etc.** (usually followed by a comma)
+**event titles** see titles
+
+**ewords** see email
 
 **extracurricular**

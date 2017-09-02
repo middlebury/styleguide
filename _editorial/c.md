@@ -1,23 +1,26 @@
 ---
 title: c
+published: true
 ---
 
 **C** (when referring to a grade, no quotation marks); grades of C or Cs 
 
 **café**, also cafe
 
-**campuswide** (no hyphen with suffix –wide unless the word is capped: collegewide, statewide, worldwide but College-wide for undergraduate, Institute-wide for Monterey)
+**campuswide** (no hyphen with suffix –wide unless the word is capped: College-wide for undergraduate, Institute-wide for Monterey) see suffixes and -wide
 
-**capitalization** (Capitalize only formal or specific names. When in doubt, use lowercase, especially with a word’s meaning is generic.)
+**capitalization** (Capitalize only formal or specific names. When in doubt, use lowercase, especially when a word’s meaning is generic.)
 See **titles** for rules about professional and academic titles.
 
 Names, associations, conferences, and official policies:
 
 As a rule, official names are capitalized. Unofficial or shortened names are not. This applies to offices, buildings, and programs, as well as to committees and boards, symposia, conferences, course titles, forms, applications, and so on. For example, the Board of Trustees is shortened to the board. The Residential Life Committee becomes the committee. The Middlebury College Museum of Art—the museum; the Common Application for Admission—admission application; Language Schools—the schools.
 
-Exceptions: Exceptions may sometimes be made to avoid confusion or because the shortened, generic term has become a proper name in its own right:References to Middlebury’s undergraduate school, when shortened, are capped—College; Middlebury Institute of International Studies when shortened is the Institute.
+Exceptions: Exceptions may sometimes be made to avoid confusion or because the shortened, generic term has become a proper name in its own right: References to Middlebury’s undergraduate school, when shortened, are capped—College; Middlebury Institute of International Studies when shortened is the Institute.
 
 Names of departments are always capped: The Department of French; the French Department.
+
+Names of majors are not capped unless it is a proper name: biology, environmental studies, English and American literatures.
 
 Names of official policies, such as Institutional Diversity and Undergraduate Honor System, should be capitalized. However, when the concept is being discussed, use the lowercase. 
 `Middlebury College is strongly committed to promoting diversity on campus.` 
@@ -28,12 +31,6 @@ In running text, lowercase a *the* that precedes a name, even if it is part of t
 `The Underhill Foundation`
 
 `When you visit the Underhill Foundation, please check their address.`
-
-Grades:
-
-Capitalize the letters used for grades and grade names. Do not place quotation marks around grades.
-
-`A, B, C, D, F, Pass, Incomplete; Grade of B; Grades of B or Bs`
 
 Headlines: 
 
@@ -73,19 +70,21 @@ Headlines with hyphenated words: Cap both elements. The only exception is if the
 
 `Twenty-Fifth Street Headquarters`
 
-Headlines with a prefix: This is basically one word, not two, so the second element is not capped unless it is a proper noun or proper adjective.
+Headlines with a prefix and hyphen: This is basically one word, not two, so the second element is not capped unless it is a proper noun or proper adjective.
 
 `Anti-intellectual Attitudes on the Increase`
 
+`The Insensitive Chaos of Objects: Pier Paolo Pasolini, Paleo-aesthetics, and Arte Povera`
+
 `Non-Christian Organization Donates Books`
 
-Holidays:
+Holidays and Recurring Events:
 
-Capitalize holidays, ceremonies, and recurring observances:
+Capitalize holidays, ceremonies, and recurring observances and weekends:
 
-`Winter Carnival; Thanksgiving; Commencement; Baccalaureate; Convocation; Midyear Celebration`
+`Winter Carnival; Thanksgiving; Commencement; Baccalaureate; Convocation; Midyear Celebration; Fall Family Weekend; Homecoming; Reunion Weekend`
 
-Do not capitalize seasons and academic periods:
+Do not capitalize seasons, academic periods, or breaks:
 
 `winter term; fall admission; summer break`
 
@@ -105,7 +104,7 @@ Plurals with generic terms:
 
 When a generic term is part of a proper noun, it is capped: Proctor Dining Hall. When two names are used in conjunction, followed by the generic term, it is still capped: Proctor and Ross Dining Halls; Hudson and East Rivers; Bread Loaf and Worth Mountains. By capping the generic term, it is unambiguous that it is part of each proper noun.
 
-**Carroll and Jane Rikert Ski Touring Center**
+**Carroll and Jane Rikert Ski Touring Center**; Rikert Nordic Center
 
 **catalog**
 
@@ -131,9 +130,11 @@ When a generic term is part of a proper noun, it is capped: Proctor Dining Hall.
 
 **chair, chairperson**
 
-**change maker** (two words)
+**changemaker** (one word, the way it is used by Ashoka U)
 
 **Château**, the Château, le Château
+
+**Chinese Department** see Greenberg-Starr Department of Chinese; this department should not be called the Chinese Department
 
 **Chinese School** (Language Schools)
 
@@ -141,7 +142,7 @@ When a generic term is part of a proper noun, it is capped: Proctor Dining Hall.
 
 **class, Class of 2013** (cap for specific classes)
 
-**class years and degrees**
+**class years** see also degree abbreviations
 
 In Middlebury publications, always mention the alum’s class year in the first reference.
 
@@ -177,102 +178,13 @@ Try to avoid using the .5 designation because it is very difficult to verify in 
 
 Exception: On those rare occasions when individuals insist on the .5 designation and supply the information themselves: `Marcia Long ’10.5`
 
-Graduate schools and advanced degrees:
+For combinations of names, class years, and degrees, see degree abbreviations.
 
-```
-Betty Smith, MA French ’90
-Thomas Horn, MA English ’02
-Harry Jenkins, MLitt English ’77
-Clint Underwood, MA Spanish ’55
-```
+**co- words** (close most co- words) coauthor, cocurricular, coexistence, cohead; see prefixes
 
-Exception: If a degree is being listed in a publication solely aimed at the audience of one particular school, like Bread Loaf, only put the MA with no comma.
+**co-chair** (exception to the rule)
 
-```
-Thomas Horn MA’02
-```
-
-Institute alumni:
-
-```
-Betty Smith BAIS ’10
-Peter Lang MAIPS ’12
-Lucinda Lander MATESOL ’12
-John Jones MBA ’08
-```
-
-Honorary degrees:
-
-```
-Mark Thane, Hon DArt ’10
-James Caldwell, Hon DHL ’01
-Suzanne Proctor, Hon DLitt ’96
-```
-
-Combinations of names and degrees:
-Rule of thumb: Place spaces and commas between each of the elements. Use maiden names for married alumnae.
-
-Parents and grandparents:
-```
-Jennifer Jenkins P’05
-Beulah Rockford P’77, ’80, GP’09
-```
-
-Combinations of degrees:
-
-Sequence: undergraduate, graduate, honorary
-```
-Lucille Hentz Taft ’82, MA French ’85
-Sylvester Sinclair ’10, MAIPS ’13
-Clark Simpson ’47, MLitt English ’61, Hon DArt ’92
-```
-
-Combinations of degrees and relationships:
-
-Sequence: undergraduate, graduate, honorary, parent, grandparent
-
-```
-Jennifer Lee ’85, MA Russian ’94, P’14
-Frederick Favre ’51, MA Italian ’60, P’80, ’81, GP’10
-Lucy Pope Lyons ’63, MA French ’65, Hon DHL ’72, P’89, GP’17
-```
-
-Combinations of people:
-
-Rule of thumb: The alum is always listed first; if both people are alums, the man is listed first so woman’s maiden name can be included; otherwise the woman is listed first if neither person is an alum and the maiden name is not needed.
-
-```
-Susan James Johnston ’98 and Paul Johnston
-Eric ’69 and Louise Ames Hollander ’71
-Henry Lappman ’90 and Nicole Sweet ’91
-Mary and Joseph Clark
-Norma Sampson and William Larch
-```
-
-Note: If both people are the parents of the student, the parent designation goes after the second name, preceded by a comma. If only one person is the parent, that person is listed first regardless of whether it is the man or the woman.
-
-```
-Cindy and James Clough, P’10
-Helen Peterson P’09 and John Henderson
-Lars Olsen P’17 and Cynthia Olsen
-```
-
-Note: Depending on the formality of the publication, names can be shortened or spelled out and middle initials can be added for more formal pieces.
-
-On name tags:
-
-For the small area on name tags, it’s fine to amend these rules to fit the space. For example, Jeremiah Long P’80, ’90, GP’07 could be changed to `Jeremiah Long P’80’90G’07`.
-
-On invitations/talks/programs:
-
-Any of the designations above may be used on invitations. The class year and degree may be spelled out for more formal treatments.
-
-
-**co words** (close most co words) coauthor, cocurricular, coexistence, cohead
-
-**co-chair**
-
-**collective nouns**
+**collective nouns** see also mass nouns
 
 Collective nouns related to quantity (percentage and fractions—_thirty percent, one-fourth, half_) take a singular verb when preceded by *the*. Otherwise, the verb agrees with the number of the noun in the prepositional phrase that follows it:
 
@@ -282,7 +194,7 @@ But:
 
 `Fortunately, four fifths of the employees have stocks to cash in.` (plural noun in prepositional phrase)
 
-`Unfortunately, four fifths of last year’s harvest was lost.` (singular noun in prep phrase)
+`Unfortunately, four fifths of last year’s harvest was lost.` (singular noun in prepositional phrase)
 
 
 “Number of” as a collective noun:
@@ -307,15 +219,17 @@ One of those who:
 
 `One of those men who fix cars will work on your new project.`
 
-**College** (when referring to Middlebury’s undergraduate school only)
+**College** (capped when referring to Middlebury’s undergraduate school only)
 
 **College Advancement** (See Office of Advancement)
 
-**college archives**, or archives—one of four discrete collections in Special Collections
+**College Archives**, or archives—one of three discrete collections in Special Collections
 
-**College breaks** (see **breaks**)
+**College Bookstore**; Middlebury College Bookstore; the bookstore
 
-**College-wide** (when –wide is added to capped words, use the hyphen)
+**College breaks** (see breaks)
+
+**College-wide** (when –wide is added to capped words, use the hyphen) see suffixes
 
 **colon**
 
@@ -411,13 +325,14 @@ Series:
 Use comma to separate each item in a series, including the last item:
 
 `He brought bread, potatoes, green beans, and butterscotch.`
+`I want to ifs, ands, or buts.`
 
 However, do not use a comma if “and” is replaced by an ampersand:
 
 `He teaches biology, chemistry & law.` (Avoid this use of ampersand if possible.)
 
 
-**Commencement**
+**Commencement** Commencement day, Commencement ceremony, but Commencement Weekend; see holidays and recurring events in capitalization
 
 **commonly confused words, a few** (more problematic words may be found in _Chicago
 Manual of Style_, pages 262–300)
@@ -440,7 +355,13 @@ Manual of Style_, pages 262–300)
 
 **Commons**; Ross Commons; the Commons; Commons system
 
-**Commons dean**
+Atwater Commons; 
+Brainerd Commons; 
+Cook Commons; 
+Ross Commons; 
+Wonnacott Commons
+
+**Commons team**: (not capped) Commons head, Commons dean, Commons coordinator, Commons residential director (CRD), first-year counselor (FYC), resident assistant (RA), community assistant (CA)
 
 **compound nouns and adjectives**
 
@@ -456,9 +377,11 @@ Two words used as one expression may be written as one word, as a hyphenated wor
 
 To hyphenate or not to hyphenate is often a question for writers and editors. Use hyphens to increase readability. For example, the hyphen in much-needed clothing shows that the clothing is greatly needed rather than abundant and needed. Where no ambiguity could result, hyphenation is not needed.
 
-`High school student; experiential learning opportunities; winter term courses`
+`High school student; experiential learning opportunities; winter term courses; study abroad opportunity`
 
-When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384.
+When in doubt about whether to hyphenate, check the dictionary. Also, see the _Chicago Manual of Style_ hyphenation guide, pages 375–384. See also hyphens
+
+**conferences** (official names are capped) see capitalization
 
 **conjunctions**
 
@@ -468,7 +391,11 @@ Conjunctions such as _and, or, but_, and _nor_ may be used to begin a sentence. 
 
 **cooperative**
 
+**course titles** see titles
+
 **course work**
+
+**creative work titles** see titles
 
 **cross-country skiing; cross-country running**
 
@@ -478,6 +405,6 @@ Conjunctions such as _and, or, but_, and _nor_ may be used to begin a sentence. 
 
 Some are lowercased; some are capitalized. Refer to _Chicago Manual of Style_ or the dictionary.
 
-romantic period; nuclear age; classical period; Victorian era; colonial period; Roaring Twenties; Ice Age; Middle Ages; Renaissance
+`romantic period; nuclear age; classical period; Victorian era; colonial period; Roaring Twenties; Ice Age; Middle Ages; Renaissance`
 
 **curriculum vitae, CV**; curricula vitae, CVs (plural); informal usage: vita, vitae (pl.)

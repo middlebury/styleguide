@@ -1,29 +1,27 @@
 ---
 title: f
+published: true
 ---
 
 **F** (when referring to a grade, no quotation marks); grades of F or Fs
 
-**faculty cohead**
-**faculty head**
-**faculty singular and plural:** faculty is, faculty are, faculty members (all okay; depends on context) 
+**faculty singular and plural:** faculty is, faculty are, faculty members (all okay; depends on context) see mass nouns
+
 `Middlebury’s faculty is recognized nationally for excellence in teaching.` 
 `Chemistry faculty are meeting with their students over the weekend.` 
 `Twenty faculty members are working to solve the problem.`
 
 **F (Fahrenheit)** 45 degrees F (no period used within a sentence); 45ºF (no spaces)
 
-**Fall Family Weekend**
+**Fall Family Weekend** see Holidays and Recurring Events in capitalization
 
-**fall**; fall semester; fall semester courses; fall 2016
-
-**fax**
+**fall**; fall semester; fall semester courses; fall 2016; see seasons
 
 **Feb** (name of a student who matriculates and graduates in February)
 
-**Feb Celebration** (graduation celebration for Febs)
+**Feb Celebration** (graduation celebration for Febs); also called Midyear Celebration
 
-**fellow**; Watson Fellow 
+**fellow** (lowercase when it stands alone, cap with proper name); Davis Fellow; Fulbright Fellow;  Watson Fellow; see capitalization
 
 **filmmaker**
 
@@ -33,13 +31,13 @@ title: f
 
 **firsthand**
 
-**first-year seminar** (capitalize when title of a course)
+**first-year counselor (FYC)** (part of Commons team)
+
+**first-year seminar**
 
 **first-years**; first-year students (avoid freshman)
 
 **fiscal year 2015** (FY 2015, FY15)
-
-**Flanders Ballard Collection**—one of four discrete collections in Special Collections
 
 **foreign expressions**
 
@@ -47,17 +45,19 @@ Italicize unfamiliar expressions that have not become part of the English langua
 
 Some words no longer need to be italicized: `à la carte, à la mode, ad hoc, bona fide, carte blanche, per se, a cappella, vis-à-vis, magna cum laude`
 
-**Franklin Environmental Center at Hillcrest**; Janet Halstead Franklin ’72 and Churchill G. Franklin ’71 Environmental Center at Hillcrest
+**Franklin Environmental Center at Hillcrest**; Janet Halstead Franklin ’72 and Churchill G. Franklin ’71 Environmental Center at Hillcrest (See Named Buildings for guidelines on how to refer to this building)
+
+**French School**; see Betty Ashbury Jones MA ’86 School of French or Language Schools; this school should never be called the French School
 
 **freshman** (use first-year instead)
 
-**Fulbright Fellow**; fellow
+**Fulbright Fellow**; fellow (lowercase when standing alone)
 
 **Fulbright Fellowship**
 
-**Fulbright Scholar**; scholar
+**Fulbright Scholar**; scholar (lowercase when standing alone)
 
-**full time** (noun); full-time (adjective, adverb)
+**full time** (noun); full-time (adjective, adverb) see compound nouns and adjectives
 
 `That new position is full time. `
 
