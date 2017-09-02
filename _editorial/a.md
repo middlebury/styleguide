@@ -7,7 +7,7 @@ published: true
 
 **a cappella** (preferred spelling)
 
-      `PhD, BA, AB, MA, MLitt, MD, NATO, AIDS, CEO`
+**abbreviations/acronyms**
 
 General use guidelines:
 
@@ -21,13 +21,9 @@ Some common abbreviations:
 
 `PhD, BA, MA, MLitt, MD, NATO, AIDS, CEO`
 
-      `AM, PM; or a.m., p.m.` (use small caps for a more formal and easier-to-read look)
+`e.g., i.e., etc.`
 
-      Periods with abbreviations:
-      - Use periods with abbreviations ending in lowercase letters: Dr., Ms., etc.
-      - Use periods with initials standing for a person’s name: J. R. Tolkien. Do not use periods with initials that replace the full name: JFK.
-      - No periods are used with abbreviations comprised of full capitals, even if lowercase letters appear within the abbreviation: PhD, MD, CEO
-      - In running text, use periods with traditional state abbreviations and the United States (U.S.) (see States)
+`a.k.a.` (for “also known as”)
 
 `AM, PM; or a.m., p.m.` (use small caps when a more formal and easier-to-read look is needed; always use a.m. and p.m. in running text)
 
@@ -39,26 +35,25 @@ Periods with abbreviations:
 - No periods are used with abbreviations comprised of full capitals, even if lowercase letters appear within the abbreviation: PhD, MD, CEO
 - In running text, spell out state names but in less formal writing periods can be used with traditional state abbreviations and the United States (U.S.); see states
 
-      Over time, some longer initialisms become lowercased (radar). Refer to Webster’s when in doubt.
+Capitals vs. lowercase:
 
-      Abbreviations, plural:
+Initialisms used as nouns tend to be capped: HIV, UFO, FAQ
 
-      Abbreviations without periods take s, no apostrophe. Apostrophes may be used if misreading is a possibility.
+Over time, some longer initialisms become lowercased (radar). Refer to Webster’s when in doubt.
 
-      `BA, BAs; PhD, PhDs; URL, URLs`
+Abbreviations, plural:
 
 Abbreviations without periods take _s_, no apostrophe. Apostrophes may be used if misreading is a possibility.
 
-      `ed., eds.; yr., yrs.; Dr., Drs.`
+`BA, BAs; PhD, PhDs; URL, URLs`
 
 Abbreviations with one period usually add the _s_ before the period:
 
-      `p.p.’s; the d.t.’s`
+`ed., eds.; yr., yrs.; Dr., Drs.`
 
 Abbreviations with more than one period use apostrophe _s_:
 
-  - title: academic course
-    description: capped and roman, no quotation marks
+`p.p.’s; the d.t.’s`
 
 **Abernethy Collection of American Literature**—one of three discrete collections in Special Collections
 
@@ -68,35 +63,28 @@ Abbreviations with more than one period use apostrophe _s_:
 
 **academic titles** see titles
 
-      Foreign words that have been incorporated into English often retain their original accents. Check the dictionary when in doubt—use first spelling.
+**Academy Award winner**; Academy Award-winning producer
 
-      `vis-à-vis; déjà vu`
+**accent marks**
 
-  - title: ACT
-    description: (American College Test)
+Foreign words that have been incorporated into English often retain their original accents. Check the dictionary when in doubt—use first spelling.
 
-  - title: addresses
-    description: |
+`vis-à-vis; déjà vu`
 
 **acronyms** see abbreviations
 
 **ACT** (American College Test)
 
-      ```
-      Joe Smith
-      Box 1234
-      Middlebury College
-      Middlebury, VT 05753
-      ```
+**addresses**
 
-      ```
-      Jane Jones
-      Dining Services, McCullough
-      Middlebury College
-      Middlebury, VT 05753
-      ```
+Middlebury addresses should spell out the name of the building and the name of the department, or use the box number:
 
-      When listing a classroom or office, the name of the building comes first, followed by the room number.
+```
+Joe Smith
+Box 1234
+Middlebury College
+Middlebury, VT 05753
+```
 
 ```
 Jane Jones
@@ -114,34 +102,31 @@ When listing a classroom or office, the name of the building comes first, follow
 
 `This is a half-time position.` `That's an open-ended question.`
 
-  - title: advisor
-    description: not adviser
+**Admissions Office**
 
-  - title: African American (no hyphen)
+**advisor**, not adviser
 
 **African American** (no hyphen even when it comes before a noun)
 
-  - title: All-American
+**a.k.a** (for "also known as")
 
 **All-American** (hyphen)
 
-  - title: alpine skiing
+**alma mater** (lowercase when referring to where one graduated from; cap when referring to college song)
 
-  - title: Alumni College
+**alpine skiing**
 
 **alumni** (alumnus—male; alumna—female; alumni—all male or both sexes; alumnae—all female; or graduate—gender neutral) see also class years and degree abbreviations
 
 **Alumni College** 
 
-  - title: Alumni Golf Tournament
-    description: held in honor of Gordon C. Perine ’49
+**Alumni Fund**
 
-  - title: Alumni Leadership Conference (ALC)
+**Alumni Golf Tournament** (held in honor of Gordon C. Perine ’49)
 
-  - title: Alumni Office
+**Alumni Leadership Conference** (ALC)
 
-  - title: alumni
-    description: alumnus—male, alumna—female, alumni—all male or both sexes, alumnae—all female, or graduate—gender neutral
+**Alumni Office**
 
 **alum(s)** (informal for alumnus/a/i/ae)
 
@@ -163,28 +148,29 @@ With no apostrophe, the word indicates the possessive:
 
 `The house lost its roof.` see also possessives
 
-      `’02, P’00, GP’89`
+In class years and decades, the apostrophe should point to the left:
 
-      `’80s, ’20s`
+`’02, P’00, GP’89`
 
-      There is no apostrophe in a range of dates:
+`’80s, ’20s`
 
-      `1985–89`
+There is no apostrophe in a range of dates:
 
-      Note: According to *Chicago Manual of Style* Online Q&A: “In word-processed documents, when apostrophes are preceded by a space (as opposed to those in the middle of a word, like it’s), the software thinks the writer wants an opening quotation mark and supplies one. When documents aren’t proofread carefully, these marks appear in place of apostrophes.”
+`1985–89`
 
-      Avoid using “daggers”: A dagger is a straight, pointed character that can be used as a reference mark:
+Note: According to *Chicago Manual of Style* Online Q&A: “In word-processed documents, when apostrophes are preceded by a space (as opposed to those in the middle of a word, like it’s), the software thinks the writer wants an opening quotation mark and supplies one. When documents aren’t proofread carefully, these marks appear in place of apostrophes.”
 
-      Not OK:  `'80`
+Avoid using “daggers”: A dagger is a straight, pointed character that can be used as a reference mark:
 
-      OK: `’80`
+Not OK:  `'80`
 
-      How to make a left-facing apostrophe: This character is located in Microsoft Word’s “insert” menu > symbol > advanced symbol > special characters. Select the “single closing quote.” PC users, creating a shortcut is helpful if you use the character often.
+OK: `’80`
 
 Exception: Some fonts or Web programs cannot make a curly apostrophe or it is very difficult to achieve it so a dagger must be used in those instances.
 
 How to make a left-facing apostrophe: This character is located in Microsoft Word’s “insert” menu > symbol > advanced symbol > special characters. Select the “single closing quote.” PC users, creating a shortcut is helpful if you use the character often.
 
+Mac shortcut: `shift + option + right bracket key`
 
 **Arabic School** (Language Schools)
 
@@ -194,25 +180,23 @@ How to make a left-facing apostrophe: This character is located in Microsoft Wor
 
 **articles in titles** see titles
 
-  - title: Asian American
-    description: no hyphen; avoid use of Oriental
+**artist in residence** (no hyphens)
 
-  - title: awards
-    description: |
+**Asian American** (no hyphen; avoid use of Oriental)
 
 **associations** (official names are capped) see capitalization
 
 **awards**
 
-      `Pulitzer Prize in poetry`
+`Nobel Prize in physics; Nobel Prize winners`
 
-      `Watson Fellow; fellow`
+`Pulitzer Prize in poetry`
 
-      `Fulbright Scholar; scholar; Fulbright grant`
+`Watson Fellow; fellow`
 
-      Award names that contain periodical titles: the periodical is not italicized
+`Fulbright Scholar; scholar; Fulbright grant`
 
-      `Middlebury Magazine Short Story Prize`
+Award names that contain periodical titles: the periodical is not italicized
 
 `Middlebury Magazine Short Story Prize`
 
