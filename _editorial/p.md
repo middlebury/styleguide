@@ -3,7 +3,7 @@ title: p
 published: true
 ---
 
-**P’00** (parent of student in Class of 2000; no space between P and apostrophe) see class years
+**P’00** (parent of student in Class of 2000; no space between P and apostrophe); Sandy Smith P'00, '03, '06 (more than one student); see degree abbreviations
 
 **parents** 
 In text with an audience of students or prospective students, try to use "families" instead of "parents," as some students live with other family members or guardians.
