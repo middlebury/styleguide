@@ -85,6 +85,8 @@ Scholastic grades are capped and set in roman type.
 
 **literary studies**; Program in Literary Studies
 
+**live stream; live streaming**
+
 **-long**; words combined with -long are closed (daylong, monthlong, weeklong, yearlong, lifelong) see suffixes
 
 **long-standing**
