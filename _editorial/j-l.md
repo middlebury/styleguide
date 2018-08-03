@@ -37,7 +37,9 @@ It is no longer required to use commas before and after these elements, as they 
 
 **Language Pledge** (capped and trademarked); the pledge (lowercase when standing alone after a first reference to the Language Pledge)
 
-**Language Schools** (capped and plural in reference to the set of schools); Language School (capped and singular in reference to one person’s experience or one school)
+**Language Schools** (capped and plural in reference to the set of schools); Language School (capped and singular in reference to one person’s experience or one school); when used as a descriptor, always use Language Schools
+
+`We welcome the Language Schools students.`
 
 Specific Language School Names (See Named Schools, Departments, and Programs for guidelines on how to refer to specific named schools)
 
@@ -61,7 +63,7 @@ Portuguese School
 
 Kathryn Wasserman Davis School of Russian
 
-Spanish School
+School of Spanish
 
 **Letters written**
 
