@@ -87,6 +87,8 @@ Some “for sake” expressions: for goodness’ sake; *but* for appearance’s 
 
 **Program in Environmental Studies**; Environmental Studies Program (preferred)
 
+**PS** (proper way to write the acronym for postscript)
+
 **Public Safety**; Department of Public Safety
 
 **Pulitzer Prize winner**; Pulitzer Prize–winning author
