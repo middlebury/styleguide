@@ -9,6 +9,8 @@ published: true
 
 **School of Japanese** (Language Schools)
 
+**School of Spanish** (Language Schools)
+
 **schoolwide**; see suffixes
 
 **seasons/semesters** see capitalization
@@ -63,7 +65,7 @@ There are no spaces or periods with initials that serve as proper names, such as
 
 Always single space between sentences. (Using double spaces is a holdover from the days of typewriters.)
 
-**Spanish School** (Language Schools)
+**Spanish School**; see School of Spanish or Language Schools; this school should not be called the Spanish School
 
 **Special Collections**
 

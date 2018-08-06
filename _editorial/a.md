@@ -19,7 +19,7 @@ Some common abbreviations:
 
 `U.S., USA, D.C., L.A.`
 
-`PhD, BA, MA, MLitt, MD, NATO, AIDS, CEO`
+`PhD, BA, MA, MLitt, MD, NATO, AIDS, CEO, PS`
 
 `e.g., i.e., etc.`
 
