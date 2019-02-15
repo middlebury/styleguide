@@ -45,6 +45,8 @@ Italicize unfamiliar expressions that have not become part of the English langua
 
 Some words no longer need to be italicized: `à la carte, à la mode, ad hoc, bona fide, carte blanche, per se, a cappella, vis-à-vis, magna cum laude`
 
+**fossil fuel investments** (no hyphen when used as an adjectival phrase)
+
 **Franklin Environmental Center at Hillcrest**; Janet Halstead Franklin ’72 and Churchill G. Franklin ’71 Environmental Center at Hillcrest (See Named Buildings for guidelines on how to refer to this building)
 
 **French School**; see Betty Ashbury Jones MA ’86 School of French or Language Schools; this school should never be called the French School
