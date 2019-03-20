@@ -15,8 +15,6 @@ Davis Family Library, first reference; Davis Library, subsequent references
 
 Franklin Family Environmental Center at Hillcrest, first reference; Franklin Center at Hillcrest, subsequent references
 
-Mahaney Center for the Arts, first reference; Mahaney Center, subsequent references (not Center for the Arts)
-
 McCardell Bicentennial Hall, first reference; Bicentennial Hall or Bi Hall, subsequent references
 
 Wilson Café, Wilson Hall

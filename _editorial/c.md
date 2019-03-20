@@ -408,3 +408,5 @@ Some are lowercased; some are capitalized. Refer to _Chicago Manual of Style_ or
 `romantic period; nuclear age; classical period; Victorian era; colonial period; Roaring Twenties; Ice Age; Middle Ages; Renaissance`
 
 **curriculum vitae, CV**; curricula vitae, CVs (plural); informal usage: vita, vitae (pl.)
+
+**cybersecurity** (one word)

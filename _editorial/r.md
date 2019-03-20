@@ -23,7 +23,7 @@ published: true
 
 **resident assistant** (RA); part of the Commons team
 
-**Reunion**; (cap when talking about the recurring event) 25th reunion; Reunion Weekend; Reunion 2011; reunion parade; 5th reunion (not fifth reunion) (Note: Do not hyphenate when used as an adjective: 50th reunion yearbook) see capitalization and numbers
+**Reunion**; (cap when talking about the recurring event at Middlebury) 25th Reunion; Reunion Weekend; Reunion 2011; reunion parade; 5th Reunion (not fifth Reunion) (Note: Do not hyphenate when used as an adjective: 50th Reunion yearbook) see capitalization and numbers
 
 **Rikert Nordic Center**; Carroll and Jane Rikert Nordic Center
 

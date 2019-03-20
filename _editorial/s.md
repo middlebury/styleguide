@@ -47,6 +47,8 @@ When incomplete sentences are used as captions, pull quotes, and subheads, a per
 
 **signs** (how to treat text) see titles
 
+**ski-down** (noun) the traditional ceremony at the Snow Bowl held during Feb Celebration (verb is written without a hyphen: ski down)
+
 **Snow Bowl**; Middlebury College Snow Bowl
 
 **social houses**
