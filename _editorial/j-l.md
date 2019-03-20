@@ -29,7 +29,7 @@ It is no longer required to use commas before and after these elements, as they 
 
 **Kenyon Arena**; Chip Kenyon ’85 Arena
 
-**Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Center for the Arts; Mahaney Center (MCA) 
+**Kevin P. Mahaney ’84 Center for the Arts**; Mahaney Arts Center; MAC 
 
 **Kirk Center** (formerly known as Kirk Alumni Center)
 
