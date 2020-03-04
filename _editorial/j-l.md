@@ -9,7 +9,7 @@ published: true
 
 **Japanese School**; see School of Japanese or Language Schools; this school should not be called the Japanese School
 
-**John M. McCardell Jr. Bicentennial Hall**; McCardell Bicentennial Hall; BiHall
+**John M. McCardell Jr. Bicentennial Hall**; McCardell Bicentennial Hall; Bi Hall
 
 **Jr., Sr., III**
 
