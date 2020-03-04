@@ -21,7 +21,7 @@ For Middlebury references on how to write degrees, see degree abbreviations and 
 
 **-mate**; words combined with -mate are closed (bandmate, classmate, hallmate, roommate) see suffixes
 
-**McCardell Bicentennial Hall**; John M. McCardell Jr. Bicentennial Hall; BiHall (See Named Buildings for guidelines on how to refer to this building)
+**McCardell Bicentennial Hall**; John M. McCardell Jr. Bicentennial Hall; Bi Hall (See Named Buildings for guidelines on how to refer to this building)
 
 **McCullough Student Center**; McCullough
 
