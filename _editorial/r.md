@@ -7,7 +7,7 @@ published: true
 
 **Ralph Myhre Golf Course**; golf course
 
-**Rare Books and Manuscripts** (RBMS)—one of three discrete collections in Special Collections 
+**Rare Books and Manuscripts** (RBMS)—one of three discrete collections in Special Collections
 
 **real-life situation** (adj.); Nothing like that is found in real life (noun); see compound nouns and adjectives
 
@@ -22,6 +22,8 @@ published: true
 **residence hall** (preferred instead of dorm)
 
 **resident assistant** (RA); part of the Commons team
+
+**résumé**
 
 **Reunion**; (cap when talking about the recurring event at Middlebury) 25th Reunion; Reunion Weekend; Reunion 2011; reunion parade; 5th Reunion (not fifth Reunion) (Note: Do not hyphenate when used as an adjective: 50th Reunion yearbook) see capitalization and numbers
 
